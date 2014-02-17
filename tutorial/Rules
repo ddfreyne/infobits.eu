@@ -25,7 +25,12 @@ compile '*' do
   if item.binary?
     # don’t filter binary items
   else
-    filter :erb
+    case @item[:extension]
+    when 'adoc'
+      filter :asciidoctor
+    else
+      filter :erb
+    end
     layout 'default'
   end
 end

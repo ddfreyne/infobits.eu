@@ -5,7 +5,7 @@ deploy:
 
 prune:
   auto_prune: true
-  
+
 data_sources:
   -
     type: filesystem_unified
@@ -13,3 +13,6 @@ data_sources:
     type: static
     prefix: content_verbatim
     items_root: /verbatim
+
+text_extensions: ['css', 'html', 'adoc', 'txt']
+

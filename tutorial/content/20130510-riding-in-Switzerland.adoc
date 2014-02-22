@@ -1,0 +1,22 @@
+= 20130510 riding in Switzerland
+
+the orange one
+v2.0
+
+Author: _{author}_
+
+I’m visiting Zürich, Switzerland for a couple weeks. Of course I couldn’t leave
+the bike at home, so I packed up The Orange One and put it on the plane.
+
+My first ride was a nice solo roll around Zürichsee, then up around Üetliberg.
+I got lost a couple times, but thankfully I had my phone and a pre-downloaded
+map using a route I found on Strava and
+http://maps.coderminus.com[http://maps.coderminus.com] on my phone.
+
+[subs="quotes"]
++++++++++++++++
+<iframe frameborder="0" height="405" scrolling="no" src="http://app.strava.com/activities/52467142/embed/6e83faca65af6ac35fccd3e0622ceeccf11080d4" width="590"></iframe>
++++++++++++++++
+
+'''
+Last updated: {docdatetime}

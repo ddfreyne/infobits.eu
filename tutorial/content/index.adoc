@@ -1,0 +1,3 @@
+= Home
+
+As of {docdate}, this is site is under construction.

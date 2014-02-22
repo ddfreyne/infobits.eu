@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New nanoc Site - <%= @item[:title] %></title>
+    <title>infobits.eu - <%= @item[:title] %></title>
     <link rel="stylesheet" href="/style.css">
     <link href='http://fonts.googleapis.com/css?family=Gudea:400,700,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
@@ -14,17 +14,13 @@
       <%= yield %>
     </div>
     <div id="sidebar">
-      <h2>Documentation</h2>
+      <h2><a href="/">infobits.eu</a></h2> <!-- / is the root directory, which is useful is you are reading this site offline -->
+      <!--
       <ul>
-        <li><a href="http://nanoc.ws/docs/">Documentation</a></li>
-        <li><a href="http://nanoc.ws/docs/tutorial/">Getting Started</a></li>
+        <li><a href="http://infobits.eu/content">Archive</a></li>
+        <li><a href="http://infobits.eu">Archive</a></li>
       </ul>
-      <h2>Community</h2>
-      <ul>
-        <li><a href="http://groups.google.com/group/nanoc/">Discussion Group</a></li>
-        <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
-        <li><a href="http://github.com/nanoc/nanoc/wiki/">Wiki</a></li>
-      </ul>
+      -->
     </div>
   </body>
 </html>

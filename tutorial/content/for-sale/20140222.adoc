@@ -1,0 +1,22 @@
+= 20140222
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+These kettlebells from http://russiankettlebell.com[Russiankettlebell.com] were
+used outside by an instructor who coached outside under a sunny blue sky. Are
+you an instructor who needs a bell or two that you do not mind beating on in a
+park in Berlin?
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12692758894/" title="kettlebells-20-24kg by Open Source Grrrl, on Flickr"><img src="https://farm8.staticflickr.com/7417/12692758894_ca158300a8_z.jpg" width="640" height="423" alt="kettlebells-20-24kg"></a>
++++++++++++++++
+
+- http://www.strongfirst.com/product/strongfirst-kettlebell-24kg[24kg kettlebell] - 45 €
+- http://www.strongfirst.com/product/strongfirst-kettlebell-20kg[20kg kettlebell] - 40 €
+
+Come and pick it/them up; shipping is not available.
+
+'''
+Last updated: {docdatetime}

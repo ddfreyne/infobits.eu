@@ -1,0 +1,31 @@
+= 20140223 Friedrichshain to Müggelsee
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+I planned http://www.strava.com/routes/182746[a route on Strava] for the first
+time. In actuality, my ride was approximately 52 km from
+http://www.strava.com/activities/115433419[Friedrichshain to Müggelsee
+and back].
+
+Having lived in Berlin since May 2013, I still have much to explore.
+Today's adventure gave me a chance to get lost and find my way again several
+times without being pressured by time.
+
+Near the start of the ride, I noticed a cloud of water vapor from a
+https://plus.google.com/116823604913091324301/about?hl=de[Vattenfall plant]:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12723745775/" title="friedrichshain-müggelsee by Open Source Grrrl, on Flickr"><img src="https://farm4.staticflickr.com/3807/12723745775_73e39847bf_z.jpg" width="480" height="640" alt="friedrichshain-müggelsee"></a>
++++++++++++++++
+
+Later on, I was warned of frogs:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12724533144/" title="frogs-200m by Open Source Grrrl, on Flickr"><img src="https://farm3.staticflickr.com/2856/12724533144_dc47ebaff7_z.jpg" width="480" height="640" alt="frogs-200m"></a>
++++++++++++++++
+
+'''
+Last updated: {docdatetime}

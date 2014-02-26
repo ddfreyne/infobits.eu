@@ -1,0 +1,10 @@
+= About infobits
+
+`infobits` is a playground of information about foreign languages, technical
+documentation, and cycling.
+
+It is built using http://nanoc.ws[nanoc], which is a static-site generator that
+was developed by Denis Defreyne and which is actively maintained.
+
+'''
+Last updated: {docdatetime}

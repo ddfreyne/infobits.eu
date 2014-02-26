@@ -22,6 +22,18 @@ a:hover {
   color: #f90;
 }
 
+code {
+  font-family: monospace;
+  color: #f26522;
+}
+
+pre {
+  background-color: #ffffee; /* 80% lighter than code color */
+  border: 1px;
+  border-style: solid;
+  border-color: #ccc;
+}
+
 #main {
   position: absolute;
   top: 40px;
@@ -53,6 +65,10 @@ a:hover {
 
 #main ul li {
   list-style-type: square;
+}
+
+#main li p {
+  margin: 4px 0px 0px 0px;
 }
 
 #sidebar {

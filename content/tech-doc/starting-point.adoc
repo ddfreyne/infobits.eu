@@ -1,0 +1,40 @@
+= Starting point
+
+Author: _{author}_
+
+When starting to write something from scratch, several questions
+are useful for getting information out of your head:
+
+* What is the **primary purpose**? For example, to introduce hiring managers to
+  hiring criteria that allows them to assess and hire candidates consistently
+  in the interest of the company.
+  
+* Who is the **audience**? For example, hiring managers and HR representatives.
+  Who else?
+
+* What is the **scope**? For example, this documentation covers overview
+  information about [...] This documentation does not cover the installation
+  instructions of third-party applications upon which this software depends.
+
+* How is the document **organized**? [Do a braindump and see what shape the
+  content takes.]
+
+* Who will **write**? For example, the Director of Engineering will do a
+  braindump. Next, the technical writer will shape the piece by asking
+  questions that uncover assumptions and eliminate logic gaps.
+
+* What is the **context**, physical or otherwise? For example, for security
+  reasons, the reader might not have access to the internet and needs a PDF
+  file.
+
+* What is the **delivery medium**? For example, it is an HTML file.
+
+* What is the **delivery means**? For example, it will only be internally
+  accessible.
+
+* What is the schedule of **revisions**? For example, the hiring
+  criteria will be re-evaluated and the documentation revised on a six-month
+  cycle.
+
+'''
+Last updated: {docdatetime}

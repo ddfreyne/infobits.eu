@@ -1,0 +1,105 @@
+= Markdown README template
+
+Author: _{author}_
+
+Create a file named +README.md+ and copy the following Markdown into it as a
+starting point:
+
+...............................................................................
+# _project-name_
+
+[![Gem Version](https://badge.fury.io/rb/twitter.png)][gem]
+[![Build Status](https://secure.travis-ci.org/sferik/twitter.png?branch=master)][travis]
+[![Dependency Status](https://gemnasium.com/sferik/twitter.png?travis)][gemnasium]
+[![Code Climate](https://codeclimate.com/github/sferik/twitter.png)][codeclimate]
+[![Coverage](https://coveralls.io/repos/sferik/twitter/badge.png?branch=master)][coveralls]
+[![Click here to make a donation](http://www.pledgie.com/campaigns/18388.png)][pledgie]
+
+[gem]: https://rubygems.org/gems/twitter
+[travis]: http://travis-ci.org/sferik/twitter
+[gemnasium]: https://gemnasium.com/sferik/twitter
+[codeclimate]: https://codeclimate.com/github/sferik/twitter
+[coveralls]: https://coveralls.io/r/sferik/twitter
+[pledgie]: http://pledgie.com/campaigns/18388
+
+_project-name_ is a ...
+
+## Dependencies
+
+_project-name_ depends on the following software:
+
+* _project-name_ _version_
+* _project-name_ _version_
+* _project-name_ _version_
+
+## Documentation
+In addition to the `README` (this file), there is a
+[directory of additional documentation](/doc):
+
+* The [Getting started](doc/GETTING_STARTED.md) information helps you to
+  understand the [example](example/) project, which ...
+* The [Contributing to _project-name_](doc/CONTRIBUTING.md) page lists severals
+  ways that you can improve _project-name_.
+* The list of [potential improvements](doc/TODO.md) are prioritized.
+
+## Installation and deployment
+
+For information about installing _project-name_, see the
+[installation instructions](doc/INSTALLATION.md).
+
+## Configuration and usage
+To configure _project-name_, ...
+
+## Versioning
+_project-name_ adheres to Semantic Versioning 2.0.0. If there is a violation of
+this scheme, report it as a bug.Specifically, if a patch or minor version is
+released and breaks backward compatibility, that version should be immediately
+yanked and/or a new version should be immediately released that restores
+compatibility. Any change that breaks the public API will only be introduced at
+a major-version release. As a result of this policy, you can (and should)
+specify any dependency on <project name> by using the Pessimistic Version
+Constraint with two digits of precision.
+
+## Licensing
+
+See the [LICENSE](LICENSE.md) file for details.
+
+<!-- Creative Commons: Commonly used for documentation 
+-->
+<a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">
+<img alt="Creative Commons License" style="border-width:0" 
+src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+<br />Except where otherwise noted, this work by Ursula Kallio is licensed
+under a <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative
+Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+<!-- MIT: Commonly used for source code
+-->
+The MIT License (MIT)
+
+Copyright &copy; 2014 _name-of-copyright-holder_
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+...............................................................................
+
+'''
+Last updated: {docdatetime}

@@ -1,0 +1,62 @@
+---
+title: Writing examples
+---
+<!-- 
+
+**Before:** ""
+
+**After:** ""
+
+**Rationale:** ""
+
+--
+
+-->
+
+The following real-world examples are intended to help you write
+clearly and concisely.
+
+--
+
+**Before:**
+
+"Sonification is the process of taking data and turning it into sound."
+
+**After:**
+
+N/A
+
+**Rationale:** 
+
+* The length of the sentence is ideal. The reader does not have
+  to store too much information in his or her head to understand it with ease.
+
+* The verb tense is consistent throughout. Native English speakers expect to read
+  sentences that are written within the same tense. For example, if you use the
+  present tense to describe an event that occurred in the past, which is possible
+  and common in English, stay within to the present tense throughout the sentence.
+
+* The definition is easy to remember.
+
+--
+
+**Before:**
+
+"In order to generate music I want to import the EEG brainwave data into
+<a href="http://overtone.github.io">Overtone</a>."
+
+**After:**
+
+To generate music, import the EEG brainwave data into
+<a href="http://overtone.github.io">Overtone</a>.
+
+**Rationale:**
+
+* The "In order (to)" bit does not add value to the sentence;
+  no value is lost by removing it.
+* Without a comma, the phrase can cause the reader to stumble:<br/>
+  "In order to generate music [that] I want ..."<br/>
+  "In order to generate music, I want ..."
+* The "I want to" does not add value to the sentence;
+  moreover, it gets in the way. Feel free to remove it.
+* The resulting instruction consisely tells the reader what to do.

@@ -1,0 +1,57 @@
+= English resources
+
+Author: _{author}_
+
+== Listening
+
+Listen to a variety of sources while paying attention to regional dialects and
+accents. Try listening to something three times: first, listen quickly; next,
+listen at a relatively even speed compared to your current listening skills;
+finally, listen more slowly than you need to.
+
+Note: If you are trying to reduce your accent, avoid practicing using speeches
+that are given to a very large audience such as a presidential speech. Often,
+the speaker is trained to change some of the voicing for the purpose of
+preserving his or her voice over a long period of time.
+
+== Speaking
+
+Repeat questions that people ask you. Provide full-sentence responses. Learn
+how to ask, "What is the a synonym for the word ___." Practice differentiating
+between minimal pairs:
+
+* http://myweb.tiscali.co.uk/wordscape/wordlist/minimal.html[Minimal pairs for
+	English RP: lists by John Higgins]
+* http://rephrase.it[rephraseIT: Accent reduction]
+
+== Reading
+
+Aim to read material that you understand at a 90% rate or higher. This gives
+you the best chance of guessing meaning from context. Without using a
+dictionary, read a passage three times at different speeds: first, read as fast
+as you can for one minute; next, slow down to read the same content for three
+minutes; finally, slow down again to read the same content for five minutes.
+Read all sorts of material; read advertisements, graffiti, newspapers, tram
+tickets, magazines, and novels.
+
+== Writing
+
+* http://creativewritingprompts.com[Creative writing prompts]
+* http://www.quickanddirtytips.com/grammar-girl[Grammar Girl: Quick and Dirty
+	Tips]
+* http://citationmachine.net[Citation Machine]
+* http://thesaurus.com[Thesaurus]
+* http://andromeda.rutgers.edu/~jlynch/Writing/index.html[Guide to Grammar and
+	Style]
+* http://owl.english.purdue.edu[OWL (**O**nline **W**riting **L**ab)]
+* http://www.bartleby.com/141/index.html[Strunk and White]
+
+Nerd corner:
+
+* http://ipa.typeit.org[Type IPA]
+* http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary
+	of linguistic terms]
+* http://gregg.angelfishy.net/index.shtml[Gregg shorthand lessons]
+
+'''
+Last updated: {docdatetime}

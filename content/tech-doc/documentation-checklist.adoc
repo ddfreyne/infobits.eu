@@ -1,5 +1,6 @@
 = Documentation checklist
-
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
 Author: _{author}_
 
 Are you done writing? Use the following checklist to polish your documentation:

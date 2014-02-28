@@ -1,5 +1,6 @@
 = English resources
-
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
 Author: _{author}_
 
 == Listening
@@ -9,20 +10,17 @@ accents. Try listening to something three times: first, listen quickly; next,
 listen at a relatively even speed compared to your current listening skills;
 finally, listen more slowly than you need to.
 
-Note: If you are trying to reduce your accent, avoid practicing using speeches
-that are given to a very large audience such as a presidential speech. Often,
-the speaker is trained to change some of the voicing for the purpose of
-preserving his or her voice over a long period of time.
-
 == Speaking
 
 Repeat questions that people ask you. Provide full-sentence responses. Learn
 how to ask, "What is the a synonym for the word ___." Practice differentiating
-between minimal pairs:
+between http://myweb.tiscali.co.uk/wordscape/wordlist/minimal.html[minimal pairs].
 
-* http://myweb.tiscali.co.uk/wordscape/wordlist/minimal.html[Minimal pairs for
-	English RP: lists by John Higgins]
-* http://rephrase.it[rephraseIT: Accent reduction]
+Note: If you are trying to http://rephrase.it[reduce your accent], avoid
+practicing using speeches that are given to a very large audience such as a
+presidential speech. Often, the speaker is trained to change some of the
+voicing for the purpose of preserving his or her voice over a long period of
+time.
 
 == Reading
 

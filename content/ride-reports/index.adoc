@@ -1,0 +1,10 @@
+= Ride reports
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+* link:20140223-Friedrichshain-Müggelsee/[20140223 Friedrichshain to Müggelsee and back]
+* link:20140215-Berlin-Brandenburg/[20140215 Berlin to Brandenburg]
+
+'''
+Last updated: {docdatetime}

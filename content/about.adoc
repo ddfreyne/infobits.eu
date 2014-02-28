@@ -1,9 +1,12 @@
 = About infobits
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
 
-`infobits` is a playground of information about foreign languages, technical
+The `infobits` site contains information about foreign languages, technical
 documentation, and cycling.
 
-It is built using http://nanoc.ws[nanoc], which is a static-site generator that
+The site is built using http://nanoc.ws[nanoc], which is a static-site generator that
 was developed by Denis Defreyne and which is actively maintained.
 
 '''

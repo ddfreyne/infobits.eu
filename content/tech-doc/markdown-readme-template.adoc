@@ -1,5 +1,6 @@
 = Markdown README template
-
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
 Author: _{author}_
 
 Create a file named +README.md+ and copy the following Markdown into it as a

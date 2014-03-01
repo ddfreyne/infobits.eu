@@ -1,7 +1,6 @@
 = Mandarin resources
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
-title: foo
 Author: _{author}_
 
 Want something fun? Start with http://www.chinesewithmike.com[Chinese with

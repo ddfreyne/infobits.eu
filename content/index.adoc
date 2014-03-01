@@ -5,6 +5,7 @@ Author: _{author}_
 
 [id="rukou"]
 入口
+[id="rukou-pinyin"]
 rùkǒu
 
 The site is built using http://nanoc.ws[nanoc], which is a static-site

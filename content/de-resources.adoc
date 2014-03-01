@@ -29,8 +29,8 @@ Author: _{author}_
 * http://german.languagedaily.com/vocabulary/common-german-words[1,000 most
 	common German words]
 * http://www.dw.de/dw/0,,9572,00.html[LEVEL A1-B1 | GERMAN/ENGLISH: Deutsch Interaktiv]
-	| http://www.dw.de/dw/0,,2237,00.html[lesson list]
-* http://www.dw.de/dw/0,,3657,00.html[Audio trainer]
+	| http://www.dw.de/deutsch-lernen/deutsch-interaktiv/s-2237[lesson list]
+* http://www.dw.de/deutsch-lernen/audiotrainer/s-3657[Audio trainer]
 * http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa[DEUTSCHKURS]
 * http://www.aprendealeman.com/blog[Aprende alemán blog (in Spanish and German)]
 * http://deutschlernen-blog.de[Deutsch lernen]

@@ -1,5 +1,7 @@
-= 2013 blog entries Ursula Kallio <ursula.kallio@gmail.com> v1.0 Author:
-_{author}_
+= 2013 blog entries
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
 
 == 20131219 - Just two more minutes
 
@@ -33,8 +35,8 @@ it was like to not grow up with a computer.
 
 == 20131218 - Nina Simone is having coffee with me
 
-Hanging out with Nina Simone at <a
-href="http://www.yelp.com/biz/toma-caf%C3%A9-madrid-2">Toma Café</a> in Madrid,
+Hanging out with Nina Simone at
+http://www.tomacafe.es[Toma Café] in Madrid,
 Spain is making my afternoon. Madrid is a city where you can find whatever you
 want, but it's a noisy city in general. That said, it's possible to wander down
 quiet streets and get away from the noise pollution. If you pass through
@@ -54,7 +56,7 @@ given day. Today, I have already read in Spanish, researched eReaders,
 downloaded free texts for testing purposes, and more. Only then have I had my
 first cup of coffee.
 
-== 20131213 - Gramma and Grampa's pensión 
+== 20131213 - Gramma and Grampa's pensión
 
 Currently, I am in Madrid, Spain on holiday. I found a pleasant old couple to
 room with at a pensión. The noise of the city is balanced by "Gramma" and
@@ -92,7 +94,158 @@ executed by female bosses as well.
 
 Wow does some of this ring very loudly in my ears. I had to look up the term
 http://www.urbandictionary.com/define.php?term=gaslighting[gaslighting].  Even
-just the knowing that there is a word for it makes me feel more sane.  
+just the knowing that there is a word for it makes me feel more sane.
+
+== 20130530 - Immigration office in Berlin
+
+Out of the train window, the line to enter the immigration office here in
+Berlin looked to be 60 deep. Fortunately, firms make appointments and the
+process took a relatively short period of time (~45 minutes) once there. I will
+have to update my address every time I move. In that way, it's a bit like a
+DMV. I think that each time I move, I need to update my address with two
+officials: the registration office and immigration. The initial overhead is
+higher than the overall overhead, and I bet that an outdated address might give
+any official reason to have a bad day.
+
+It is quite interesting to experience being an immigrant or alien. I think I'm
+an alien; I'm not sure, I could be an immigrant. Maybe the terms are
+interchangeable. Regardless, it does change one's way of thinking in small
+ways, and likely in large ways when all the small stuff adds up. For example,
+whenever I changed my address back home, I could care less whether or not it's
+updated on my license. However, here I feel it necessary to avoid giving
+someone an excuse to use it against me in the street or in some other
+unforeseen situation.
+
+Tip: It is not necessary to dress formally for immigration. I saw several
+people who did so. Something nicer than a T-shirt will suffice.
+
+== 20130528 - The Surly turns four
+
+Based on a previous blog post, I purchased my SF city bike nearly four years
+ago. It is still in SF for the times that I need it while traveling. I had not
+realized that I had that bike for this long already. The cost of that bike
+equates to one month's car payment yearly.
+
+This new bike will like be a bit more because I have become a fussier commuter.
+Also, I am getting a hub-generated lighting system for it.
+
+Last night's theft makes me add an elevator to the apartment requirement. I
+have never before left a bicycle outside overnight and I will not do it again.
+Somehow, I gotta shake this off.
+
+== 20130528 - Stolen bicycle
+
+I looked outside the window of my temporary apartment number one only to
+discover that the bike I parked there, a borrowed bike, was no longer there. In
+hindsight, I should have carried it up three flights of stairs. Berlin bikes
+are very heavy so I looked at those around within the private courtyard to see
+that they too were locked in an otherwise unwise manner. I thought, "this looks
+like a secure place to leave a bike at night."
+
+This morning told me otherwise. I am not looking forward to paying for a bike
+that I will never use again. However, it is my responsibility to do so. For
+this reason, I am in a relatively foul mood today.
+
+I am going to use two U-locks to lock up my new bike.
+
+== 20130527 - Wandering around the neighborhood
+
+Today, I wandered around my current neighborhood and listened to my
+surroundings. I heard walkers, talkers, bicycles, cars, cobblestone against car
+tires, trees, a couple of emergency vehicles, regularly-scheduled trains, a few
+dogs, and an organ.
+
+As I become more comfortable with going outside, my surroundings continue to
+feel more and more normal. In a few days, weeks, or months, I will cease to
+simultaneously take in the activities on balconies, much of the graffiti, the
+light as it settles for the night, the smells, the quiet conversations, and the
+weird face paint on a child who is intensely interested in something material.
+
+== 20130527 - Taking the trash out
+
+I took the trash out, so I can give myself a little pat on the back.
+
+The small, daily routines take up energy. As someone who manages anxiety, I
+talk my way through taking the trash out for the first time in a new country.
+What's going on in my mind as I look down through the window is, "I know how to
+do x, y, and z, where z is 'all I have to do is get my trash from the apartment
+to the trash bins that I see on the ground floor'." Ok, cool. I can clearly
+walk down the stairs, no problem. Hmm, should I bring my dictionary so I can
+read the labels? Naww, I'll wing it.
+
+Whew, I took my garbage out. Now I want to take the trash out again, this time
+without much extra thought or energy as I get some exercise up and down the
+stairs.
+
+== 20130523 - FAQ: Where are you living?
+
+Another form of this question is, "Have you found a place to live?"
+
+I have not found a place to live, and Ben and I are just now starting to look.
+Today, we will rent some bikes and ride around the city to get a better feel
+for what things are where. It's about 10€ to rent a (crappy) bike for the day.
+Good enough for me at the moment.
+
+I will be in corporate housing through June and will need to find a place
+before the end of June. Therefore, we have started the process now rather than
+waiting too long. From what I understand, the competition for finding a place
+is pretty stiff. I cannot imagine it being fiercer than San Francisco, and
+hopefully I am not surprised. We will likely have to spend a bit more to reduce
+the competition.
+
+== 20130522 - FAQ: How is Germany?
+
+I have been in Europe for about eight days, five of which I spent in Budapest,
+Hungary where I will certainly return. The amount of mental energy that it takes
+to live in a new place and in a new language that one must learn and use is
+incalculable. Therefore, I pay attention to signs of being tired and back off
+when it gets to be too much. I use my ears a lot and sometimes the visual and
+aural inputs feel like a combined flood. At other moments, all is completely
+manageable. Part of these feelings are perhaps stronger than they would have
+been otherwise if I had not gone to Hungary to speak five languages on any given
+day there.
+
+Also, if someone is speaking Spanish on my left and German on my right, my brain
+starts processing them both and there is some internal competition to keep each
+going as long as possible that is hard for me to turn off. I also can eavesdrop
+on simultaneous conversations in English, even if one is across the room and the
+speakers' voices are clear enough. I am sure some of you have done this as well.
+
+Yesterday, Ben and I bought a http://www.amazon.com/Rancilio-Rocky-Doserless-
+Coffee-Grinder/dp/B000AYWU9K[coffee grinder] (a European version of the American
+one we had in SF), a new stove-top http://stovetopitaly.com/Stella-
+Aroma-153.htm[moka pot], and two nice https://www.iittala.com/Tableware/Ego-
+Coffee-cup-02-l/p/A006605[Iittala Ego coffee cups] and
+https://www.iittala.com/Tableware/Ego-Saucer-15-cm/p/A006606[saucers]. We also
+went to a bike shop and I test rode a bike whose small tires made my brain
+jiggle while riding on the cobblestone.
+
+We are soon off to grab some lunch and to visit another bike shop.
+
+== 20130516 - FAQ: What about all your stuff?
+
+Another version of this FAQ is, "Are you going to put your stuff in storage?"
+No. Crudely, if I have to put my stuff in storage, I have too much shit. My
+thought about stuff is that it's a lost opportunity for someone to make use of
+it if it is in storage. This includes storing all the excess crap in one's home.
+Overall, like most people, we have too much stuff.
+
+Ben is researching moving companies and getting a quote for a container to ship
+our furniture. It will arrive via Hamburg.
+
+Before that time, he is going to put together a care package of stuff that I
+have left behind.
+
+== 20130516 - FAQ: Is Ben coming with you?
+
+As of the 14th of May, 2013, I have relocated to Berlin indefinitely.
+
+Ben is meeting me in Berlin in less than a week before he returns to San
+Francisco temporarily. He comes back to Berlin in July for a couple weeks, goes
+back to San Francisco to wrap things up, and returns to Berlin in mid- or late-
+September to start work in Germany on October 1st.
+
+
 
 '''
 Last updated: {docdatetime}

@@ -1,0 +1,73 @@
+= German resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== Dictionaries
+
+* http://www.wordreference.com/deen[Word Reference DE]
+* http://dict.tu-chemnitz.de/dings.cgi?lang=en;service=deen[Eng-German-Eng dictionary]
+
+== Conjugators
+* http://www.verbix.com/languages/german.shtml[Verbix: German]
+
+== Reading material
+
+* http://www.has.vcu.edu/for/mm/mm-vor_dual.html[Max and Moritz by Wilhelm Busch]
+* http://www.fln.vcu.edu//grimm/grimm_menu.html[Grimm's fairytales]
+* http://german.about.com/library/bllesen07dual01.htm[_Die Bremer
+	Stadtmusikanten_ | _The Bremen Town Musicians_] MP3s:
+	http://german.about.com/library/media/sound/bremer1.mp3[1],
+	http://german.about.com/library/media/sound/bremer2.mp3[2],
+	http://german.about.com/library/media/sound/bremer3.mp3[3]
+	(copy and paste links)
+* http://www.literaturatlas.de/~ld1/abenteue/abenteue.htm[Die Abenteuer des
+	Barons]
+
+== Websites for self study
+
+* http://german.languagedaily.com/vocabulary/common-german-words[1,000 most
+	common German words]
+* http://www.dw.de/dw/0,,9572,00.html[LEVEL A1-B1 | GERMAN/ENGLISH: Deutsch Interaktiv]
+	| http://www.dw.de/dw/0,,2237,00.html[lesson list]
+* http://www.dw.de/dw/0,,3657,00.html[Audio trainer]
+* http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa[DEUTSCHKURS]
+* http://www.aprendealeman.com/blog[Aprende alemán blog (in Spanish and German)]
+* http://deutschlernen-blog.de[Deutsch lernen]
+* http://www.youtube.com/playlist?list=PL3936178A38BB5F87&feature=plcp[YouTube: Easy German]
+* http://mediathek.daserste.de/sendungen_a-z/1458_sendung-mit-der-maus[Sendung mit der Maus]
+* http://duolingo.com[Duolingo]
+* http://www.fln.vcu.edu/menu.html[19th-Century German Stories: Web editions
+	for language learning & literary study]
+* Geheime Mission MP3s:
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_1-Episodes_1-2.mp3[1-2],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_2-Episodes_3-4.mp3[3-4],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_3-Episodes_5-6.mp3[5-6],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_4-Episodes_7-8.mp3[7-8],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_5-Episodes_9-10.mp3[9-10],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_6-Episodes_11-12.mp3[11-12],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_7-Episodes_13-14.mp3[13-14],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_8-Episodes_15-16.mp3[15-16],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_9-Episodes_17-18.mp3[17-18],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_10-Episode_19.mp3[19],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_11-Episodes_20-21.mp3[20-21],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_12-Episodes_22.mp3[22],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_13-Episodes_23-24.mp3[23-24],
+	http://www.emcp.com/miscfiles/Language_Tapes/German/Geheime_Mission/Geheime_Mission_14-Episodes_25.mp3[25]
+* Geheime Mission http://www.rosd.k12.mi.us/lang/foreign/dondero/language.htm[flashcards]
+
+== News
+
+* http://www.zeit.de[ZEIT ONLINE]
+* http://tagesschau.de[tagesschau]
+* http://www.sueddeutsche.de[Süddeutsche Zeitung]
+* http://www.faz.net[Frankfurter Allgemeine Zeitung]
+
+== Soap operas, fan fiction, and other video-related material
+* https://www.youtube.com/watch?v=AOh_q65xpFY[TroTro deutsch lang]
+* http://www.daserste.de/unterhaltung/soaps-telenovelas/verbotene-liebe/index.html[Verbotene Liebe]
+* Verbotene Liebe fan fiction: http://www.nl-fiction.com[nolimits: all the fic, none of the limits]
+* http://gzsz.rtl.de/cms/home.html[Gute Zeiten | Schlechte Zeite]
+
+'''
+Last updated: {docdatetime}

@@ -1,0 +1,56 @@
+= Mandarin resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== Dictionaries
+
+* http://www.words-chinese.com/chinese-learning-dictionary?[Mandarin online dictionary]
+* http://www.chinalanguage.com/dictionaries[Chinese online dictionaries]
+
+== Vocabulary
+* http://eastasia.hawaii.edu/yao/icfc/index.html[IC vocabulary trainer]
+* http://eastasia.hawaii.edu/yao/icusers/Default.htm[IC Home from UH]
+* http://www.language.berkeley.edu/ic[UC Berkeley's Integrated Chinese website]
+* http://www.njstar.com[NJ Star]
+* http://www.csulb.edu/~txie/online1.htm[Learning Chinese Online]
+* http://chinese.rutgers.edu/content_e.htm[Reading Exercises from Rutgers University]
+* http://www.bbc.co.uk/languages/chinese/real_chinese[BBC Real Chinese]
+* http://www.ctcfl.ox.ac.uk/Chinese/index.html[Chinese multi media from University of Oxford]
+* http://www.usc.edu/dept/ealc/chinese/Reading/humor.htm[Humor Stories from USC]
+* http://www.usc.edu/dept/ealc/chinese/Level/1.htm[Progressive Reading from USC]
+
+== Grammar
+
+* http://www.ctcfl.ox.ac.uk/Chinese/index.html[Grammar lessons]
+* http://comet.cls.yale.edu/mandarin/content/grammar.htm[Mandarin Essential Grammar - Yale]
+* http://unclp.org[word a day]
+* http://www.mandarintools.com[Mandarin Tools]
+
+== Characters
+
+* http://www.language.berkeley.edu/fanjian/start.html[Self study for simplified/traditional conversion]
+
+== Pinyin
+
+* http://en.wikipedia.org/wiki/Pinyin#Tones[Pinyin to cut and paste]
+* http://www.uvm.edu/~chinese/pinyin.htm[Pinyin Chart]
+* http://www.pinyinpractice.com[Pinyin Practice]
+* http://www.usc.edu/dept/ealc/chinese/character[Stroke Orders (traditional)]
+* http://www-rohan.sdsu.edu/dept/chinese/tools[San Diego State University: Chinese tools]
+
+== Websites for self study
+* http://www.chinesewithmike.com[Chinese with Mike]
+* http://www.peacecorps.gov/wws/lesson-plans/mandarin-china/[Peace Corp: Mandarin in China - Language Lessons]
+
+== News
+
+* http://www.bbc.co.uk/languages/chinese[BBC Mandarin Chinese]
+* http://gb.home.sina.com[sina.com]
+
+== Exams
+
+* http://en.wikipedia.org/wiki/HSK_test[HSK - Hànyǔ Shuǐpíng Kǎoshì (汉语 水平 考试) test information]
+
+'''
+Last updated: {docdatetime}

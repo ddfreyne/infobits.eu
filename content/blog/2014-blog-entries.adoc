@@ -1,0 +1,9 @@
+= 2014 blog entries
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== 20140301 TBD
+
+'''
+Last updated: {docdatetime}

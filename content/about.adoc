@@ -1,13 +1,12 @@
-= About infobits
+= About Ursula Kallio
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-The `infobits` site contains information about foreign languages, technical
-documentation, and cycling.
-
-The site is built using http://nanoc.ws[nanoc], which is a static-site generator that
-was developed by Denis Defreyne and which is actively maintained.
+I am a native (American) English speaker. My highest levels of fluency in
+foreign languages are in Finnish and Spanish. I am actively learning German at
+a low B2 level. My Mandarin needs work, but I can use it to express my daily
+needs with shopkeepers and restaurant staff.
 
 '''
 Last updated: {docdatetime}

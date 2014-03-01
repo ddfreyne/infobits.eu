@@ -41,6 +41,10 @@ pre {
   width: 640px;
 }
 
+div#rukou {
+  font-size: 300px;
+}
+
 #main h1 {
   font-size: 40px;
   font-weight: normal;

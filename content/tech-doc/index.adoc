@@ -3,9 +3,10 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-Do you need to write something and want to know where to start? See the 
-link:starting-point/[starting point] page. Are you done writing? See the
-link:documentation-checklist/[documentation checklist].
+Do you need to write something and want to know where to start? See the
+link:starting-point/[starting point] page or the
+link:markdown-readme-template/[Markdown README] template. Are you done writing?
+See the link:documentation-checklist/[documentation checklist].
 
 The resources that follow are for technical writers. For general information
 about English, see the link:../en-resources/[English resources] page.

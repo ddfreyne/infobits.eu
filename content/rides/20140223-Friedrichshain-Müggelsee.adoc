@@ -1,0 +1,55 @@
+= 20140223 Friedrichshain to Müggelsee
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+I planned http://www.strava.com/routes/182746[a route on Strava] for the first
+time. In actuality, my ride was a bit longer at approximately 52 km from
+http://www.strava.com/activities/115433419[Friedrichshain to Müggelsee
+and back]. Today's adventure gave me a chance to get lost and find my way again
+several times without being pressured by time. Having lived in Berlin since May
+2013, I still have much to explore.
+
+Near the start of the ride, I noticed a cloud of water vapor from a
+https://plus.google.com/116823604913091324301/about?hl=de[Vattenfall plant]:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12723745775/" title="friedrichshain-müggelsee by Open Source Grrrl, on Flickr"><img src="https://farm4.staticflickr.com/3807/12723745775_73e39847bf_z.jpg" width="480" height="640" alt="friedrichshain-müggelsee"></a>
++++++++++++++++
+
+Also near the start of the ride, my Garmin tried repeatedly to re-route me. Its
+maps are nearly impossible (and indeed very ugly) to read, especially while
+riding. I was happy that the thing popped up an error message and shut off its
+own beeping. As directionally challenged&mdash;due to a prior
+concusion&mdash;as I am, I was relieved to know that I was on the correct road.
+Because it is a bit tiring to continually stop and look at a cellphone for
+route information, I decided to pay attention to the well-marked signs along
+the way and make some adjustments so that my ride was a bit more brainless. I
+ended up in Müggelheim, which I nicknamed "the Fairfax of Friedrichshain"
+because it is a small, quiet, cute place that is likely a very easy place for
+riders to meet.
+
+The woods to the south of Müggelsee are gorgeous as they come into spring. It
+is worth retracing the route and turning around rather than going around the
+lake. Next time I ride alone, I will wander around the forest trails more
+thoroughly and realize the idea to meditate for 5 - 10 minutes before turning
+back.
+
+The streets to the north of Müggelsee were on the boring side, except for the
+frog sign:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12724533144/" title="frogs-200m by Open Source Grrrl, on Flickr"><img src="https://farm3.staticflickr.com/2856/12724533144_dc47ebaff7_z.jpg" width="480" height="640" alt="frogs-200m"></a>
++++++++++++++++
+
+It is clear that wealthy people live along the lake shore. Many of the houses
+were large to the extent that it was not clear to me if people live in them
+or if they were office buildings that looked like homes. The return trip was
+full of traffic. There is a fence that separates the traffic and lake-side
+walkers and joggers. Next time, I will see about being on that side of the
+fence farther away from car and tram traffic.
+
+'''
+Last updated: {docdatetime}

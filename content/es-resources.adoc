@@ -1,0 +1,22 @@
+= Spanish resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== Website for self study
+
+* http://www.wordreference.com[http://www.wordreference.com] - Word reference
+* http://www.studyspanish.com[http://www.studyspanish.com] - Study Spanish
+* http://lomastv.com/product/home.php?[LoMásTV Spanish Immersion TV]
+
+== News
+
+* http://www.univision.com/portal.jhtml[Univisión]
+* http://www.aztecaamerica.com[Azteca América]
+
+== See also
+
+* http://diplomas.cervantes.es[Diplomas de Español como Lengua Extranjera (DELE) del Instituto Cervantes]
+
+'''
+Last updated: {docdatetime}

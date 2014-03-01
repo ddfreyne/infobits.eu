@@ -1,0 +1,10 @@
+= Finnish resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+See the http://thinkinfinnish.com[Thinkin' Finnish? Think, in Finnish! (TiF)]
+project.
+
+'''
+Last updated: {docdatetime}

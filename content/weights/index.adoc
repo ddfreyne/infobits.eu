@@ -1,0 +1,11 @@
+= Weight training
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== 2014
+
+link:201403[03]
+
+'''
+Last updated: {docdatetime}

@@ -6,6 +6,7 @@
 
 body {
   background: #fff;
+  line-height: 20px;
 }
 
 a {
@@ -41,18 +42,6 @@ pre {
   width: 640px;
 }
 
-div#rukou p {
-  line-height: 300px;
-  font-size: 270px;
-  color: #f90;
-}
-
-div#rukou-pinyin p {
-  line-height: 30px;
-  font-size: 30px;
-  color: #f90;
-}
-
 #main h1 {
   font-size: 40px;
   font-weight: normal;
@@ -70,7 +59,6 @@ div#rukou-pinyin p {
 #main p {
   margin: 20px 0;
   font-size: 15px;
-  line-height: 20px;
 }
 
 #main ul, #main ol {
@@ -88,6 +76,23 @@ div#rukou-pinyin p {
 
 #main li p {
   margin: 4px 0px 0px 0px;
+}
+
+#main table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 20px 0px;
+}
+
+#main table th,
+#main table td {
+  border: 1px solid #ccc;
+  padding: 2px 4px;
+}
+
+#main table p {
+  margin: 0px;
+  padding: 0px;
 }
 
 #sidebar {
@@ -115,5 +120,16 @@ div#rukou-pinyin p {
 
 #sidebar li {
   font-size: 14px;
-  line-height: 20px;
+}
+
+div#rukou p {
+  line-height: 300px;
+  font-size: 270px;
+  color: #f90;
+}
+
+div#rukou-pinyin p {
+  line-height: 30px;
+  font-size: 30px;
+  color: #f90;
 }

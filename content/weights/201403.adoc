@@ -12,6 +12,23 @@ Author: _{author}_
 ||KB clean 10kg|20|1
 ||KB swing 10kg|40|1
 ||KB situp 10kg|20|1
+|20140304|KB goodmorning 10kg|10|1
+||KB clean 10kg|20|1
+||KB swing 10kg|40|1
+||KB situp 10kg|20|1
+|20140305|KB goodmorning 10kg|10|1
+||KB clean 10kg|20|1
+||KB swing 10kg|40|1
+||KB situp 10kg|20|1
+|20140306|KB goodmorning 10kg|10|1
+||KB clean 10kg|20|1
+||KB swing 10kg|40|1
+||KB situp 10kg|20|1
+|20140307|KB goodmorning 10kg|10|1
+||KB clean 10kg|20|1
+||KB swing 10kg|40|1
+||KB situp 10kg|20|1
+|20140308|Rest||
 |=======
 
 '''

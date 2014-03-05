@@ -44,8 +44,8 @@ tickets, magazines, and novels.
 * http://owl.english.purdue.edu[OWL (**O**nline **W**riting **L**ab)]
 * http://www.bartleby.com/141/index.html[Strunk and White]
 
-Nerd corner:
-
+== See also
+* The infobits link:../tech-doc[technical documentation] page
 * http://ipa.typeit.org[Type IPA]
 * http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary
 	of linguistic terms]

@@ -3,7 +3,7 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== Website for self study
+== Websites for self study
 
 * http://www.wordreference.com[http://www.wordreference.com] - Word reference
 * http://www.studyspanish.com[http://www.studyspanish.com] - Study Spanish

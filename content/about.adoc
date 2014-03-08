@@ -8,5 +8,7 @@ foreign languages are in Finnish and Spanish. I am actively learning German at
 a low B2 level. My Mandarin needs work, but I can use it to express my daily
 needs with shopkeepers and restaurant staff.
 
+Tip: link:../exercise[Exercise] keeps the mind sharp.
+
 '''
 Last updated: {docdatetime}

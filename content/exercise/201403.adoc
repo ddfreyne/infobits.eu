@@ -6,6 +6,7 @@ Author: _{author}_
 [options="header"]
 |=======
 |Date|Activity|Total|Sets
+|20140301|Rest||
 |20140302|KB goodmorning 10kg|10|1
 ||KB clean 10kg|20|1
 |20140303|KB goodmorning 10kg|10|1
@@ -19,10 +20,10 @@ Author: _{author}_
 |20140305|Rest||
 |20140306|Rest||
 |20140307|Rest||
-|20140308|Ride|50k|
-||Foam roller||
-||Stretch inner thighs - forward bend|30s|3
-||Stretch shoulders, arms, and upper back - flatback with arms and hands extended 90&deg;|20s|3
+|20140308|KB goodmorning 10kg|10|1
+||KB clean 10kg|10|3
+||KB swing 10kg|20|2
+||KB situp 10kg|10|2
 |20140309|Ride|60k|
 ||Foam roller||
 ||Stretch inner thighs - forward bend|30s|3

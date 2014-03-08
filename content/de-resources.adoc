@@ -59,7 +59,7 @@ Author: _{author}_
 == News
 
 * http://www.zeit.de[ZEIT ONLINE]
-* http://tagesschau.de[tagesschau]
+* http://www.tagesschau.de[tagesschau]
 * http://www.sueddeutsche.de[Süddeutsche Zeitung]
 * http://www.faz.net[Frankfurter Allgemeine Zeitung]
 

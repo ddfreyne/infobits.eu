@@ -36,9 +36,7 @@ pre {
 }
 
 #main {
-  position: absolute;
-  top: 40px;
-  left: 280px;
+  margin: 40px 0 0 240px;
   width: 640px;
 }
 
@@ -96,9 +94,7 @@ pre {
 }
 
 #sidebar {
-  position: absolute;
-  top: 40px;
-  left: 20px;
+  float: left;
   width: 200px;
   padding: 20px 20px 0 0;
   border-right: 1px solid #ccc;
@@ -125,11 +121,29 @@ pre {
 div#rukou p {
   line-height: 300px;
   font-size: 270px;
-  color: #f90;
+  color: #f26522;
 }
 
 div#rukou-pinyin p {
   line-height: 30px;
   font-size: 30px;
-  color: #f90;
+  color: #f26522;
+}
+
+#footer {
+  clear: left;
+  border-top: 1px solid #ccc;
+  padding: 40px 40px 40px 240px;
+  background-color: #403830;
+  color:#999999;
+}
+
+#footer a:link,
+#footer a:visited {
+  color: black;
+  /* color: #f30; */
+}
+
+#footer a:hover {
+  color: #f26522;
 }

@@ -1,0 +1,18 @@
+= 20140309 Friedrichshain to Müggelsee
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+Today started out with enough sleep and two small pots of coffee. There was no need to rush out the door. Tom had already warned us about the potential for a mid-day ride due to an _n_-degree hangover. With the early morning pressure off, I started rewriting my http://thinkinfinnish.com[TiF] website for people interested in learning Finnish. "Just one more fix, just one more fix," I repeated mostly to myself. "Ok, lemme push my changes." Push after push later, I learned that Tom had already taken off from somewhere to somewhere. I put on my bike shorts. After closer examination, I took them off and threw them away; respect the riders behind you. With the temperature at 16&deg; (61&deg; F), I almost overdressed. Ben convinced me to leave the leg warmers at home, which was a good call. 
+
+Dressed, we ride out and start out faster than I would have ridden on my own. We keep it that way. There were stretches where we rode with the cars, and an early morning roll out would eliminate so much road sharing. I had bits of golden-gate-bridge rage, which is an intolerance for dilly-dallying grannies and grampas. On the way back, one grampa seems to be haulin' ass. Then, Ben takes note, "Grampa's on an electric [bike]."
+
+[subs="quotes"]
++++++++++++++++
+<iframe frameborder="0" height="405" scrolling="no" src="http://app.strava.com/activities/119058412/embed/2b4c74bffd45d51504fd10dd8da3bc5adb9d4e80" width="590"></iframe>
++++++++++++++++
+
+We get back during the middle of the afternoon, which leaves us plenty of time to use the rest our day to nerd out.
+
+'''
+Last updated: {docdatetime}

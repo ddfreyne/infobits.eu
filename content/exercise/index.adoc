@@ -10,6 +10,7 @@ Read my exercise plans:
 
 Read about my rides:
 
+* link:20140309-friedrichshain-müggelsee/[20140309 Friedrichshain to Müggelsee and back]
 * link:20140223-Friedrichshain-Müggelsee/[20140223 Friedrichshain to Müggelsee and back]
 * link:20140215-Berlin-Brandenburg/[20140215 Berlin to Brandenburg]
 

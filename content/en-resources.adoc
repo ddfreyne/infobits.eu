@@ -49,7 +49,6 @@ tickets, magazines, and novels.
 * http://ipa.typeit.org[Type IPA]
 * http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary
 	of linguistic terms]
-* http://gregg.angelfishy.net/index.shtml[Gregg shorthand lessons]
 
 '''
 Last updated: {docdatetime}

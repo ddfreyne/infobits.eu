@@ -10,10 +10,7 @@
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
-    <div id="main">
-      <%= yield %>
-    </div>
-    <div id="sidebar">
+      <div id="sidebar">
       <h2><a href="/">infobits.eu</a></h2> <!-- / is the root directory, which is useful is you are reading this site offline -->
       <ul>
         <li>Language resources:</li>
@@ -23,14 +20,13 @@
         <li><a href="http://infobits.eu/zh-resources">中文 (Mandarin)</a></li>
         <li><a href="http://infobits.eu/es-resources">español (Spanish)</a></li>
       </ul>
-           <!--  <ul>
-        <li>Language resources:</li>
-        <li><a href="http://infobits.eu/en-resources">English resources</a></li>
-        <li><a href="http://infobits.eu/fi-resources">Finnish&nbsp;&nbsp;&nbsp;&mdash; &nbsp;''&nbsp; &mdash;&nbsp;</a></li>
-        <li><a href="http://infobits.eu/de-resources">German&nbsp;&nbsp;&nbsp;&mdash; &nbsp;''&nbsp; &mdash;&nbsp;</a></li>
-        <li><a href="http://infobits.eu/zh-resources">Mandarin&nbsp;&nbsp;&nbsp;&mdash; &nbsp;''&nbsp; &mdash;&nbsp;</a></li>
-        <li><a href="http://infobits.eu/es-resources">Spanish&nbsp;&nbsp;&nbsp;&mdash; &nbsp;''&nbsp; &mdash;&nbsp;</a></li>
-      </ul> -->
     </div>
+    <div id="main">
+      <%= yield %>
+    </div>
+    <div id="footer">
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />Except where otherwise noted, content on this site by Ursula Kallio is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</a> license.
+    </div>
+  </body>
   </body>
 </html>

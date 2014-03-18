@@ -12,7 +12,7 @@ Dressed, we ride out and start out faster than I would have ridden on my own. We
 <iframe frameborder="0" height="405" scrolling="no" src="http://app.strava.com/activities/119058412/embed/2b4c74bffd45d51504fd10dd8da3bc5adb9d4e80" width="590"></iframe>
 +++++++++++++++
 
-We get back during the middle of the afternoon, which leaves us plenty of time to use the rest our day to nerd out.
+We get back during the middle of the afternoon, which leaves us plenty of time to use the rest of our day to nerd out.
 
 '''
 Last updated: {docdatetime}

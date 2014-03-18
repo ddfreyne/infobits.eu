@@ -24,7 +24,7 @@ Author: _{author}_
 ||KB clean 10kg|10|3
 ||KB swing 10kg|20|2
 ||KB situp 10kg|10|2
-|20140309|Ride|60k|
+|20140309|Ride|50k|
 ||Foam roller||
 ||Stretch inner thighs - forward bend|30s|3
 ||Stretch shoulders, arms, and upper back - flatback with arms and hands extended 90&deg;|20s|3
@@ -48,7 +48,7 @@ Author: _{author}_
 ||KB situp 10kg|10|3
 |20140315|Ride|60k|
 ||Foam roller||
-|20140316|Ride|70k|
+|20140316|Ride|60ok|
 ||Foam roller||
 |=======
 

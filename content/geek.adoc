@@ -3,62 +3,69 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
+The following resources are not meant to be exhaustive; they are useful sources when writing technical documentation.
 
-== CSS
-
-* http://www.w3.org/TR/REC-CSS2[The CSS Spec from W3C]
-* http://www.wellstyled.com[CSS for web designers]
-* http://www.pixy.cz/pixylophone/favelets[Web designer, Petr Staníček's favorites]
-* http://jigsaw.w3.org/css-validator[CSS validator]
-* http://www.westciv.com/xray/index.html[XRAY for web developers]
-* http://www.westciv.com/style_master/academy/browser_support/index.html[Browser support of CSS]
-* http://www.westciv.com/style_master/academy/browser_support/selectors.html[CSSTidy]
-
-The following CSS references are courtesy of http://headfirstlabs.com/books/hfhtml/chapter12/cssdesign.html[Head First Labs]:
-
-http://www.csszengarden.com[CSS Zen Garden: The Beauty in CSS Design]:: Graphic artists create some fantastic designs for Zen Garden by only changing the CSS.
-
-http://www.alistapart.com[A List Apart]:: Explores the design, development, and meaning of web content, with a special focus on techniques and benefits of designing with web standards.
-
-http://www.meyerweb.com/eric/css/edge[css/edge]:: Eric A. Meyer's CSS site with a selection of examples.
-
-http://www.cssbeauty.com[CSS Beauty]:: A showcase of well-designed CSS based websites from around the world. It's a great place to find inspiration for your own designs.
-
-http://cssvault.com[CSS Vault]:: Another great site to explore for inspiration.  It also has links to articles about CSS design.
-
-http://css.maxdesign.com.au/listamatic[Listamatic]:: Everything you ever wanted to know about how to style lists.
-
-http://www.positioniseverything.net[Position is Everything]:: If you want to try a new layout using CSS, this is a good place to start. This site has just about everything you'll need for a variety of different layouts, including the workarounds you'll need for buggy browsers.
-
-== Binary/Decimal conversion
+== Binary and decimal conversion
 
 * http://www.kirupa.com/developer/actionscript/binary_conversion.htm[Short binary/decimal conversion lesson]
 * http://acc6.its.brooklyn.cuny.edu/~gurwitz/core5/nav2tool.html[Binary/Decimal conversion]
 
-== HTML/XHTML
+== C, C++, and C#
+* http://users.powernet.co.uk/eton/kandr2[C: Answers to K&R]
+* http://www.cplusplus.com[C++]
+* http://www.csharp-station.com/Tutorial.aspx[C# tutorial]
+
+== CSS
+
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference[Mozilla's CSS reference]
+* http://jigsaw.w3.org/css-validator[CSS validator]
+* http://www.quirksmode.org/css[Compatibility tables (desktop and mobile): HTML5, CSS3, and SVG]
+* http://mediaqueri.es/[Media queries and responsive web design]
+* http://css.maxdesign.com.au/listamatic[Listamatic] How to style lists
+* http://www.alistapart.com[A List Apart] Design, development, and meaning of web content
+* http://www.csszengarden.com[CSS Zen Garden: The Beauty in CSS Design] Designs by only changing CSS
+
+== DocBook and XSL/XSLT
+
+* http://www.sagehill.net/docbookxsl[DocBook XSL]
+* http://www.docbook.org/tdg5/en/html/docbook.html[DocBook: The Definitive Guide]
+* http://www.ibm.com/developerworks/library/os-eclipse-docbook/index.html[Build DocBook XML in Eclipse]
+* http://www.w3.org/TR/xslt[XSLT 1.0]
+
+== Editors
+
+* http://www.vim.org/docs.php[Vim documentation]
+* http://www.twoevils.org/files/.vimrc[April's .vimrc file]
+* http://oxygenxml.com[&lt;oXygen/&gt; XML editor] | http://www.oxygenxml.com/doc/ug-standalone/index.html[XML editor documentation]
+
+== Graphics
+
+* http://setmy.browsersize.com[http://setmy.browsersize.com]
+* http://www.colorhexa.com[Color encyclopedia: Information and conversion]
+* http://www.wellstyled.com/tools/colorscheme2/index-en.html[Color Scheme Generator 2]
+* http://www.colorschemer.com[Create a color scheme ($$)]
+* http://www.famfamfam.com/lab/icons[free icons] | http://urlgreyhot.com/personal/resources/mini_icons[more free icons]
+* http://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats[Comparison of graphics file formats]
+
+== HTML and XML
 
 * http://www.webstandards.org/learn/reference/templates[HTML/XHTML templates]
 * http://validator.w3.org[HTML/XHTML validator]
 * http://en.wikipedia.org/wiki/Web_colors[Web colors]
 * http://search.cpan.org/dist/W3C-LinkChecker[W3C link checker]
-* http://www.downforeveryoneorjustme.com[http://www.downforeveryoneorjustme.com]
-
-== XML
-
+* http://www.downforeveryoneorjustme.com[Down for Everyone or Just Me]
 * http://dret.net/glossary[Web and XML glossary]
+
+== Java
+* http://showmedo.com[Show Me Do]
+* http://java.sun.com/javaee/reference/glossary/index.jsp[Java glossary]
+* http://www.javaranch.com[Java Ranch: a friendly place for Java greenhorns!]
+* http://java.sun.com/javase/6/docs/api[Java&trade; Platform, Standard Edition 6 API Specification]
 
 == JavaScript
 
 * http://destroydrop.com/javascripts/tree[JS trees]
 * http://www.dynamicdrive.com/style/csslibrary/item/jquery_multi_level_css_menu_2[Horizontal CSS Menus]
-
-== Graphics
-
-* http://setmy.browsersize.com[http://setmy.browsersize.com]
-* http://www.wellstyled.com/tools/colorscheme2/index-en.html[Color Scheme Generator 2]
-* http://www.colorschemer.com[Create a color scheme ($$)]
-* http://www.famfamfam.com/lab/icons[free icons] | http://urlgreyhot.com/personal/resources/mini_icons[more free icons]
-* http://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats[Comparison of graphics file formats]
 
 == Python
 
@@ -74,21 +81,6 @@ http://www.positioniseverything.net[Position is Everything]:: If you want to try
 * http://www.python.org/dev/peps/pep-0257[Python documentation conventions]
 * http://lists.idyll.org/pipermail/testing-in-python[Testing in Python email archives]
 
-== C
-* http://users.powernet.co.uk/eton/kandr2[Answers to K&R 2nd edition]
-
-== C++
-* http://www.cplusplus.com[C++ resource]
-
-== Java
-* http://showmedo.com[Show Me Do]
-* http://java.sun.com/javaee/reference/glossary/index.jsp[Java glossary]
-* http://www.javaranch.com[Java Ranch: a friendly place for Java greenhorns!]
-* http://java.sun.com/javase/6/docs/api[Java&trade; Platform, Standard Edition 6 API Specification]
-
-== C#
-* http://www.csharp-station.com/Tutorial.aspx[C# tutorial]
-
 == Scheme
 
 * http://gustavus.edu/+max/concrete-abstractions-pdfs/index.html[Concrete Abstractions: An Introduction to Computer Science] | http://gustavus.edu/+max/concabs/code[Accompanying code]
@@ -100,19 +92,6 @@ http://www.positioniseverything.net[Position is Everything]:: If you want to try
 * http://www.ss64.com/bash[A-Z  index of the Linux BASH command line]
 * http://tldp.org/LDP/abs/html[Advanced Bash-Scripting Guide]
 * http://www.cs.hmc.edu/qref/awk.html[Getting Started with awk]
-
-== Editors
-
-* http://www.vim.org/docs.php[Vim documentation]
-* http://www.twoevils.org/files/.vimrc[April's .vimrc file]
-* http://oxygenxml.com[&lt;oXygen/&gt; XML editor] | http://www.oxygenxml.com/doc/ug-standalone/index.html[XML editor documentation]
-
-== DocBook and XSL/XSLT
-
-* http://www.sagehill.net/docbookxsl[DocBook XSL]
-* http://www.docbook.org/tdg5/en/html/docbook.html[DocBook: The Definitive Guide]
-* http://www.ibm.com/developerworks/library/os-eclipse-docbook/index.html[Build DocBook XML in Eclipse]
-* http://www.w3.org/TR/xslt[XSLT 1.0]
 
 == See also
 

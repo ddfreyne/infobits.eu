@@ -35,6 +35,15 @@ pre {
   border-color: #ccc;
 }
 
+.ins {
+  background-color: #f6996c;
+}
+
+.del {
+  background-color: #adadad;
+  text-decoration: line-through;
+}
+
 #main {
   margin: 40px 0 0 240px;
   width: 640px;

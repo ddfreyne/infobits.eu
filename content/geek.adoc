@@ -49,6 +49,7 @@ The following resources are not meant to be exhaustive; they are useful sources 
 
 == HTML and XML
 
+* http://www.w3.org/wiki/Common_HTML_entities_used_for_typography[Common HTML entities for topology]
 * http://www.webstandards.org/learn/reference/templates[HTML/XHTML templates]
 * http://validator.w3.org[HTML/XHTML validator]
 * http://en.wikipedia.org/wiki/Web_colors[Web colors]

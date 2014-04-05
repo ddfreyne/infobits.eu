@@ -8,7 +8,8 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title>&ib; technical documentation style guide</title>
+        <title>&ib; technical documentation:</title>
+        <subtitle>Style guide</subtitle>
         <copyright>
             <year>&copyright-year;</year>
             <holder>&author;</holder>
@@ -27,7 +28,7 @@
                 <term>Book</term>
                 <listitem>
                     <para>For a book, use a title that provides enough context. For example,
-                            <citetitle>&ib; technical documentation style guide</citetitle>
+                            <citetitle>&ib; technical documentation: Style guide</citetitle>
                         clarifies that the style guide is about technical documentation rather than
                         legal documentation, and <emphasis>&ib;</emphasis> specifies that it is
                         derived from Infobits rather than another entity.</para>
@@ -38,7 +39,7 @@
                 <listitem>
                     <para>For a chapter or section, use a title that provides enough context without
                         being redundant. In a chapter titled <citetitle>Lists</citetitle>, for
-                        example, use <citetitle>Ordered</citetitle> and
+                        example, use section titles <citetitle>Ordered</citetitle> and
                             <citetitle>Unordered</citetitle> rather than <citetitle>Ordered
                             list</citetitle> and <citetitle>Unordered list</citetitle>.</para>
                 </listitem>

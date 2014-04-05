@@ -102,6 +102,22 @@ pre {
   padding: 0px;
 }
 
+#main .chapter {
+  margin-top: 1em;
+}
+
+#main .chapter .titlepage .title {
+  font-size: 25px;
+}
+
+code {
+  font-size: 15px;
+  color: #000;
+}
+#main .toc .section {
+  margin-left: 1em;
+}
+
 #sidebar {
   float: left;
   width: 200px;

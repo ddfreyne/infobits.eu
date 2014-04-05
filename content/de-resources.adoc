@@ -3,13 +3,12 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== Dictionaries
+== Dictionary, conjugator, and colocation sites
 
 * http://www.wordreference.com/deen[Word Reference DE]
 * http://dict.tu-chemnitz.de/dings.cgi?lang=en;service=deen[Eng-German-Eng dictionary]
-
-== Conjugators
-* http://www.verbix.com/languages/german.shtml[Verbix: German]
+* http://www.verbix.com/languages/german.shtml[Verb conjugator]
+* http://wortschatz.uni-leipzig.de[Frequency and colocation of German terms]
 
 == Reading material
 

@@ -1,25 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE book [
+<!ENTITY % ent SYSTEM "conref.ent">
+%ent;]
+>
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <info>
-        <title>Technical documentation style guide</title>
-        <author>
-            <personname><firstname>Ursula</firstname><surname>Kallio</surname></personname>
-            <email>ursula.kallio@gmail.com</email>
-        </author>
+        <title>&ib; technical documentation style guide</title>
+        <copyright>
+            <year>&copyright-year;</year>
+            <holder>&author;</holder>
+        </copyright>
+        <legalnotice>
+            <para>This work and its source files are licensed under a <link
+                    xlink:href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                    Attribution-ShareAlike 4.0 International License</link>.</para>
+        </legalnotice>
     </info>
+    <chapter>
+        <title>Titles</title>
+        <para>Title styles differ depending on where they are used.</para>
+        <variablelist>
+            <varlistentry>
+                <term>Book</term>
+                <listitem>
+                    <para>For a book, use a title that provides enough context. For example,
+                            <citetitle>&ib; technical documentation style guide</citetitle>
+                        clarifies that the style guide is about technical documentation rather than
+                        legal documentation, and <emphasis>&ib;</emphasis> specifies that it is
+                        derived from Infobits rather than another entity.</para>
+                </listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>Chapter or section</term>
+                <listitem>
+                    <para>For a chapter or section, use a title that provides enough context without
+                        being redundant. In a chapter titled <citetitle>Lists</citetitle>, for
+                        example, use <citetitle>Ordered</citetitle> and
+                            <citetitle>Unordered</citetitle> rather than <citetitle>Ordered
+                            list</citetitle> and <citetitle>Unordered list</citetitle>.</para>
+                </listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>Procedure</term>
+                <listitem>
+                    <para>For procedure titles, use a <link
+                            xlink:href="http://en.wikipedia.org/wiki/Gerund">gerund</link> (also
+                        known as a verb with an <literal>-ing</literal> ending), such as
+                            <literal>Writing</literal> in the example that follows. Doing so keeps
+                        the procedure name short, and distinguishes the name of a procedure from its
+                        steps that are in the <link
+                            xlink:href="http://en.wikipedia.org/wiki/Imperative">imperative</link>
+                        form.</para>
+                    <procedure>
+                        <title>Writing a procedure:</title>
+                        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                            diam.</para>
+                        <step>
+                            <para>Create a new file (<literal>File</literal> →
+                                    <literal>New...</literal>).</para>
+                        </step>
+                        <step>
+                            <para>Give the file a name that is similar enough to the name of the
+                                procedure, for example
+                                <filename>writing-procedure.xml</filename>.</para>
+                        </step>
+                        <step>
+                            <para>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mi
+                                mauris, accumsan vitae.</para>
+                        </step>
+                        <step>
+                            <para>Suspendisse erat tortor, condimentum sed turpis condimentum,
+                                semper sagittis velit. Fusce sed magna pretium, accumsan tellus id,
+                                congue.</para>
+                        </step>
+                    </procedure>
+                </listitem>
+            </varlistentry>
+        </variablelist>
+    </chapter>
     <chapter>
         <title>Organization</title>
         <para>It is often easier to organize a document after you have ample content. "Let the data
-            tell you the answer."</para>
+            do the organizing."</para>
         <section>
-            <title>Chapters, sections, and subsections</title>
+            <title>Chapter or section</title>
             <para>If you chunk information into smaller parts, introduce the set of smaller parts
-                with a sentence or paragraph. This reduces organizational bloat. If you find it
-                difficult to write that introduction, you might have an extraneous organizational
-                layer.</para>
+                with a sentence or paragraph. If you find it difficult to write that introduction,
+                your organizational structure might be bloated; you might have a section or
+                subsection that you can remove.</para>
         </section>
     </chapter>
     <chapter>
@@ -30,18 +101,18 @@
                     <replaceable>foo</replaceable>: A tool that ...</code>, where <code>*</code>
             signifies an unordered list and <code>:</code> signifies a definition list.</para>
         <section xml:id="definition-list">
-            <title>Definition list</title>
+            <title>Definition</title>
             <para>Use an definition (or variable) list for complementary information that includes a
                 term and a definition.</para>
         </section>
         <section xml:id="ordered-list">
-            <title>Ordered list</title>
+            <title>Ordered</title>
             <para>Use an ordered (or numbered) list for information that needs to be performed in a
                 particular order. If only part of the list needs to be performed in a particular
                 order, write a default order that you want your reader to use.</para>
         </section>
         <section xml:id="unordered-list">
-            <title>Unordered list</title>
+            <title>Unordered</title>
             <para>Use an unordered (or bulleted) list for information that does not need to be
                 performed in a particular order.</para>
         </section>

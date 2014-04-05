@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY ib "Infobits">
+<!ENTITY ib-url "http://infobits.eu">
+<!ENTITY ib-url-short "http://infobits.eu">
+
+<!ENTITY author "Ursula Kallio">
+<!ENTITY author-honorific-last "Ms. Kallio">
+
+<!ENTITY copyright-year "2014">
+<!ENTITY current-year "2014">
+
+<!ENTITY ipa "IPA">
+<!ENTITY ipa-v "International Phonetic Alphabet">
+<!ENTITY ipa-url-pdf "http://www.langsci.ucl.ac.uk/ipa/IPA_chart_(C)2005.pdf">
+
+<!ENTITY ipa-license "IPA Chart, http://www.langsci.ucl.ac.uk/ipa/ipachart.html, available under a 
+Creative Commons Attribution-Sharealike 3.0 Unported License. 
+Copyright © 2005 International Phonetic Association.">
+
+<!ENTITY sa "See also">
+
+<!ENTITY license-image "<xref href='http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US' format='html'>
+  <image href='../img/88x31.png'>
+    <alt>'Creative Commons License'</alt>
+  </image>
+</xref>">
+
+<!ENTITY cc-license-ursula-kallio-pt2 "This content by Ursula Kallio is licensed under a
+<xref href='http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US' format='html'
+  >Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</xref>.">

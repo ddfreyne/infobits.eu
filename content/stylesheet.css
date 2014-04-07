@@ -118,6 +118,38 @@ code {
   margin-left: 1em;
 }
 
+/* learning-log.adoc styling */
+
+._learning-log-lesson p {
+  text-transform: uppercase;
+}
+
+._learning-log-date p {
+  text-transform: uppercase;
+}
+
+._learning-log-goal p {
+  text-transform: uppercase;
+}
+
+._learning-log-notes p {
+  text-transform: uppercase;
+}
+
+._learning-log-new-words p {
+  text-transform: uppercase;
+}
+
+._learning-log-look-up p {
+  text-transform: uppercase;
+}
+
+._learning-log-work-on p {
+  text-transform: uppercase;
+}
+
+/* THE END */
+
 #sidebar {
   float: left;
   width: 200px;

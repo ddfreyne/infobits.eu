@@ -1,0 +1,28 @@
+= Learning log
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+[role="_learning-log-lesson"]
+Lesson:
+
+[role="_learning-log-date"]
+Date:
+
+[role="_learning-log-goal"]
+My goal:
+
+[role="_learning-log-notes"]
+Notes:
+
+[role="_learning-log-new-words"]
+New words:
+
+[role="_learning-log-look-up"]
+Words to look up:
+
+[role="_learning-log-work-on"]
+Things I need to work on:
+
+'''
+Last updated: {docdatetime}

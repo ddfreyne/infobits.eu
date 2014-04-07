@@ -44,7 +44,9 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://www.colorhexa.com[Color encyclopedia: Information and conversion]
 * http://www.wellstyled.com/tools/colorscheme2/index-en.html[Color Scheme Generator 2]
 * http://www.colorschemer.com[Create a color scheme ($$)]
-* http://www.famfamfam.com/lab/icons[free icons] | http://urlgreyhot.com/personal/resources/mini_icons[more free icons]
+* http://www.entypo.com/characters[Entypo character map]
+* http://fortawesome.github.io/Font-Awesome/icons/[The complete set of 369 icons in Font Awesome 4.0.3]
+* http://weloveiconfonts.com[WE LOVE ICON FONTS]
 * http://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats[Comparison of graphics file formats]
 
 == HTML and XML

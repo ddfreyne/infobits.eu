@@ -6,7 +6,9 @@
 %ent;]
 >
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0"
+    xlink:href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
+    role="stylesheet" xlink:href="/font-awesome/css/font-awesome.min.css" role="stylesheet">
     <info>
         <title>&ib; technical documentation:</title>
         <subtitle>Style guide</subtitle>
@@ -20,6 +22,23 @@
                     Attribution-ShareAlike 4.0 International License</link>.</para>
         </legalnotice>
     </info>
+    <chapter>
+        <title>Shortened text</title>
+        <para>An <firstterm>acronym</firstterm> (or an initialism) is pronounced as a word (or a
+            series of letters), and is a short version of an expanded set of terms. For the sake of
+            simplicity, the term acronym is used in &ib; documentation.</para>
+        <para>If an acronym is unfamiliar to the reader, expand it first and put the acronym in
+            parentheses as in <emphasis>Simple File Transfer Protocol (SFTP)</emphasis>. If an
+            acronym is familiar to the reader, expand it in parentheses after the acronym as in
+                <emphasis>SFTP (Simple File Transfer Protocol)</emphasis>.</para>
+        <note>
+            <para>To avoid insulting your reader, do not expand an acronym if they use it on a
+                regular basis.</para>
+        </note>
+        <para>Expand abbreviations, such as e.g., because they often are unnecessary, they add
+            complexity for non-native readers, and are often used inconsistently. When there is
+            enough room to use complete terms, phrases, and sentences, expand them.</para>
+    </chapter>
     <chapter>
         <title>Titles</title>
         <para>Title styles differ depending on where they are used.</para>

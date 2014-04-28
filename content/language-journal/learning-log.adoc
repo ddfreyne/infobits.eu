@@ -3,26 +3,27 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-[role="_learning-log-lesson"]
-Lesson:
+[role="learning-log-lesson"]
+Lesson number:
 
-[role="_learning-log-date"]
+[role="learning-log-date"]
 Date:
 
-[role="_learning-log-goal"]
-My goal:
+[role="learning-log-goal"]
+Lesson goal:
 
-[role="_learning-log-notes"]
+[role="learning-log-notes"]
 Notes:
 
-[role="_learning-log-new-words"]
-New words:
+[role="learning-log-new-words"]
+Freebies:
 
-[role="_learning-log-look-up"]
-Words to look up:
+[role="learning-log-look-up"]
+Look up:
 
-[role="_learning-log-work-on"]
-Things I need to work on:
+[role="div"]
+[role="learning-log-work-on"]
+Things to work on:
 
 '''
 Last updated: {docdatetime}

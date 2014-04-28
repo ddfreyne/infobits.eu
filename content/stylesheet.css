@@ -25,7 +25,7 @@ a:hover {
 
 code {
   font-family: monospace;
-  color: #f26522;
+  font-size: inherit;
 }
 
 pre {
@@ -33,6 +33,16 @@ pre {
   border: 1px;
   border-style: solid;
   border-color: #ccc;
+}
+
+.varname {
+  font-style: italic;
+  font-size: inherit;
+}
+
+.userinput {
+  font-family: monospace;
+  font-style: bold;
 }
 
 .ins {
@@ -50,7 +60,7 @@ pre {
 }
 
 #main h1 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: normal;
   line-height: 40px;
   letter-spacing: -1px;
@@ -107,45 +117,77 @@ pre {
 }
 
 #main .chapter .titlepage .title {
-  font-size: 25px;
+  font-size: 20px;
 }
 
-code {
-  font-size: 15px;
-  color: #000;
+#main .section .titlepage .title {
+  font-size: 18px;
 }
+
 #main .toc .section {
   margin-left: 1em;
 }
 
 /* learning-log.adoc styling */
 
-._learning-log-lesson p {
-  text-transform: uppercase;
+#main .learning-log-lesson p {
+  display: none;
+  border-top: 1px solid #ccc;
+  float: left;
+  width: 396px;
+  margin: 0px;
+  padding: 2px;
 }
 
-._learning-log-date p {
-  text-transform: uppercase;
+#main .learning-log-date p {
+  border-top: 0px solid #ccc;
+  float: right;
+  width: 232px;
+  margin: 0px;
+  padding: 2px;
 }
 
-._learning-log-goal p {
-  text-transform: uppercase;
+#main .learning-log-goal p {
+  border-top: 1px solid #ccc;
+  clear: right;
+  height: 50px;
+  width: 628px;
+  margin: 0px;
+  padding: 5px;
 }
 
-._learning-log-notes p {
-  text-transform: uppercase;
+#main .learning-log-notes p {
+  border-top: 1px solid #ccc;
+  width: 396px;
+  height: 600px;
+  float: left;
+  margin: 0px;
+  padding: 2px;
 }
 
-._learning-log-new-words p {
-  text-transform: uppercase;
+#main .learning-log-new-words p {
+  border-top: 1px solid #ccc;
+  float: left;
+  width: 232px;
+  height: 400px;
+  padding: 2px;
+  margin: 0px;
 }
 
-._learning-log-look-up p {
-  text-transform: uppercase;
+#main .learning-log-look-up p {
+  border-top: 1px solid #ccc;
+  float: right;
+  width: 232px;
+  height: 196px;
+  margin: 0px;  
+  padding: 2px;
 }
 
-._learning-log-work-on p {
-  text-transform: uppercase;
+#main .learning-log-work-on p {
+  border-top: 1px solid #ccc;
+  clear: left;
+  margin: 0;
+  height: 150px;
 }
 
 /* THE END */

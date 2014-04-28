@@ -8,7 +8,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <info>
-    <title>&ib; technical documentation:</title>
+    <title>&ib; technical documentation</title>
     <subtitle>Style guide</subtitle>
     <copyright>
       <year>&copyright-year;</year>
@@ -20,6 +20,176 @@
           Attribution-ShareAlike 4.0 International License</link>.</para>
     </legalnotice>
   </info>
+  <chapter>
+    <title>Conventions</title>
+    <para>&ib; documentation conforms to the following conventions:</para>
+    <informaltable>
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry><para>Convention</para></entry>
+            <entry><para>Meaning</para></entry>
+            <entry><para>Example</para></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><para><code>command</code></para></entry>
+            <entry><para>Command names and options, subcommand names, function names, path names,
+                file names, and URLs are in a fixed-width font.</para></entry>
+            <entry><para><code>screen</code>, <code>-Dr</code></para></entry>
+          </row>
+          <row>
+            <entry><para><varname>variable</varname></para></entry>
+            <entry><para>Variables and other replaceable text are in italics.</para></entry>
+            <entry><para><varname>my-path</varname></para></entry>
+          </row>
+          <row>
+            <entry><para><userinput>user input</userinput></para></entry>
+            <entry><para>Text that a user actively enters is bold and fixed width.</para></entry>
+            <entry><para><userinput>make deploy</userinput></para></entry>
+          </row>
+          <row>
+            <entry><para><firstterm>new term</firstterm></para></entry>
+            <entry><para>A newly-introduced term is in italics.</para></entry>
+            <entry><para><firstterm>concurrency</firstterm></para></entry>
+          </row>
+          <row>
+            <entry><para>{}</para></entry>
+            <entry><para>Syntax elements that are required are in curly brackets.</para></entry>
+            <entry><para>{<code>-d</code>}</para></entry>
+          </row>
+          <row>
+            <entry><para>[]</para></entry>
+            <entry><para>Syntax elements that are optional are in square brackets.</para></entry>
+            <entry><para>[<code>-t</code>]</para></entry>
+          </row>
+          <row>
+            <entry><para><tag class="starttag"/></para></entry>
+            <entry><para>The HTML or XML element (or tag) is in angle brackets; the name of an HTML
+                or XML element is not in angle brackets.</para>
+            </entry>
+            <entry><para><tag class="starttag">body</tag>; the <tag class="element">body</tag>
+                element</para></entry>
+          </row>
+          <row>
+            <entry><para>|</para></entry>
+            <entry><para>A pipe denotes a logical OR within syntax.</para></entry>
+            <entry><para><code>a | b</code></para></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <!--
+## File names
+
+Allowable characters:
+<ul>
+  <li>uppercase initial letters for file names <code>Makefile</code>,
+    <code>Gemfile</code>, <code>Procfile</code>, and <code>Capfile</code></li>
+  <li>lowercase letters for most file names (<code>abc</code>)</li>
+  <li>numbers (<code>123</code>)</li>
+  <li>hyphen (<code>-</code>)</li>
+  <li>underscore (<code>_</code>)</li>
+  <li>dot (<code>.</code>)</li>
+</ul>
+
+Characters to avoid:
+<ul>
+  <li><code>(</code></li>
+  <li><code>)</code></li>
+  <li><code>:</code></li>
+  <li><code>?</code></li>
+  <li><code>#</code></li>
+  <li><code>*</code></li>
+  <li><code>$</code></li>
+  <li><code>@</code></li>
+  <li><code> </code> (spaces)</li>
+</ul>
+
+-->
+    <!--
+## Line breaks
+
+Avoid hard line breaks. Soft line breaks preserve unchanged code as is, which make it easier for you and others to see changes in GitHub.
+
+Note: If you use Sublime Text 2, go to `View` and select `Word wrap`. Next, select `Word wrap column` &rarr; `80`. If you are use Vim, resize the window.
+-->
+  </chapter>
+  <chapter>
+    <title>Organization</title>
+    <para>It is often easier to organize a document after you have ample content. "Let the data do
+      the organizing."</para>
+    <section>
+      <title>Chapter versus section</title>
+      <para>If you chunk information into smaller parts, write an introductory sentence or
+        paragraph. If you find it difficult to write that introduction, your organizational
+        structure might be bloated; you might have a section or subsection that you can
+        remove.</para>
+    </section>
+  </chapter>
+  <chapter>
+    <title>Lists</title>
+    <para>If you use a list, include more than one list item. If you only have one list item, remove
+      the list and rephrase the information using one or two sentences. Doing so removes unnecessary
+      structure. Use only one type of list at a time; avoid <code>* <replaceable>foo</replaceable>:
+        A tool that ...</code>, where <code>*</code> signifies an unordered list and <code>:</code>
+      signifies a definition list.</para>
+    <section xml:id="definition-list">
+      <title>Definition</title>
+      <para>Use an definition (or variable) list for complementary information that includes a term
+        and a definition.</para>
+    </section>
+    <section xml:id="ordered-list">
+      <title>Ordered</title>
+      <para>Use an ordered (or numbered) list for information that needs to be performed in a
+        particular order. If only part of the list needs to be performed in a particular order,
+        write a default order that you want your reader to use.</para>
+    </section>
+    <section xml:id="unordered-list">
+      <title>Unordered</title>
+      <para>Use an unordered (or bulleted) list for information that does not need to be performed
+        in a particular order.</para>
+    </section>
+  </chapter>
+  <chapter>
+    <title>Numbers</title>
+    <para>Generally, single-digit numbers are spelled out. For example, one, two, three, or 10, 11,
+      12. For details about how to be most clear when writing technical content that includes
+      numbers, see <citetitle><link xlink:href="http://www.grammarbook.com/numbers/numbers.asp"
+          >Writing Numbers</link></citetitle>.</para>
+  </chapter>
+  <chapter>
+    <title>Parts of speech</title>
+    <para>For terms such as <firstterm>set up</firstterm>, <firstterm>setup</firstterm>, and
+        <firstterm>set-up</firstterm>, examine the underlying parts of speech:</para>
+    <informaltable>
+      <thead>
+        <tr>
+          <td>Verb</td>
+          <td>Noun</td>
+          <td>Compound adjective</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>set up</td>
+          <td>setup</td>
+          <td>set-up</td>
+        </tr>
+        <tr>
+          <td>log in</td>
+          <td>login</td>
+          <td>log-in</td>
+        </tr>
+        <tr>
+          <td>log out</td>
+          <td>logout</td>
+          <td>log-out</td>
+        </tr>
+      </tbody>
+    </informaltable>
+  </chapter>
   <chapter>
     <title>Shortened text</title>
     <para>An <firstterm>acronym</firstterm> (or an <emphasis role="italic">initialism</emphasis>) is
@@ -93,41 +263,5 @@
         </listitem>
       </varlistentry>
     </variablelist>
-  </chapter>
-  <chapter>
-    <title>Organization</title>
-    <para>It is often easier to organize a document after you have ample content. "Let the data do
-      the organizing."</para>
-    <section>
-      <title>Chapter or section</title>
-      <para>If you chunk information into smaller parts, introduce the set of smaller parts with a
-        sentence or paragraph. If you find it difficult to write that introduction, your
-        organizational structure might be bloated; you might have a section or subsection that you
-        can remove.</para>
-    </section>
-  </chapter>
-  <chapter>
-    <title>Lists</title>
-    <para>If you use a list, include more than one list item. If you only have one list item, remove
-      the list and rephrase the information using one or two sentences. Doing so removes unnecessary
-      structure. Use only one type of list at a time; avoid <code>* <replaceable>foo</replaceable>:
-        A tool that ...</code>, where <code>*</code> signifies an unordered list and <code>:</code>
-      signifies a definition list.</para>
-    <section xml:id="definition-list">
-      <title>Definition</title>
-      <para>Use an definition (or variable) list for complementary information that includes a term
-        and a definition.</para>
-    </section>
-    <section xml:id="ordered-list">
-      <title>Ordered</title>
-      <para>Use an ordered (or numbered) list for information that needs to be performed in a
-        particular order. If only part of the list needs to be performed in a particular order,
-        write a default order that you want your reader to use.</para>
-    </section>
-    <section xml:id="unordered-list">
-      <title>Unordered</title>
-      <para>Use an unordered (or bulleted) list for information that does not need to be performed
-        in a particular order.</para>
-    </section>
   </chapter>
 </book>

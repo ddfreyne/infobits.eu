@@ -5,10 +5,7 @@ Author: _{author}_
 
 == 20140301 Digital house cleaning
 
-It has been a long time (seven years) since I have owned infobits.org, and I now
-I own infobits.eu. Bit by bit, I am porting over content so I can more easily
-start from scratch with a new site. I am feeling kind of done with blog software
-such as Drupal and Wordpress.
+It has been a long time (seven years) since I have owned `infobits.org`, and I now I own `infobits.eu`. Bit by bit, I am porting over content so I can more easily start from scratch with a new site. I am feeling kind of done with blog software Drupal or Wordpress.
 
 '''
 Last updated: {docdatetime}

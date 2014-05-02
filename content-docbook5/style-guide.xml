@@ -80,41 +80,33 @@
         </tbody>
       </tgroup>
     </informaltable>
-    <!--
-## File names
-
-Allowable characters:
-<ul>
-  <li>uppercase initial letters for file names <code>Makefile</code>,
-    <code>Gemfile</code>, <code>Procfile</code>, and <code>Capfile</code></li>
-  <li>lowercase letters for most file names (<code>abc</code>)</li>
-  <li>numbers (<code>123</code>)</li>
-  <li>hyphen (<code>-</code>)</li>
-  <li>underscore (<code>_</code>)</li>
-  <li>dot (<code>.</code>)</li>
-</ul>
-
-Characters to avoid:
-<ul>
-  <li><code>(</code></li>
-  <li><code>)</code></li>
-  <li><code>:</code></li>
-  <li><code>?</code></li>
-  <li><code>#</code></li>
-  <li><code>*</code></li>
-  <li><code>$</code></li>
-  <li><code>@</code></li>
-  <li><code> </code> (spaces)</li>
-</ul>
-
--->
-    <!--
-## Line breaks
-
-Avoid hard line breaks. Soft line breaks preserve unchanged code as is, which make it easier for you and others to see changes in GitHub.
-
-Note: If you use Sublime Text 2, go to `View` and select `Word wrap`. Next, select `Word wrap column` &rarr; `80`. If you are use Vim, resize the window.
--->
+    <section>
+      <title>File names</title>
+      <para>For the sake of consistency, and to avoid rendering problems that occur on some
+        platforms and applications, use the following characters when naming a file:</para>
+      <itemizedlist>
+        <listitem>
+          <para>lowercase (<code>abc</code>) letters</para>
+        </listitem>
+        <listitem>
+          <para>uppercase (<code>ABC</code>) letters only for the initial letter of file names such
+            as <code>Gemfile</code>, <code>Makefile</code>, or <code>Procfile</code>
+          </para>
+        </listitem>
+        <listitem>
+          <para>numbers (<code>123</code>)</para>
+        </listitem>
+        <listitem>
+          <para>hyphens (<code>-</code>)</para>
+        </listitem>
+        <listitem>
+          <para>underscores (<code>_</code>)</para>
+        </listitem>
+        <listitem>
+          <para>dots (<code>.</code>)</para>
+        </listitem>
+      </itemizedlist>
+    </section>
   </chapter>
   <chapter>
     <title>Organization</title>

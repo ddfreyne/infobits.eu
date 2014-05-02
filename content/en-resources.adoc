@@ -45,10 +45,10 @@ tickets, magazines, and novels.
 * http://www.bartleby.com/141/index.html[Strunk and White]
 
 == See also
-* The infobits link:../tech-doc[technical documentation] page
+* link:../tech-doc[Technical documentation]
+* link:../tech-doc/style-guide[Infobits technical documentation: Style guide]
 * http://ipa.typeit.org[Type IPA]
-* http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary
-	of linguistic terms]
+* http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary of linguistic terms]
 
 '''
 Last updated: {docdatetime}

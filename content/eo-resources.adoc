@@ -1,0 +1,9 @@
+= Esperanto resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+See link:http://blogs.transparent.com/esperanto/how-to-get-started-with-esperanto[How to get started with Esperanto] by Chuck Smith who resides in Berlin.
+
+'''
+Last updated: {docdatetime}

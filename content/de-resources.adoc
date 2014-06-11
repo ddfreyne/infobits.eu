@@ -15,23 +15,29 @@ Author: _{author}_
 * http://www.has.vcu.edu/for/mm/mm-vor_dual.html[Max and Moritz by Wilhelm Busch]
 * http://www.fln.vcu.edu//grimm/grimm_menu.html[Grimm's fairytales]
 * http://german.about.com/library/bllesen07dual01.htm[_Die Bremer
-	Stadtmusikanten_ | _The Bremen Town Musicians_] MP3s:
-	http://german.about.com/library/media/sound/bremer1.mp3[1],
+	Stadtmusikanten_ (_The Bremen Town Musicians_)] +
+	MP3s: http://german.about.com/library/media/sound/bremer1.mp3[1],
 	http://german.about.com/library/media/sound/bremer2.mp3[2],
 	http://german.about.com/library/media/sound/bremer3.mp3[3]
 	(copy and paste links)
 * http://www.literaturatlas.de/~ld1/abenteue/abenteue.htm[Die Abenteuer des
 	Barons]
 
+== Private teachers in Berlin
+
+* http://www.sprachenatelier-berlin.de/[Sprachenatelier] (ask for Iris)
+* http://smartergerman.com[Smarter German] | http://smartergerman.com/blog/[blog]
+
 == Websites for self study
 
+* https://plus.google.com/u/0/communities/105663710366632424901[Smarter German G+ community]
 * http://german.languagedaily.com/vocabulary/common-german-words[1,000 most
 	common German words]
 * http://www.dw.de/dw/0,,9572,00.html[LEVEL A1-B1 | GERMAN/ENGLISH: Deutsch Interaktiv]
 	| http://www.dw.de/deutsch-lernen/deutsch-interaktiv/s-2237[lesson list]
 * http://www.dw.de/deutsch-lernen/audiotrainer/s-3657[Audio trainer]
 * http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa[DEUTSCHKURS]
-* http://www.aprendealeman.com/blog[Aprende alemán blog (in Spanish and German)]
+* http://www.aprendealeman.com/blog[Aprende alemán blog] (in Spanish and German)
 * http://deutschlernen-blog.de[Deutsch lernen]
 * http://www.youtube.com/playlist?list=PL3936178A38BB5F87&feature=plcp[YouTube: Easy German]
 * http://mediathek.daserste.de/sendungen_a-z/1458_sendung-mit-der-maus[Sendung mit der Maus]

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE book [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Conventions</title>
+  <para>&ib; documentation conforms to the following conventions:</para>
+  <informaltable>
+    <tgroup cols="3">
+      <thead>
+        <row>
+          <entry><para>Convention</para></entry>
+          <entry><para>Meaning</para></entry>
+          <entry><para>Example</para></entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry><para><code>command</code></para></entry>
+          <entry><para>Command names and options, subcommand names, function names, path names, file
+              names, and URLs are in a fixed-width font.</para></entry>
+          <entry><para><code>screen</code>, <code>-Dr</code></para></entry>
+        </row>
+        <row>
+          <entry><para><varname>variable</varname></para></entry>
+          <entry><para>Variables and other replaceable text are in italics.</para></entry>
+          <entry><para><varname>my-path</varname></para></entry>
+        </row>
+        <row>
+          <entry><para><userinput>user input</userinput></para></entry>
+          <entry><para>Text that a user actively enters is bold and fixed width.</para></entry>
+          <entry><para><userinput>make deploy</userinput></para></entry>
+        </row>
+        <row>
+          <entry><para><firstterm>new term</firstterm></para></entry>
+          <entry><para>A newly-introduced term is in italics.</para></entry>
+          <entry><para><firstterm>concurrency</firstterm></para></entry>
+        </row>
+        <row>
+          <entry><para>{}</para></entry>
+          <entry><para>Syntax elements that are required are in curly brackets.</para></entry>
+          <entry><para>{<code>-d</code>}</para></entry>
+        </row>
+        <row>
+          <entry><para>[]</para></entry>
+          <entry><para>Syntax elements that are optional are in square brackets.</para></entry>
+          <entry><para>[<code>-t</code>]</para></entry>
+        </row>
+        <row>
+          <entry><para><tag class="starttag"/></para></entry>
+          <entry><para>The HTML or XML element (or tag) is in angle brackets; the name of an HTML or
+              XML element is not in angle brackets.</para>
+          </entry>
+          <entry><para><tag class="starttag">body</tag>; the <tag class="element">body</tag>
+              element</para></entry>
+        </row>
+        <row>
+          <entry><para>|</para></entry>
+          <entry><para>A pipe denotes a logical OR within syntax.</para></entry>
+          <entry><para><code>a | b</code></para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  <section>
+    <title>File names</title>
+    <para>For the sake of consistency, and to avoid rendering problems that occur on some platforms
+      and applications, use the following characters when naming a file:</para>
+    <itemizedlist>
+      <listitem>
+        <para>lowercase (<code>abc</code>) letters</para>
+      </listitem>
+      <listitem>
+        <para>uppercase (<code>ABC</code>) letters only for the initial letter of file names such as
+            <code>Gemfile</code>, <code>Makefile</code>, or <code>Procfile</code>
+        </para>
+      </listitem>
+      <listitem>
+        <para>numbers (<code>123</code>)</para>
+      </listitem>
+      <listitem>
+        <para>hyphens (<code>-</code>)</para>
+      </listitem>
+      <listitem>
+        <para>underscores (<code>_</code>)</para>
+      </listitem>
+      <listitem>
+        <para>dots (<code>.</code>)</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</chapter>

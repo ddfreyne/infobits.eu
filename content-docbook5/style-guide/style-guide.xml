@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE book [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <info>
+    <title>&ib; technical documentation</title>
+    <subtitle>Style guide</subtitle>
+    <copyright>
+      <year>&copyright-year;</year>
+      <holder>&author;</holder>
+    </copyright>
+    <legalnotice>
+      <para>This work and its source files are licensed under a <link
+          xlink:href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+          Attribution-ShareAlike 4.0 International License</link>.</para>
+    </legalnotice>
+  </info>
+  <xi:include href="conventions.xml"/>
+  <xi:include href="organization.xml"/>
+  <xi:include href="lists.xml"/>
+  <xi:include href="numbers.xml"/>
+  <xi:include href="parts-of-speech.xml"/>
+  <xi:include href="shortened-text.xml"/>
+  <xi:include href="titles.xml"/>
+</book>

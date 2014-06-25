@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="15.2">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="style-guide.xpr">
+        <file name="conventions.xml"/>
+        <file name="lists.xml"/>
+        <file name="numbers.xml"/>
+        <file name="organization.xml"/>
+        <file name="parts-of-speech.xml"/>
+        <file name="shortened-text.xml"/>
+        <file name="style-guide.xml"/>
+        <file name="titles.xml"/>
+    </projectTree>
+</project>

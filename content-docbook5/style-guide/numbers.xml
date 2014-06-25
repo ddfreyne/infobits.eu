@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Numbers</title>
+  <para>Generally, single-digit numbers are spelled out. For example, one, two, three, or 10, 11,
+    12. For details about how to be most clear when writing technical content that includes numbers,
+    see <citetitle><link xlink:href="http://www.grammarbook.com/numbers/numbers.asp">Writing
+        Numbers</link></citetitle>.</para>
+</chapter>

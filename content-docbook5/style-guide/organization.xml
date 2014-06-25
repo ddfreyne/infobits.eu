@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Organization</title>
+  <para>It is often easier to organize a document after you have ample content. "Let the data do the
+    organizing."</para>
+  <section>
+    <title>Chapter versus section</title>
+    <para>If you chunk information into smaller parts, write an introductory sentence or paragraph.
+      If you find it difficult to write that introduction, your organizational structure might be
+      bloated; you might have a section or subsection that you can remove.</para>
+  </section>
+</chapter>

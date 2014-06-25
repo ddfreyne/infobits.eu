@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE chapter [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Titles</title>
+  <para>Title styles differ depending on where they are used. To avoid typos, consider using
+    entities, such as <code>&sa;</code>, for section names that are frequently used. To be
+    consistent, leave out trailing colons within titles if they cannot be inserted
+    systematically.</para>
+  <variablelist>
+    <varlistentry>
+      <term>Book</term>
+      <listitem>
+        <para>For a book, use a title that provides enough context. For example, <citetitle>&ib;
+            technical documentation: Style guide</citetitle> clarifies that the style guide is about
+          technical documentation rather than legal documentation, and <emphasis>&ib;</emphasis>
+          specifies that it is derived from Infobits rather than another entity.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Chapter or section</term>
+      <listitem>
+        <para>For a chapter or section, use a title that provides enough context without being
+          redundant. In a chapter titled <citetitle>Lists</citetitle>, for example, use section
+          titles <citetitle>Ordered</citetitle> and <citetitle>Unordered</citetitle> rather than
+            <citetitle>Ordered list</citetitle> and <citetitle>Unordered list</citetitle>.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Procedure</term>
+      <listitem>
+        <para>For procedure titles, use a <link xlink:href="http://en.wikipedia.org/wiki/Gerund"
+            >gerund</link> (also known as a verb with an <literal>-ing</literal> ending), such as
+            <literal>Writing</literal> in the example that follows. Doing so keeps the procedure
+          name short, and distinguishes the name of a procedure from its steps that are in the <link
+            xlink:href="http://en.wikipedia.org/wiki/Imperative">imperative</link> form.</para>
+        <procedure>
+          <title>Writing a procedure</title>
+          <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.</para>
+          <step>
+            <para>Create a new file (<literal>File</literal> → <literal>New...</literal>).</para>
+          </step>
+          <step>
+            <para>Give the file a name that is similar enough to the name of the procedure, for
+              example <filename>writing-procedure.xml</filename>.</para>
+          </step>
+          <step>
+            <para>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mi mauris, accumsan
+              vitae.</para>
+          </step>
+          <step>
+            <para>Suspendisse erat tortor, condimentum sed turpis condimentum, semper sagittis
+              velit. Fusce sed magna pretium, accumsan tellus id, congue.</para>
+          </step>
+        </procedure>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</chapter>

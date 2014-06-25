@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE chapter [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Shortened text</title>
+  <para>An <firstterm>acronym</firstterm> (or an <emphasis role="italic">initialism</emphasis>) is
+    pronounced as a word (or a series of letters), and is a short version of an expanded set of
+    terms. For the sake of simplicity, the term acronym is used in &ib; documentation.</para>
+  <para>If an acronym is unfamiliar to the reader, expand it first and put the acronym in
+    parentheses as in <emphasis>Simple File Transfer Protocol (SFTP)</emphasis>. If an acronym is
+    familiar to the reader, expand it in parentheses after the acronym as in <emphasis>SFTP (Simple
+      File Transfer Protocol)</emphasis>.</para>
+  <note>
+    <para>To avoid insulting your reader, do not expand an acronym if it is used on a regular
+      basis.</para>
+  </note>
+  <para>Expand abbreviations, such as <literal>e.g.</literal>, because they add complexity for
+    non-native readers, are used inconsistently, and are unnecessary.</para>
+</chapter>

@@ -1,7 +1,7 @@
 # To force files to rebuild because they contain xincludes, 
 # use .PHONY: <target-name>.
 
-SG_PDF=../content/tech-doc/style-guide.pdf
+SG_PDF=../content/tech-doc/style-guide-pdf.pdf
 SG_FO=style-guide/out/pdf/style-guide.fo
 
 DOCBOOK_XSL=/usr/share/xml/docbook/stylesheet/docbook-xsl

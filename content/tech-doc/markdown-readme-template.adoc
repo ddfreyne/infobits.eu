@@ -53,12 +53,12 @@ To configure _project-name_, ...
 
 ## Versioning
 _project-name_ adheres to Semantic Versioning 2.0.0. If there is a violation of
-this scheme, report it as a bug.Specifically, if a patch or minor version is
+this scheme, report it as a bug. Specifically, if a patch or minor version is
 released and breaks backward compatibility, that version should be immediately
 yanked and/or a new version should be immediately released that restores
 compatibility. Any change that breaks the public API will only be introduced at
 a major-version release. As a result of this policy, you can (and should)
-specify any dependency on <project name> by using the Pessimistic Version
+specify any dependency on _project-name_ by using the Pessimistic Version
 Constraint with two digits of precision.
 
 ## Licensing

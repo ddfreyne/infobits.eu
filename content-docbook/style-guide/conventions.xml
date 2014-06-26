@@ -11,57 +11,114 @@
   <para>&ib; documentation conforms to the following conventions:</para>
   <informaltable>
     <tgroup cols="3">
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="2" colname="c2" colwidth="2.91*"/>
+      <colspec colnum="3" colname="c3" colwidth="1.63*"/>
       <thead>
         <row>
-          <entry><para>Convention</para></entry>
-          <entry><para>Meaning</para></entry>
-          <entry><para>Example</para></entry>
+          <entry>
+            <para>Convention</para>
+          </entry>
+          <entry>
+            <para>Meaning</para>
+          </entry>
+          <entry>
+            <para>Example</para>
+          </entry>
         </row>
       </thead>
       <tbody>
         <row>
-          <entry><para><code>command</code></para></entry>
-          <entry><para>Command names and options, subcommand names, function names, path names, file
-              names, and URLs are in a fixed-width font.</para></entry>
-          <entry><para><code>screen</code>, <code>-Dr</code></para></entry>
-        </row>
-        <row>
-          <entry><para><varname>variable</varname></para></entry>
-          <entry><para>Variables and other replaceable text are in italics.</para></entry>
-          <entry><para><varname>my-path</varname></para></entry>
-        </row>
-        <row>
-          <entry><para><userinput>user input</userinput></para></entry>
-          <entry><para>Text that a user actively enters is bold and fixed width.</para></entry>
-          <entry><para><userinput>make deploy</userinput></para></entry>
-        </row>
-        <row>
-          <entry><para><firstterm>new term</firstterm></para></entry>
-          <entry><para>A newly-introduced term is in italics.</para></entry>
-          <entry><para><firstterm>concurrency</firstterm></para></entry>
-        </row>
-        <row>
-          <entry><para>{}</para></entry>
-          <entry><para>Syntax elements that are required are in curly brackets.</para></entry>
-          <entry><para>{<code>-d</code>}</para></entry>
-        </row>
-        <row>
-          <entry><para>[]</para></entry>
-          <entry><para>Syntax elements that are optional are in square brackets.</para></entry>
-          <entry><para>[<code>-t</code>]</para></entry>
-        </row>
-        <row>
-          <entry><para><tag class="starttag"/></para></entry>
-          <entry><para>The HTML or XML element (or tag) is in angle brackets; the name of an HTML or
-              XML element is not in angle brackets.</para>
+          <entry>
+            <para><code>command</code></para>
           </entry>
-          <entry><para><tag class="starttag">body</tag>; the <tag class="element">body</tag>
-              element</para></entry>
+          <entry>
+            <para>Names of commands, options, sub-commands, paths, files, and URLs display as
+              fixed-width font.</para>
+          </entry>
+          <entry>
+            <para><code>screen</code>, <code>-Dr</code></para>
+          </entry>
         </row>
         <row>
-          <entry><para>|</para></entry>
-          <entry><para>A pipe denotes a logical OR within syntax.</para></entry>
-          <entry><para><code>a | b</code></para></entry>
+          <entry>
+            <para><filename><replaceable>replaceable</replaceable></filename></para>
+          </entry>
+          <entry>
+            <para>Replaceable text, such as a file name that a user replaces, displays as fixed
+              width and italics.</para>
+          </entry>
+          <entry><filename><replaceable>file-name</replaceable></filename></entry>
+        </row>
+        <row>
+          <entry>
+            <para><firstterm>first term</firstterm></para>
+          </entry>
+          <entry>
+            <para>New terms and emphasized text display as italics.</para>
+          </entry>
+          <entry><firstterm>concurrency</firstterm></entry>
+        </row>
+        <row>
+          <entry>
+            <para><userinput>user input</userinput></para>
+          </entry>
+          <entry>
+            <para>Text that a user actively enters displays as bold and fixed width.<footnote>
+                <para>Two common verbs that are associated with user input are
+                    <emphasis>type</emphasis> and <emphasis>enter</emphasis>.</para>
+              </footnote></para>
+          </entry>
+          <entry>
+            <para>At the command line, enter <userinput>make deploy</userinput> to publish your
+              changes.</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>{}</para>
+          </entry>
+          <entry>
+            <para>Required syntax elements display within curly brackets.</para>
+          </entry>
+          <entry>
+            <para>{<code>-d</code>}</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>[]</para>
+          </entry>
+          <entry>
+            <para>Optional syntax elements display within square brackets.</para>
+          </entry>
+          <entry>
+            <para>[<code>-t</code>]</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para><tag class="starttag"/></para>
+          </entry>
+          <entry>
+            <para>The HTML or XML element (or tag) displays within angle brackets; the name of an
+              HTML or XML element is not in angle brackets.</para>
+          </entry>
+          <entry>
+            <para><tag class="starttag">body</tag>; the <tag class="element">body</tag>
+              element</para>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <para>|</para>
+          </entry>
+          <entry>
+            <para>A pipe denotes a logical OR within syntax.</para>
+          </entry>
+          <entry>
+            <para><code>a | b</code></para>
+          </entry>
         </row>
       </tbody>
     </tgroup>

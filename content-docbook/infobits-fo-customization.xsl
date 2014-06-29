@@ -20,4 +20,5 @@
   <xsl:param name="section.label.includes.component.label">1</xsl:param>
   <xsl:param name="highlight.source">1</xsl:param>
   <xsl:param name="show.comments">1</xsl:param>
+  <xsl:param name="ulink.footnotes">1</xsl:param>
 </xsl:stylesheet>

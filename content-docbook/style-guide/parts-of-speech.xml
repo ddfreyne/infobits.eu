@@ -7,29 +7,31 @@
   <para>For terms such as <firstterm>set up</firstterm>, <firstterm>setup</firstterm>, and
       <firstterm>set-up</firstterm>, examine the underlying parts of speech:</para>
   <informaltable>
-    <thead>
-      <tr>
-        <td>Verb</td>
-        <td>Noun</td>
-        <td>Compound adjective</td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>set up</td>
-        <td>setup</td>
-        <td>set-up</td>
-      </tr>
-      <tr>
-        <td>log in</td>
-        <td>login</td>
-        <td>log-in</td>
-      </tr>
-      <tr>
-        <td>log out</td>
-        <td>logout</td>
-        <td>log-out</td>
-      </tr>
-    </tbody>
+    <tgroup cols="3">
+      <thead>
+        <row>
+          <entry>Verb</entry>
+          <entry>Noun</entry>
+          <entry>Compound adjective</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>set up</entry>
+          <entry>setup</entry>
+          <entry>set-up</entry>
+        </row>
+        <row>
+          <entry>log in</entry>
+          <entry>login</entry>
+          <entry>log-in</entry>
+        </row>
+        <row>
+          <entry>log out</entry>
+          <entry>logout</entry>
+          <entry>log-out</entry>
+        </row>
+      </tbody>
+    </tgroup>
   </informaltable>
 </chapter>

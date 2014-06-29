@@ -1,0 +1,14 @@
+= Ein Kurs über Time Management
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+Date: 20140626
+
+Ich habe an einem Online-Kurs über Time Management teilgenimmt. Das war aber gut. Es heißt GTD (Getting Things Done) oder etwas ähnlich [0]. Es gibt ein GTD-Buch, aber diese Kurs mit Videos online war, und Videos sind schneller und interessanter als das Buch. Jede Video ist ungefähr 6 - 8 Minuten. Wenn man in Eile ist [1], man kann ein komplett Video in bloß [2] Minuten sehen.
+
+[0] ähnlich = _similar_ +
+[1] in Eile ist = _in a hurry_ +
+[2] bloß = _mere_
+
+'''
+Last updated: {docdatetime}

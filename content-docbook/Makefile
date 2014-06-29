@@ -1,20 +1,19 @@
 # To force files to rebuild because they contain xincludes, 
 # use .PHONY: <target-name>.
 
-SG_PDF=../content/tech-doc/style-guide-pdf.pdf
-SG_FO=style-guide/out/pdf/style-guide.fo
-SG_HTML=../content/tech-doc/style-guide.html
-
-DOCBOOK_XSL_HTML=infobits-html-customization.xsl
 DOCBOOK_XSL_FO=infobits-fo-customization.xsl
+DOCBOOK_XSL_HTML=infobits-html-customization.xsl
+
+SG_FO=style-guide/out/pdf/style-guide.fo
+SG_PDF=style-guide/out/pdf/style-guide-pdf.pdf
+SG_HTML=style-guide/out/pdf/style-guide.html
 
 .PHONY: all
-all: $(SG_FO) $(SG_PDF) $(SG_HTML)
+all: sg-pdf sg-html
 
 ################
 .PHONY: $(SG_FO)
 $(SG_FO):
-
 	xsltproc \
 	  --xinclude \
  	  --output $(SG_FO) \
@@ -37,7 +36,6 @@ sg-pdf: $(SG_FO) $(SG_PDF)
 ##################
 .PHONY: $(SG_HTML)
 $(SG_HTML):
-
 	xsltproc \
 	  --xinclude \
  	  --output $(SG_HTML) \

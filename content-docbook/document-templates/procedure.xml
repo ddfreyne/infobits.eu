@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE procedure [
+<!ENTITY % ent SYSTEM "conref.ent">
+%ent;]
+>
+<procedure>
+  <title>Title</title>
+  <step>
+    <para>Step goes here.</para>
+    <substeps>
+      <step>
+        <para>The sub-steps are as follows:</para>
+        <substeps>
+          <step>
+            <para>I am a sub-step.</para>
+          </step>
+          <step>
+            <para>TBD</para>
+            <para>TBD</para>
+          </step>
+          <step>
+            <para>TBD</para>
+          </step>
+        </substeps>
+      </step>
+      <step>
+        <para>TBD</para>
+      </step>
+      <step>
+        <para>TBD</para>
+      </step>
+    </substeps>
+  </step>
+  <step>
+    <para>TBD</para>
+  </step>
+  <step>
+    <para>TBD</para>
+    <substeps>
+      <step>
+        <para>TBD</para>
+      </step>
+      <step>
+        <para>TBD</para>
+      </step>
+      <step>
+        <para>TBD</para>
+      </step>
+    </substeps>
+  </step>
+</procedure>

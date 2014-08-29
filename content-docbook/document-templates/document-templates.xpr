@@ -7,5 +7,6 @@
     <projectTree name="document-templates.xpr">
         <file name="itemizedlist.xml"/>
         <file name="procedure.xml"/>
+        <file name="section.xml"/>
     </projectTree>
 </project>

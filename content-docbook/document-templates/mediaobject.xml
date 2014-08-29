@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE mediaobject [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<mediaobject>
+  <!-- Note that the conditions might or might not apply. -->
+  <imageobject condition="web">
+    <imagedata fileref="figs/web/db5d_ref09.png" format="PNG" scale="70"/>
+  </imageobject>
+  <imageobject condition="print">
+    <imagedata fileref="figs/print/db5d_ref09.pdf" format="PDF"/>
+  </imageobject>
+  <textobject>
+    <phrase>A phrase within a textobject.</phrase>
+  </textobject>
+  <caption>
+    <para>This is a short paragraph within a caption.</para>
+  </caption>
+</mediaobject>

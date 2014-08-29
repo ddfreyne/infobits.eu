@@ -2,10 +2,11 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!DOCTYPE procedure [
-<!ENTITY % ent SYSTEM "conref.ent">
+<!ENTITY % ent SYSTEM "../conref.ent">
 %ent;]
 >
-<procedure>
+<procedure xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
   <title>Title</title>
   <step>
     <para>Step goes here.</para>

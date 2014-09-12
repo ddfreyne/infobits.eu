@@ -6,6 +6,7 @@
     </meta>
     <projectTree name="style-guide.xpr">
         <file name="conventions.xml"/>
+        <file name="documentation-quality.xml"/>
         <file name="lists.xml"/>
         <file name="numbers.xml"/>
         <file name="organization.xml"/>

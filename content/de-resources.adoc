@@ -10,7 +10,7 @@ Author: _{author}_
 * http://www.verbix.com/languages/german.shtml[Verb conjugator]
 * http://wortschatz.uni-leipzig.de[Frequency and colocation of German terms]
 
-== Reading material
+== Free reading material
 
 * http://www.has.vcu.edu/for/mm/mm-vor_dual.html[Max and Moritz by Wilhelm Busch]
 * http://www.fln.vcu.edu//grimm/grimm_menu.html[Grimm's fairytales]
@@ -23,10 +23,14 @@ Author: _{author}_
 * http://www.literaturatlas.de/~ld1/abenteue/abenteue.htm[Die Abenteuer des
 	Barons]
 
+== Self-study material
+
+* http://kultur-kaufhaus.shop-asp.de/shop/action/productDetails/1248685/hilde_schneider_assimil_german_with_ease_lehrbuch_2700505271[Assimil - German with ease]
+
 == Private teachers in Berlin
 
-* http://www.sprachenatelier-berlin.de/[Sprachenatelier] (ask for Iris)
 * http://smartergerman.com[Smarter German] | http://smartergerman.com/blog/[blog]
+* http://www.sprachenatelier-berlin.de/[Sprachenatelier]
 
 == Websites for self study
 

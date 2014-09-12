@@ -17,5 +17,8 @@ about English, see the link:../en-resources/[English resources] page.
 * http://www.docsymmetry.com[Become a Great Technical Writer]
 * http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/x-epubtut-pdf.pdf[Build a digital book with EPUB]
 
+"Our goal ... should be to minimize the amount of personal style we impose upon our ... writing to better communicate the intent of the material." +
+&mdash; Langevin Learning Services
+
 '''
 Last updated: {docdatetime}

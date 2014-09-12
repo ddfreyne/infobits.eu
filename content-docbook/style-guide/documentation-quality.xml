@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE appendix [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<appendix xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0">
+  <title>Documentation quality</title>
+  <para>Depending on the amount of time that is available, you can use the following framework to
+    define the quality target for documentation.</para>
+  <table>
+    <title>&isg; quality parameters</title>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Quality parameter</entry>
+          <entry>Fix?</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Typos</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Vernacular</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Spell out contractions</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Extraneous phrasal verbs</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Complicated language</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Serial commas</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Passive voice</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Dangling modifiers</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Complete sentences</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Consistent headers</entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry>Extraneous ordered lists<footnote>
+              <para>Often, it is tempting to use an ordered list in places where an unordered list
+                is appropriate, such as a list of three platforms on which to install software.
+                Leave it up to the reader to count, and in this example use an unordered
+                list.</para>
+            </footnote></entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry/>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry> </entry>
+          <entry>&check;</entry>
+        </row>
+        <row>
+          <entry> </entry>
+          <entry>&check;</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</appendix>

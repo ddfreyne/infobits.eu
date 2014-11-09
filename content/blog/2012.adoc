@@ -1,0 +1,13 @@
+= 2012
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== [[20121230-do-you-ever-dream-in-another-language]]20121230 - Do you ever dream in another language?
+
+The alarm woke me up out of conversations in Mandarin, English, and Spanish. It's been a while since I can remember dreaming in any language. It's likely happened and is simply a matter of memory.
+
+
+
+'''
+Last updated: {docdatetime}

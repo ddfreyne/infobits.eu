@@ -3,9 +3,9 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== link:2014-blog-entries[2014]
+== link:2014[2014]
 
-== link:2013-blog-entries[2013]
+== link:2013[2013]
 
 
 '''

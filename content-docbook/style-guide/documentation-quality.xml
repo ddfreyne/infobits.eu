@@ -8,80 +8,71 @@
 <appendix xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
   version="5.0">
   <title>Documentation quality</title>
-  <para>Depending on the amount of time that is available, you can use the following framework to
-    define the quality target for documentation.</para>
-  <table>
-    <title>&isg; quality parameters</title>
+  <para>To increase the quality and consistency of your documentation, use the following
+    checklist:</para>
+  <informaltable>
     <tgroup cols="2">
       <thead>
         <row>
-          <entry>Quality parameter</entry>
-          <entry>Fix?</entry>
+          <entry>Quality checks</entry>
+          <entry>&check;</entry>
         </row>
       </thead>
       <tbody>
         <row>
-          <entry>Typos</entry>
-          <entry>&check;</entry>
+          <entry>Find all typos in documentation.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Vernacular</entry>
-          <entry>&check;</entry>
+          <entry>Find all typos in code examples.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Spell out contractions</entry>
-          <entry>&check;</entry>
+          <entry>Eliminate jargon.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Extraneous phrasal verbs</entry>
-          <entry>&check;</entry>
+          <entry>Expand contractions.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Complicated language</entry>
-          <entry>&check;</entry>
+          <entry>Simplify phrasal verbs.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Serial commas</entry>
-          <entry>&check;</entry>
+          <entry>Find missing serial commas.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Passive voice</entry>
-          <entry>&check;</entry>
+          <entry>Replace passive voice with active voice.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Dangling modifiers</entry>
-          <entry>&check;</entry>
+          <entry>Eliminate dangling modifiers.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Complete sentences</entry>
-          <entry>&check;</entry>
+          <entry>Write in complete sentences.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Consistent headers</entry>
-          <entry>&check;</entry>
+          <entry>Use parallel construction within headers.</entry>
+          <entry/>
         </row>
         <row>
-          <entry>Extraneous ordered lists<footnote>
+          <entry>Change extraneous ordered lists.<footnote>
               <para>Often, it is tempting to use an ordered list in places where an unordered list
                 is appropriate, such as a list of three platforms on which to install software.
                 Leave it up to the reader to count, and in this example use an unordered
                 list.</para>
             </footnote></entry>
-          <entry>&check;</entry>
-        </row>
-        <row>
           <entry/>
-          <entry>&check;</entry>
         </row>
         <row>
-          <entry> </entry>
-          <entry>&check;</entry>
-        </row>
-        <row>
-          <entry> </entry>
-          <entry>&check;</entry>
+          <entry>Omit gendered language where possible.</entry>
+          <entry/>
         </row>
       </tbody>
     </tgroup>
-  </table>
+  </informaltable>
 </appendix>

@@ -6,3 +6,4 @@ gem 'adsf'
 gem 'systemu'
 
 gem 'yonce'
+gem 'nokogiri'

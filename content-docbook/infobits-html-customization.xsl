@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:fo="http://www.w3.org/1999/XSL/Format" version="1.0">
   <xsl:import href="/usr/share/xml/docbook/stylesheet/docbook-xsl/html/profile-docbook.xsl"/>
+  <xsl:output method="html" encoding="UTF-8" indent="no"/>
   <xsl:template match="lineannotation">
     <fo:inline font-style="italic">
       <xsl:call-template name="inline.charseq"/>
@@ -21,4 +22,3 @@
   <xsl:param name="highlight.source">1</xsl:param>
   <xsl:param name="show.comments">1</xsl:param>
 </xsl:stylesheet>
-

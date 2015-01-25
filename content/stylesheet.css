@@ -1,16 +1,35 @@
 * {
-  margin: 0;
-  padding: 0;
-  font-family: 'Helvetica', sans-serif;
-}
+  margin:0;
+  padding:0;
+  font-family: 'Oxygen', sans-serif;
+  font-family: 'Source Code Pro', ;
+  }
+
+/*
+   font-family: 'Ubuntu Mono', ;
+   font-family: 'Overlock', cursive;
+   font-family: 'Sarina', cursive;
+   font-family: 'Cutive Mono', ;
+   font-family: 'PT Sans', sans-serif;
+   font-family: 'Anaheim', sans-serif;
+   font-family: 'Flamenco', cursive;
+   font-family: 'PT Mono', ;
+   font-family: 'Source Code Pro', ;
+   font-family: 'Asap', sans-serif;
+   font-family: 'Muli', sans-serif;
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Oxygen', sans-serif;
+   font-family: 'Special Elite', cursive;
+   font-family: 'Helvetica', sans-serif;
+*/
 
 body {
-  background: #fff;
-  line-height: 20px;
+  background:#fff;
+  line-height:20px;
 }
 
 a {
-  text-decoration: none;
+  text-decoration:none;
 }
 
 a:link,
@@ -20,228 +39,260 @@ a:visited {
 }
 
 a:hover {
-  color: #f90;
+  color:#f90;
 }
 
 code {
-  font-family: monospace;
-  font-size: inherit;
+  font-family:'Source Code Pro', monospace;
+  font-size:100%;
 }
 
 pre {
-  background-color: #ffffee; /* 80% lighter than code color */
-  border: 1px;
+  font-family:'Source Code Pro', monospace;
+  font-size:100%;
+  background-color:#ffffee; /* 80% lighter than code color */
+  border:1px;
+  border-style:solid;
+  border-color:#ccc;
+}
+
+div dl dt {
+  border-top-width: 0px;
+  border-right-width: inherit;
+  border-bottom-width: inherit;
+  border-left-width: 0px;
   border-style: solid;
   border-color: #ccc;
 }
 
+.use,
+.avoid {
+  border-top-width: 0px;
+  border-right-width: inherit;
+  border-bottom-width: inherit;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: #ccc;
+  padding-left: 2px;
+}
+
+/*div dl dd {
+  border-top-width: 0px;
+  border-right-width: inherit;
+  border-bottom-width: inherit;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: #ccc;
+  padding-left: 2px;
+}
+*/
 .varname {
-  font-style: italic;
-  font-size: inherit;
+  font-style:italic;
+  font-size:inherit;
 }
 
 .userinput {
-  font-family: monospace;
-  font-style: bold;
+  font-family:'Source Code Pro', monospace;
+  font-weight:bold;
 }
 
 .ins {
-  background-color: #f6996c;
+  background-color:#f6996c;
 }
 
 .del {
-  background-color: #adadad;
-  text-decoration: line-through;
+  background-color:#adadad;
+  text-decoration:line-through;
 }
 
 #main {
-  margin: 40px 0 0 240px;
-  width: 640px;
+  margin:40px 0 0 240px;
+  width:640px;
 }
 
 #main h1 {
-  font-size: 25px;
-  font-weight: normal;
-  line-height: 40px;
-  letter-spacing: -1px;
+  font-size:25px;
+  font-weight:normal;
+  line-height:40px;
+  letter-spacing:-1px;
 }
 
 #main h2 {
-  font-size: 22px;
-  font-weight: normal;
-  line-height: 30px;
-  letter-spacing: -1px;
+  font-size:22px;
+  font-weight:normal;
+  line-height:30px;
+  letter-spacing:-1px;
 }
 
 #main h3 {
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 30px;
-  letter-spacing: -1px;
+  font-size:18px;
+  font-weight:normal;
+  line-height:30px;
+  letter-spacing:-1px;
 }
 
 #main p {
-  margin: 20px 0;
-  font-size: 15px;
+  margin:20px 0;
+  font-size:15px;
 }
 
-#main ul, #main ol {
-  margin: 20px;
+#main ul,
+#main ol {
+  margin:20px;
 }
 
 #main li {
-  font-size: 15px;
-  line-height: 20px;
+  font-size:15px;
+  line-height:20px;
 }
 
 #main ul li {
-  list-style-type: square;
+  list-style-type:square;
 }
 
 #main li p {
-  margin: 4px 0px 0px 0px;
+  margin:4px 0px 0px 0px;
 }
 
 #main table {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-  margin: 20px 0px;
+  border:1px solid #ccc;
+  border-collapse:collapse;
+  margin:20px 0px;
 }
 
 #main table th,
 #main table td {
-  border: 1px solid #ccc;
-  padding: 2px 4px;
+  border:1px solid #ccc;
+  padding:2px 4px;
 }
 
 #main table p {
-  margin: 0px;
-  padding: 0px;
+  margin:0px;
+  padding:0px;
 }
 
 #main .chapter {
-  margin-top: 1em;
+  margin-top:1em;
 }
 
 #main .toc .section {
-  margin-left: 1em;
+  margin-left:1em;
 }
-
 /* learning-log.adoc styling */
 
 #main .learning-log-lesson p {
-  display: none;
-  border-top: 1px solid #ccc;
-  float: left;
-  width: 396px;
-  margin: 0px;
-  padding: 2px;
+  display:none;
+  border-top:1px solid #ccc;
+  float:left;
+  width:396px;
+  margin:0px;
+  padding:2px;
 }
 
 #main .learning-log-date p {
-  border-top: 0px solid #ccc;
-  float: right;
-  width: 232px;
-  margin: 0px;
-  padding: 2px;
+  border-top:0px solid #ccc;
+  float:right;
+  width:232px;
+  margin:0px;
+  padding:2px;
 }
 
 #main .learning-log-goal p {
-  border-top: 1px solid #ccc;
-  clear: right;
-  height: 50px;
-  width: 628px;
-  margin: 0px;
-  padding: 5px;
+  border-top:1px solid #ccc;
+  clear:right;
+  height:50px;
+  width:628px;
+  margin:0px;
+  padding:5px;
 }
 
 #main .learning-log-notes p {
-  border-top: 1px solid #ccc;
-  width: 396px;
-  height: 600px;
-  float: left;
-  margin: 0px;
-  padding: 2px;
+  border-top:1px solid #ccc;
+  width:396px;
+  height:600px;
+  float:left;
+  margin:0px;
+  padding:2px;
 }
 
 #main .learning-log-new-words p {
-  border-top: 1px solid #ccc;
-  float: left;
-  width: 232px;
-  height: 400px;
-  padding: 2px;
-  margin: 0px;
+  border-top:1px solid #ccc;
+  float:left;
+  width:232px;
+  height:400px;
+  padding:2px;
+  margin:0px;
 }
 
 #main .learning-log-look-up p {
-  border-top: 1px solid #ccc;
-  float: right;
-  width: 232px;
-  height: 196px;
-  margin: 0px;  
-  padding: 2px;
+  border-top:1px solid #ccc;
+  float:right;
+  width:232px;
+  height:196px;
+  margin:0px;
+  padding:2px;
 }
 
 #main .learning-log-work-on p {
-  border-top: 1px solid #ccc;
-  clear: left;
-  margin: 0;
-  height: 150px;
+  border-top:1px solid #ccc;
+  clear:left;
+  margin:0;
+  height:150px;
 }
-
 /* THE END */
 
 #sidebar {
-  float: left;
-  width: 200px;
-  padding: 20px 20px 0 0;
-  border-right: 1px solid #ccc;
-  text-align: right;
+  float:left;
+  width:200px;
+  padding:20px 20px 0 0;
+  border-right:1px solid #ccc;
+  text-align:right;
 }
 
 #sidebar h2 {
-  text-transform: uppercase;
-  font-size: 13px;
-  color: #333;
-  letter-spacing: 1px;
-  line-height: 20px;
+  text-transform:uppercase;
+  font-size:13px;
+  color:#333;
+  letter-spacing:1px;
+  line-height:20px;
 }
 
 #sidebar ul {
-  list-style-type: none;
-  margin: 20px 0;
+  list-style-type:none;
+  margin:20px 0;
 }
 
 #sidebar li {
-  font-size: 14px;
+  font-size:14px;
 }
 
 div#rukou p {
-  line-height: 300px;
-  font-size: 270px;
-  color: #f26522;
+  line-height:300px;
+  font-size:270px;
+  color:#f26522;
 }
 
 div#rukou-pinyin p {
-  line-height: 30px;
-  font-size: 30px;
-  color: #f26522;
+  font-family: 'Helvetica', sans-serif;
+  line-height:30px;
+  font-size:30px;
+  color:#f26522;
 }
 
 #footer {
-  clear: left;
-  border-top: 1px solid #ccc;
-  padding: 40px 40px 40px 240px;
-  background-color: #403830;
+  clear:left;
+  border-top:1px solid #ccc;
+  padding:40px 40px 40px 240px;
+  background-color:#403830;
   color:#999999;
 }
 
 #footer a:link,
 #footer a:visited {
-  color: black;
+  color:black;
   /* color: #f30; */
 }
 
 #footer a:hover {
-  color: #f26522;
+  color:#f26522;
 }

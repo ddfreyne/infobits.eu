@@ -9,13 +9,13 @@
   xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink"
   version="5.0">
   <info>
-    <title>&isg;</title>
+    <title>&title-isg;</title>
     <copyright>
       <year>&copyright-year;</year>
       <holder>&author;</holder>
     </copyright>
     <legalnotice>
-      <para>This work and its source files are licensed under a <link
+      <para>The <citetitle>&title-isg;</citetitle> and its source files are licensed under a <link
           xlink:href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
           Attribution-ShareAlike 4.0 International License</link>.</para>
     </legalnotice>

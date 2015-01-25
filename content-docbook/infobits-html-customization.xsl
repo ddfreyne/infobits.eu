@@ -17,6 +17,15 @@
   <xsl:param name="draft.mode">Yes</xsl:param>
   <xsl:param name="fop1.extensions">1</xsl:param>
   <xsl:param name="chapter.autolabel">1</xsl:param>
+  <xsl:param name="local.l10n.xml" select="document('')"/>
+  <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+    <l:l10n language="en">
+      <l:context name="title-numbered">
+        <l:template name="chapter" text="%n.&#160;%t"/>
+        <l:template name="appendix" text="%n.&#160;%t"/>
+      </l:context>
+    </l:l10n>
+  </l:i18n>
   <xsl:param name="section.autolabel">1</xsl:param>
   <xsl:param name="section.label.includes.component.label">1</xsl:param>
   <xsl:param name="highlight.source">1</xsl:param>

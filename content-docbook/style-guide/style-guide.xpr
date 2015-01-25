@@ -17,6 +17,7 @@
         <file name="parts-of-speech.xml"/>
         <file name="shortened-text.xml"/>
         <file name="style-guide.xml"/>
+        <file name="../../../TiF/doc/src/templates-of-XML-markup.xml"/>
         <file name="titles.xml"/>
     </projectTree>
 </project>

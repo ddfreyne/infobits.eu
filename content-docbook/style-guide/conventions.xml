@@ -48,7 +48,9 @@
             <para>Replaceable text, such as a file name that a user replaces, displays as fixed
               width and italics.</para>
           </entry>
-          <entry><filename><replaceable>file-name</replaceable></filename></entry>
+          <entry>
+            <para><filename><replaceable>file-name</replaceable></filename></para>
+          </entry>
         </row>
         <row>
           <entry>
@@ -57,7 +59,9 @@
           <entry>
             <para>New terms and emphasized text display as italics.</para>
           </entry>
-          <entry><firstterm>concurrency</firstterm></entry>
+          <entry>
+            <para><firstterm>concurrency</firstterm></para>
+          </entry>
         </row>
         <row>
           <entry>
@@ -123,31 +127,31 @@
       </tbody>
     </tgroup>
   </informaltable>
-  <section>
+  <formalpara>
     <title>File names</title>
     <para>For the sake of consistency, and to avoid rendering problems that occur on some platforms
       and applications, use the following characters when naming a file:</para>
-    <itemizedlist>
-      <listitem>
-        <para>lowercase (<code>abc</code>) letters</para>
-      </listitem>
-      <listitem>
-        <para>uppercase (<code>ABC</code>) letters only for the initial letter of file names such as
-            <code>Gemfile</code>, <code>Makefile</code>, or <code>Procfile</code>
-        </para>
-      </listitem>
-      <listitem>
-        <para>numbers (<code>123</code>)</para>
-      </listitem>
-      <listitem>
-        <para>hyphens (<code>-</code>)</para>
-      </listitem>
-      <listitem>
-        <para>underscores (<code>_</code>)</para>
-      </listitem>
-      <listitem>
-        <para>dots (<code>.</code>)</para>
-      </listitem>
-    </itemizedlist>
-  </section>
+  </formalpara>
+  <itemizedlist>
+    <listitem>
+      <para>lowercase (<code>abc</code>) letters</para>
+    </listitem>
+    <listitem>
+      <para>uppercase (<code>ABC</code>) letters only for the initial letter of file names such as
+          <code>Gemfile</code>, <code>Makefile</code>, or <code>Procfile</code>
+      </para>
+    </listitem>
+    <listitem>
+      <para>numbers (<code>123</code>)</para>
+    </listitem>
+    <listitem>
+      <para>hyphens (<code>-</code>)</para>
+    </listitem>
+    <listitem>
+      <para>underscores (<code>_</code>)</para>
+    </listitem>
+    <listitem>
+      <para>dots (<code>.</code>)</para>
+    </listitem>
+  </itemizedlist>
 </chapter>

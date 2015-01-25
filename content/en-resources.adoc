@@ -88,8 +88,8 @@ tickets, magazines, and novels.
 * http://www.bartleby.com/141/index.html[Strunk and White]
 
 == See also
-* link:../tech-doc[Technical documentation]
-* link:../tech-doc/style-guide[Infobits technical documentation: Style guide]
+* link:../documentation[Technical documentation]
+* link:../documentation/style-guide[Infobits documentation style guide]
 * http://ipa.typeit.org[Type IPA]
 * http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary of linguistic terms]
 

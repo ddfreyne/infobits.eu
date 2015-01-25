@@ -12,7 +12,6 @@ Author: _{author}_
 
 == Free reading material
 
-* http://www.has.vcu.edu/for/mm/mm-vor_dual.html[Max and Moritz by Wilhelm Busch]
 * http://www.fln.vcu.edu//grimm/grimm_menu.html[Grimm's fairytales]
 * http://german.about.com/library/bllesen07dual01.htm[_Die Bremer
 	Stadtmusikanten_ (_The Bremen Town Musicians_)] +
@@ -22,10 +21,6 @@ Author: _{author}_
 	(copy and paste links)
 * http://www.literaturatlas.de/~ld1/abenteue/abenteue.htm[Die Abenteuer des
 	Barons]
-
-== Self-study material
-
-* http://kultur-kaufhaus.shop-asp.de/shop/action/productDetails/1248685/hilde_schneider_assimil_german_with_ease_lehrbuch_2700505271[Assimil - German with ease]
 
 == Private teachers in Berlin
 
@@ -40,7 +35,6 @@ Author: _{author}_
 * http://www.dw.de/dw/0,,9572,00.html[LEVEL A1-B1 | GERMAN/ENGLISH: Deutsch Interaktiv]
 	| http://www.dw.de/deutsch-lernen/deutsch-interaktiv/s-2237[lesson list]
 * http://www.dw.de/deutsch-lernen/audiotrainer/s-3657[Audio trainer]
-* http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa[DEUTSCHKURS]
 * http://www.aprendealeman.com/blog[Aprende alemán blog] (in Spanish and German)
 * http://deutschlernen-blog.de[Deutsch lernen]
 * http://www.youtube.com/playlist?list=PL3936178A38BB5F87&feature=plcp[YouTube: Easy German]

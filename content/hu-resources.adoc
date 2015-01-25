@@ -1,0 +1,9 @@
+= Hungarian resources
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+
+
+'''
+Last updated: {docdatetime}

@@ -8,8 +8,9 @@ link:starting-point/[starting point] page or the
 link:markdown-readme-template/[Markdown README] template. Are you done writing?
 See the link:documentation-checklist/[documentation checklist].
 
-The resources that follow are for technical writers. For general information
-about English, see the link:../en-resources/[English resources] page.
+The resources that follow are for technical documentation. For general
+information about English, see the 
+link:../en-resources/[English resources] page.
 
 * http://www.plainlanguage.gov/howto/wordsuggestions/simplewords.cfm[Simple
 	Words and Phrases]
@@ -17,7 +18,7 @@ about English, see the link:../en-resources/[English resources] page.
 * http://www.docsymmetry.com[Become a Great Technical Writer]
 * http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/x-epubtut-pdf.pdf[Build a digital book with EPUB]
 
-"Our goal ... should be to minimize the amount of personal style we impose upon our ... writing to better communicate the intent of the material." +
+"Our goal [is] to minimize the amount of personal style we impose upon our ... writing to better communicate the intent of the material." +
 &mdash; Langevin Learning Services
 
 '''

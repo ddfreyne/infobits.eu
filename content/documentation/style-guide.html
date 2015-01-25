@@ -1,0 +1,253 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Infobits documentation style guide</title><meta name="generator" content="DocBook XSL Stylesheets V1.78.1"></head><body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="book"><div class="titlepage"><div><div><h1 class="title"><a name="idp51926768"></a>Infobits documentation style guide</h1></div><div><p class="copyright">Copyright © 2015 Ursula Kallio</p></div><div><div class="legalnotice"><a name="idp51961280"></a>
+      <p>The <em class="citetitle">Infobits documentation style guide</em> and its source files are licensed under a <a class="ulink" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_top">Creative Commons
+          Attribution-ShareAlike 4.0 International License</a>.</p>
+    </div></div></div><hr></div><div class="toc"><p><b>Table of Contents</b></p><dl class="toc"><dt><span class="chapter"><a href="#idp51936560">1. Conventions</a></span></dt><dt><span class="chapter"><a href="#idp52053296">2. Organization</a></span></dt><dd><dl><dt><span class="section"><a href="#idp51950320">2.1. Chapter versus section</a></span></dt></dl></dd><dt><span class="chapter"><a href="#lists">3. Lists</a></span></dt><dd><dl><dt><span class="section"><a href="#ordered-list">3.1. Ordered</a></span></dt><dt><span class="section"><a href="#unordered-list">3.2. Unordered</a></span></dt><dt><span class="section"><a href="#definition-list">3.3. Definition</a></span></dt></dl></dd><dt><span class="chapter"><a href="#idp51962912">4. Numbers</a></span></dt><dt><span class="chapter"><a href="#idp52076144">5. Parts of speech</a></span></dt><dt><span class="chapter"><a href="#genderless-language">6. Genderless language</a></span></dt><dt><span class="chapter"><a href="#shortened-text">7. Shortened text</a></span></dt><dd><dl><dt><span class="section"><a href="#acronym">7.1. Acronym</a></span></dt><dt><span class="section"><a href="#abbreviation">7.2. Abbreviation</a></span></dt><dt><span class="section"><a href="#contraction">7.3. Contraction</a></span></dt></dl></dd><dt><span class="chapter"><a href="#idp51983216">8. Titles</a></span></dt><dd><dl><dt><span class="section"><a href="#idp52104848">8.1. Book</a></span></dt><dt><span class="section"><a href="#idp51995312">8.2. Chapter or section</a></span></dt><dt><span class="section"><a href="#idp51991136">8.3. Procedure</a></span></dt></dl></dd><dt><span class="appendix"><a href="#idp52057568">A. Documentation quality</a></span></dt></dl></div>
+  
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="idp51936560"></a>1. Conventions</h1></div></div></div>
+  
+  <p>Infobits documentation conforms to the following conventions:</p>
+  <div class="informaltable">
+    <table border="1"><colgroup><col class="c1"><col class="c2"><col class="c3"></colgroup><thead><tr><th>
+            <p>Convention</p>
+          </th><th>
+            <p>Meaning</p>
+          </th><th>
+            <p>Example</p>
+          </th></tr></thead><tbody><tr><td>
+            <p><code class="code">command</code></p>
+          </td><td>
+            <p>Names of commands, options, sub-commands, paths, files, and URLs display as
+              fixed-width font.</p>
+          </td><td>
+            <p><code class="code">screen</code>, <code class="code">-Dr</code></p>
+          </td></tr><tr><td>
+            <p><code class="filename"><em class="replaceable"><code>replaceable</code></em></code></p>
+          </td><td>
+            <p>Replaceable text, such as a file name that a user replaces, displays as fixed
+              width and italics.</p>
+          </td><td>
+            <p><code class="filename"><em class="replaceable"><code>file-name</code></em></code></p>
+          </td></tr><tr><td>
+            <p><em class="firstterm">first term</em></p>
+          </td><td>
+            <p>New terms and emphasized text display as italics.</p>
+          </td><td>
+            <p><em class="firstterm">concurrency</em></p>
+          </td></tr><tr><td>
+            <p><strong class="userinput"><code>user input</code></strong></p>
+          </td><td>
+            <p>Text that a user actively enters displays as bold and fixed width.<a href="#ftn.idp52049712" class="footnote" name="idp52049712"><sup class="footnote">[a]</sup></a></p>
+          </td><td>
+            <p>At the command line, enter <strong class="userinput"><code>make deploy</code></strong> to publish your
+              changes.</p>
+          </td></tr><tr><td>
+            <p>{}</p>
+          </td><td>
+            <p>Required syntax elements display within curly brackets.</p>
+          </td><td>
+            <p>{<code class="code">-d</code>}</p>
+          </td></tr><tr><td>
+            <p>[]</p>
+          </td><td>
+            <p>Optional syntax elements display within square brackets.</p>
+          </td><td>
+            <p>[<code class="code">-t</code>]</p>
+          </td></tr><tr><td>
+            <p><code class="sgmltag-starttag">&lt;&gt;</code></p>
+          </td><td>
+            <p>The HTML or XML element (or tag) displays within angle brackets; the name of an
+              HTML or XML element is not in angle brackets.</p>
+          </td><td>
+            <p><code class="sgmltag-starttag">&lt;body&gt;</code>; the <code class="sgmltag-element">body</code>
+              element</p>
+          </td></tr><tr><td>
+            <p>|</p>
+          </td><td>
+            <p>A pipe denotes a logical OR within syntax.</p>
+          </td><td>
+            <p><code class="code">a | b</code></p>
+          </td></tr></tbody><tbody class="footnotes"><tr><td colspan="3"><div id="ftn.idp52049712" class="footnote">
+                <p><a href="#idp52049712" class="para"><sup class="para">[a] </sup></a>Two verbs that are commonly associated with user input are
+                    <span class="emphasis"><em>type</em></span> and <span class="emphasis"><em>enter</em></span>.</p>
+              </div></td></tr></tbody></table>
+  </div>
+  <p>
+    <b>File names. </b>
+    For the sake of consistency, and to avoid rendering problems that occur on some platforms
+      and applications, use the following characters when naming a file:
+  </p>
+  <div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem">
+      <p>lowercase (<code class="code">abc</code>) letters</p>
+    </li><li class="listitem">
+      <p>uppercase (<code class="code">ABC</code>) letters only for the initial letter of file names such as
+          <code class="code">Gemfile</code>, <code class="code">Makefile</code>, or <code class="code">Procfile</code>
+      </p>
+    </li><li class="listitem">
+      <p>numbers (<code class="code">123</code>)</p>
+    </li><li class="listitem">
+      <p>hyphens (<code class="code">-</code>)</p>
+    </li><li class="listitem">
+      <p>underscores (<code class="code">_</code>)</p>
+    </li><li class="listitem">
+      <p>dots (<code class="code">.</code>)</p>
+    </li></ul></div>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="idp52053296"></a>2. Organization</h1></div></div></div><div class="toc"><p><b>Table of Contents</b></p><dl class="toc"><dt><span class="section"><a href="#idp51950320">2.1. Chapter versus section</a></span></dt></dl></div>
+  
+  <p>It is often easier to organize a document after you have ample content. "Let the data do the
+    organizing."</p>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="idp51950320"></a>2.1. Chapter versus section</h2></div></div></div>
+    
+    <p>If you chunk information into smaller parts, write an introductory sentence or paragraph.
+      If you find it difficult to write that introduction, your organizational structure might be
+      bloated; you might have a section or subsection that you can remove.</p>
+  </div>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="lists"></a>3. Lists</h1></div></div></div><div class="toc"><p><b>Table of Contents</b></p><dl class="toc"><dt><span class="section"><a href="#ordered-list">3.1. Ordered</a></span></dt><dt><span class="section"><a href="#unordered-list">3.2. Unordered</a></span></dt><dt><span class="section"><a href="#definition-list">3.3. Definition</a></span></dt></dl></div>
+  
+  <p>If you use a list, include more than one list item. If you only have one list item, remove
+    the list and rephrase the information using one or two sentences. Doing so removes unnecessary
+    structure. Use only one type of list at a time; avoid <code class="code">* <em class="replaceable"><code>foo</code></em>: A
+      tool that ...</code>, where <code class="code">*</code> signifies an unordered list and <code class="code">:</code>
+    signifies a definition list.</p>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="ordered-list"></a>3.1. Ordered</h2></div></div></div>
+    
+    <p>Use an ordered (or numbered) list for instructions that must be performed in a particular
+      order.</p>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="unordered-list"></a>3.2. Unordered</h2></div></div></div>
+    
+    <p>Use an unordered (or bulleted) list for items, or instructions that can be performed in a
+      any order. Put the most important information at the top because that is where readers pay
+      more attention.</p>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="definition-list"></a>3.3. Definition</h2></div></div></div>
+    
+    <p>Use an definition (or variable) list for terms and definitions.</p>
+  </div>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="idp51962912"></a>4. Numbers</h1></div></div></div>
+  
+  <p>Generally, single-digit numbers are spelled out. For example, one, two, three, or 10, 11,
+    12. For details about how to be most clear when writing technical content that includes numbers,
+    see <em class="citetitle"><a class="ulink" href="http://www.grammarbook.com/numbers/numbers.asp" target="_top">Writing
+        Numbers</a></em>.</p>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="idp52076144"></a>5. Parts of speech</h1></div></div></div>
+  
+  <p>For terms such as <em class="firstterm">set up</em>, <em class="firstterm">setup</em>, and
+      <em class="firstterm">set-up</em>, examine the underlying parts of speech:</p>
+  <div class="informaltable">
+    <table border="1"><colgroup><col><col><col></colgroup><thead><tr><th>Verb</th><th>Noun</th><th>Compound adjective</th></tr></thead><tbody><tr><td>set up</td><td>setup</td><td>set-up</td></tr><tr><td>log in</td><td>login</td><td>log-in</td></tr><tr><td>log out</td><td>logout</td><td>log-out</td></tr></tbody></table>
+  </div>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="genderless-language"></a>6. Genderless language</h1></div></div></div>
+  
+  <p>By default, eliminate gendered language in your writing. When in doubt, write directly to
+    your reader. Also, <span class="emphasis"><em>they</em></span> and <span class="emphasis"><em>them</em></span> are the preferred
+    pronouns for singular and plural forms if doing so does not cause confusion.</p>
+  <div class="variablelist"><dl class="variablelist"><dt><span class="term">😺</span></dt><dd>
+        <p class="use"><span class="quote">“<span class="quote">When you download and install the software, it takes approximately
+            three minutes for the installation to complete.</span>”</span></p>
+      </dd><dt><span class="term">😿</span></dt><dd>
+        <p class="avoid"><span class="quote">“<span class="quote">When the user downloads and installs the software, it takes
+            approximately three minutes for him to install it.</span>”</span></p>
+      </dd></dl></div>
+  <p>Within a single scenario where you need to differentiate between two actors, gendered
+    language is useful. Alice and Bob are common names in such a scenario. For example, <span class="quote">“<span class="quote">Alice
+      emailed Bob at 11:34.</span>”</span> and <span class="quote">“<span class="quote">Bob responded with a follow-up message at
+      11:46.</span>”</span></p>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="shortened-text"></a>7. Shortened text</h1></div></div></div><div class="toc"><p><b>Table of Contents</b></p><dl class="toc"><dt><span class="section"><a href="#acronym">7.1. Acronym</a></span></dt><dt><span class="section"><a href="#abbreviation">7.2. Abbreviation</a></span></dt><dt><span class="section"><a href="#contraction">7.3. Contraction</a></span></dt></dl></div>
+  
+  <p>If you have the space to write, use it.</p>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="acronym"></a>7.1. Acronym</h2></div></div></div>
+    
+    <p>An <em class="firstterm">acronym</em> (or an <span class="italic">initialism</span>) is
+      pronounced as a word (or a series of letters), and is a short version of an expanded set of
+      terms. For the sake of simplicity, the term acronym is used in Infobits documentation.</p>
+    <p>If an acronym is unfamiliar to the reader, expand it first and put the acronym in
+      parentheses as in <span class="emphasis"><em>Simple File Transfer Protocol (SFTP)</em></span>. If an acronym is
+      familiar to the reader, expand it in parentheses after the acronym as in <span class="emphasis"><em>SFTP
+        (Simple File Transfer Protocol)</em></span>.</p>
+    <div class="note" style="margin-left: 0.5in; margin-right: 0.5in;"><h3 class="title">Note</h3>
+      <p>To avoid insulting your reader, do not expand an acronym if it is used on a regular
+        basis.</p>
+    </div>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="abbreviation"></a>7.2. Abbreviation</h2></div></div></div>
+    
+    <p>Expand abbreviations, such as <code class="literal">e.g.</code>, because they add complexity for
+      non-native readers, are used inconsistently, and are unnecessary.</p>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="contraction"></a>7.3. Contraction</h2></div></div></div>
+    
+    <p><a class="ulink" href="http://grammar.about.com/od/words/a/EnglishContractions.htm" target="_top">Expand
+        contractions</a> to remove ambiguity and to increase non-native English speakers'
+      comprehension.</p>
+  </div>
+</div>
+  <div class="chapter"><div class="titlepage"><div><div><h1 class="title"><a name="idp51983216"></a>8. Titles</h1></div></div></div><div class="toc"><p><b>Table of Contents</b></p><dl class="toc"><dt><span class="section"><a href="#idp52104848">8.1. Book</a></span></dt><dt><span class="section"><a href="#idp51995312">8.2. Chapter or section</a></span></dt><dt><span class="section"><a href="#idp51991136">8.3. Procedure</a></span></dt></dl></div>
+  
+  <p>Title styles differ depending on where they are used. To avoid typos, consider using
+    entities, such as <code class="code">See also</code>, for section names that are frequently used. To be
+    consistent, leave out trailing colons within titles if they cannot be inserted
+    systematically.</p>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="idp52104848"></a>8.1. Book</h2></div></div></div>
+    
+    <p>For a book, use a title that provides enough context. For example,
+        <em class="citetitle">Infobits documentation style guide</em> clarifies that the style guide is about documentation
+      rather than a programming language, and <span class="emphasis"><em>Infobits</em></span> specifies that it is derived
+      from Infobits rather than another entity.</p>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="idp51995312"></a>8.2. Chapter or section</h2></div></div></div>
+    
+    <p>For a chapter or section, use a title that provides enough context without being
+      redundant. In a chapter titled <em class="citetitle">Lists</em>, for example, use section titles
+        <em class="citetitle">Ordered</em> and <em class="citetitle">Unordered</em> rather than
+        <em class="citetitle">Ordered list</em> and <em class="citetitle">Unordered list</em>.</p>
+  </div>
+  <div class="section"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="idp51991136"></a>8.3. Procedure</h2></div></div></div>
+    
+    <p>For a procedure, use a title that starts with a <a class="ulink" href="http://en.wikipedia.org/wiki/Gerund" target="_top">gerund</a> (also known as a verb with an
+        <code class="literal">-ing</code> ending), such as <code class="literal">Writing</code> in the example that
+      follows. Doing so keeps the procedure name short, and distinguishes the name of a procedure
+      from its steps that start with action verbs.</p>
+    <div class="procedure"><a name="idp52098976"></a><p class="title"><b>Procedure 8.1. Writing a procedure</b></p><p>If there are any prerequisites, list them here or provide a link to additional
+        information.</p><ol class="procedure" type="1"><li class="step">
+        <p>Create a new file (<code class="literal">File</code> → <code class="literal">New...</code>).</p>
+      </li><li class="step">
+        <p>Write an action verb at the start of each instruction.</p>
+        <p>For a list of action words, see <a class="ulink" href="http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/writing-objectives" target="_top">Bloom's taxonomy</a>.</p>
+      </li><li class="step">
+        <p>Name the file similar to that of the procedure.</p>
+        <p>For example, this procedure's file name could be
+            <code class="filename">writing-a-procedure.xml</code>.</p>
+      </li><li class="step">
+        <p>Separate any additional information from the main instruction.</p>
+        <p>For example, previous steps and this one each contain an additional sentence that is
+          not on the same line as the instruction.</p>
+      </li></ol></div>
+  </div>
+</div>
+  <div class="appendix"><div class="titlepage"><div><div><h1 class="title"><a name="idp52057568"></a>A. Documentation quality</h1></div></div></div>
+  
+  <p>To improve the quality and increase the consistency of your documentation, use the following
+    checklist:</p>
+  <div class="informaltable"><a name="documentation-quality-checklist"></a>
+    <table border="1"><colgroup><col><col></colgroup><thead><tr><th>Quality checks</th><th>✓</th></tr></thead><tbody><tr><td>Use <a class="ulink" href="http://www.quickanddirtytips.com/education/grammar/capitalizing-titles" target="_top">sentence-style headings</a>.<a href="#ftn.idp52145440" class="footnote" name="idp52145440"><sup class="footnote">[a]</sup></a></td><td> </td></tr><tr><td>Check that your sentences are complete.<a href="#ftn.idp52127232" class="footnote" name="idp52127232"><sup class="footnote">[b]</sup></a></td><td> </td></tr><tr><td>Find any typos within the documentation.</td><td> </td></tr><tr><td>Find any typos within code examples.</td><td> </td></tr><tr><td>Proofread your document.</td><td> </td></tr><tr><td>Eliminate gendered language.</td><td> </td></tr><tr><td>Eliminate jargon.</td><td> </td></tr><tr><td>Expand contractions.</td><td> </td></tr><tr><td>Simplify phrasal verbs.</td><td> </td></tr><tr><td>Add missing serial commas.</td><td> </td></tr><tr><td>Replace passive voice with active voice.</td><td> </td></tr><tr><td>Use parallel structure within titles, lists, sentences, phrases, and names.</td><td> </td></tr><tr><td>Change extraneous ordered lists to unordered lists.<a href="#ftn.idp52167648" class="footnote" name="idp52167648"><sup class="footnote">[c]</sup></a></td><td> </td></tr><tr><td>Eliminate dangling modifiers.</td><td> </td></tr></tbody><tbody class="footnotes"><tr><td colspan="2"><div id="ftn.idp52145440" class="footnote">
+              <p><a href="#idp52145440" class="para"><sup class="para">[a] </sup></a>Capitalize the first word and any proper noun such as the name of an
+                application.</p>
+            </div><div id="ftn.idp52127232" class="footnote">
+              <p><a href="#idp52127232" class="para"><sup class="para">[b] </sup></a>Begin each sentence with capital letter and end each sentence with a period or
+                colon.</p>
+            </div><div id="ftn.idp52167648" class="footnote">
+              <p><a href="#idp52167648" class="para"><sup class="para">[c] </sup></a>Often, it is tempting to use an ordered list in places where an unordered list
+                is appropriate, such as a list of three platforms on which to install software.
+                Leave it up to the reader to count, and in this example use an unordered
+                list.</p>
+            </div></td></tr></tbody></table>
+  </div>
+  <p>Most importantly, be consistent.</p>
+</div>
+</div></body></html>

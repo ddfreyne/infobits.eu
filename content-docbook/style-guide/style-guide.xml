@@ -25,6 +25,7 @@
   <xi:include href="lists.xml"/>
   <xi:include href="numbers.xml"/>
   <xi:include href="parts-of-speech.xml"/>
+  <xi:include href="gender-inclusive-language.xml"/>
   <xi:include href="shortened-text.xml"/>
   <xi:include href="titles.xml"/>
   <xi:include href="documentation-quality.xml"/>

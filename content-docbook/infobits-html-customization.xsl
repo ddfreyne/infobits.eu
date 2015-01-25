@@ -14,7 +14,7 @@
   <xsl:param name="alignment">left</xsl:param>
   <xsl:param name="draft.watermark.image"
     >http://docbook.sourceforge.net/release/images/draft.png</xsl:param>
-  <xsl:param name="draft.mode">Yes</xsl:param>
+  <xsl:param name="draft.mode">Maybe</xsl:param>
   <xsl:param name="fop1.extensions">1</xsl:param>
   <xsl:param name="chapter.autolabel">1</xsl:param>
   <xsl:param name="local.l10n.xml" select="document('')"/>

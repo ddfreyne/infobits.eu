@@ -9,6 +9,8 @@
         <file name="conventions.xml"/>
         <file name="documentation-quality.xml"/>
         <file name="gender-inclusive-language.xml"/>
+        <file name="../infobits-fo-customization.xsl"/>
+        <file name="../infobits-html-customization.xsl"/>
         <file name="lists.xml"/>
         <file name="numbers.xml"/>
         <file name="organization.xml"/>

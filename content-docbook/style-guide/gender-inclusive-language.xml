@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE chapter [
+<!ENTITY % ent SYSTEM "../conref.ent">
+%ent;]
+>
+<chapter xml:id="genderless-language" xmlns="http://docbook.org/ns/docbook"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <title>Genderless language</title>
+  <para>By default, omit gendered language in your writing. When in doubt, write directly to your
+    reader. Also, <emphasis>they</emphasis> and <emphasis>them</emphasis> are the preferred pronouns
+    for singular and plural forms if doing so does not cause confusion.</para>
+  <variablelist>
+    <varlistentry>
+      <term>&happy-kitty;</term>
+      <listitem>
+        <para role="use"><quote>When you download and install the software, it takes approximately
+            three minutes for the installation to complete.</quote></para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>&sad-kitty;</term>
+      <listitem>
+        <para role="avoid"><quote>When the user downloads and installs the software, it takes
+            approximately three minutes for him to install it.</quote></para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <para>Within a single scenario where you need to differentiate between two actors, gendered
+    language is useful. Alice and Bob are common names in such a scenario. For example, <quote>Alice
+      emailed Bob at 11:34.</quote> and <quote>Bob responded with a follow-up message at
+      11:46.</quote></para>
+</chapter>

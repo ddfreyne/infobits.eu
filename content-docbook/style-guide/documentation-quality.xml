@@ -10,7 +10,7 @@
   <title>Documentation quality</title>
   <para>To increase the quality and consistency of your documentation, use the following
     checklist:</para>
-  <informaltable>
+  <informaltable xml:id="documentation-quality-checklist">
     <tgroup cols="2">
       <thead>
         <row>
@@ -20,11 +20,11 @@
       </thead>
       <tbody>
         <row>
-          <entry>Find all typos in documentation.</entry>
+          <entry>Find typos in documentation.</entry>
           <entry/>
         </row>
         <row>
-          <entry>Find all typos in code examples.</entry>
+          <entry>Find typos in code examples.</entry>
           <entry/>
         </row>
         <row>

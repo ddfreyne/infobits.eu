@@ -7,14 +7,15 @@ DOCBOOK_XSL_HTML=infobits-html-customization.xsl
 SG_FO=style-guide/out/pdf/style-guide.fo
 SG_PDF=style-guide/out/pdf/style-guide-pdf.pdf
 SG_HTML=style-guide/out/html/style-guide.html
+SG_TARGET_LOCATION=../content/documentation/style-guide.html
 
 .PHONY: all
-all: sg-pdf sg-html cp-sg
+all: sg-pdf sg-html sg-cp
 
 ################
-.PHONY: cp-sg
-cp-sg:
-	cp $(SG_HTML) ../content/tech-doc/style-guide.html
+.PHONY: sg-cp
+sg-cp:
+	cp $(SG_HTML) $(SG_TARGET_LOCATION)
 
 ################
 .PHONY: $(SG_FO)

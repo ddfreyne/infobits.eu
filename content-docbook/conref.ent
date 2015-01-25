@@ -7,8 +7,8 @@
 <!ENTITY author "Ursula Kallio">
 <!ENTITY author-honorific-last "Ms. Kallio">
 
-<!ENTITY copyright-year "2014">
-<!ENTITY current-year "2014">
+<!ENTITY copyright-year "2015">
+<!ENTITY current-year "2015">
 
 <!ENTITY ipa "IPA">
 <!ENTITY ipa-v "International Phonetic Alphabet">
@@ -17,6 +17,19 @@
 <!ENTITY ipa-license "IPA Chart, http://www.langsci.ucl.ac.uk/ipa/ipachart.html, available under a 
 Creative Commons Attribution-Sharealike 3.0 Unported License. 
 Copyright © 2005 International Phonetic Association.">
+
+<!ENTITY happy-kitty "&#x1f63a;">
+<!ENTITY sad-kitty "&#x1f63f;">
+
+<!-- 
+<!ENTITY happy "&#x263A;">
+<!ENTITY sad "&#x2639;">
+-->
+
+<!-- 
+<!ENTITY happy "☺">
+<!ENTITY sad "☹">
+-->
 
 <!-- Titles -->
 <!ENTITY isg "&ib; Style Guide">

@@ -11,7 +11,6 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://acc6.its.brooklyn.cuny.edu/~gurwitz/core5/nav2tool.html[Binary/Decimal conversion]
 
 == C, C++, and C#
-* http://users.powernet.co.uk/eton/kandr2[C: Answers to K&R]
 * http://www.cplusplus.com[C++]
 * http://www.csharp-station.com/Tutorial.aspx[C# tutorial]
 
@@ -44,7 +43,7 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://www.colorhexa.com[Color encyclopedia: Information and conversion]
 * http://www.wellstyled.com/tools/colorscheme2/index-en.html[Color Scheme Generator 2]
 * http://www.colorschemer.com[Create a color scheme ($$)]
-* http://www.entypo.com/characters[Entypo character map]
+* http://www.entypo.com/[Pictograms]
 * http://fortawesome.github.io/Font-Awesome/icons/[The complete set of 369 icons in Font Awesome 4.0.3]
 * http://weloveiconfonts.com[WE LOVE ICON FONTS]
 * http://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats[Comparison of graphics file formats]
@@ -77,7 +76,7 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://wiki.python.org/moin/BeginnersGuide[Beginner's Guide to Python]
 * http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python[Non-programmer's Tutorial for Python]
 * http://www.freenetpages.co.uk/hp/alan.gauld[Learning to Program]
-* http://docs.python.org/tut/tut.html[Python tutorial - Guido]
+* https://docs.python.org/2/tutorial/[Python tutorial - Guido]
 * http://www.python.org/doc[Python dot org /doc]
 * http://openbookproject.net/thinkcs[How to Think Like a Computer Scientist]
 * http://www.engineeringdegree.net/resources/python-overview[Python Tutorials]

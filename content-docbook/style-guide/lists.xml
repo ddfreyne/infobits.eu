@@ -5,28 +5,27 @@
 <!ENTITY % ent SYSTEM "../conref.ent">
 %ent;]
 >
-<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
-  version="5.0">
+<chapter xml:id="lists" xmlns="http://docbook.org/ns/docbook"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <title>Lists</title>
   <para>If you use a list, include more than one list item. If you only have one list item, remove
     the list and rephrase the information using one or two sentences. Doing so removes unnecessary
     structure. Use only one type of list at a time; avoid <code>* <replaceable>foo</replaceable>: A
       tool that ...</code>, where <code>*</code> signifies an unordered list and <code>:</code>
     signifies a definition list.</para>
-  <section xml:id="definition-list">
-    <title>Definition</title>
-    <para>Use an definition (or variable) list for complementary information that includes a term
-      and a definition.</para>
-  </section>
   <section xml:id="ordered-list">
     <title>Ordered</title>
-    <para>Use an ordered (or numbered) list for information that needs to be performed in a
-      particular order. If only part of the list needs to be performed in a particular order, write
-      a default order that you want your reader to use.</para>
+    <para>Use an ordered (or numbered) list for instructions that must be performed in a particular
+      order.</para>
   </section>
   <section xml:id="unordered-list">
     <title>Unordered</title>
-    <para>Use an unordered (or bulleted) list for information that does not need to be performed in
-      a particular order.</para>
+    <para>Use an unordered (or bulleted) list for items, or instructions that can be performed in a
+      any order. Put the most important information at the top because that is where readers pay
+      more attention.</para>
+  </section>
+  <section xml:id="definition-list">
+    <title>Definition</title>
+    <para>Use an definition (or variable) list for terms and definitions.</para>
   </section>
 </chapter>

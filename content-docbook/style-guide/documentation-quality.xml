@@ -20,6 +20,15 @@
       </thead>
       <tbody>
         <row>
+          <entry>Use <link
+              xlink:href="http://www.quickanddirtytips.com/education/grammar/capitalizing-titles"
+              >sentence-style headings</link>.<footnote>
+              <para>Capitalize the first word and any proper noun such as the name of an
+                application.</para>
+            </footnote></entry>
+          <entry/>
+        </row>
+        <row>
           <entry>Check that your sentences are complete.<footnote>
               <para>Begin each sentence with capital letter and end each sentence with a period or
                 colon.</para>
@@ -27,11 +36,15 @@
           <entry/>
         </row>
         <row>
-          <entry>Find typos in documentation.</entry>
+          <entry>Find any typos within the documentation.</entry>
           <entry/>
         </row>
         <row>
-          <entry>Find typos in code examples.</entry>
+          <entry>Find any typos within code examples.</entry>
+          <entry/>
+        </row>
+        <row>
+          <entry>Proofread your document.</entry>
           <entry/>
         </row>
         <row>
@@ -59,10 +72,6 @@
           <entry/>
         </row>
         <row>
-          <entry>Eliminate dangling modifiers.</entry>
-          <entry/>
-        </row>
-        <row>
           <entry>Use parallel structure within titles, lists, sentences, phrases, and names.</entry>
           <entry/>
         </row>
@@ -75,7 +84,12 @@
             </footnote></entry>
           <entry/>
         </row>
+        <row>
+          <entry>Eliminate dangling modifiers.</entry>
+          <entry/>
+        </row>
       </tbody>
     </tgroup>
   </informaltable>
+  <para>Most importantly, be consistent.</para>
 </appendix>

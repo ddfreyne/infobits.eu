@@ -5,8 +5,10 @@
         <options/>
     </meta>
     <projectTree name="style-guide.xpr">
+        <file name="../conref.ent"/>
         <file name="conventions.xml"/>
         <file name="documentation-quality.xml"/>
+        <file name="gender-inclusive-language.xml"/>
         <file name="lists.xml"/>
         <file name="numbers.xml"/>
         <file name="organization.xml"/>

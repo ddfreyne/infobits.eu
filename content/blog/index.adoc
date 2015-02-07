@@ -1,7 +1,9 @@
-= tanoni
+= tanoni: tan(ulni) + o(ppia) + (-; )ni
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
+
+Get it down on paper. With that aim, the topics are stand-alone bits of information. It is by chance that some topics relate to each other.
 
 == link:2015[2015]
 

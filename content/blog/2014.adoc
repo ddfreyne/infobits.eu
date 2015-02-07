@@ -1,4 +1,4 @@
-= 2014
+= taponi
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
@@ -32,6 +32,42 @@ You usually have the most success exercising when you do it first thing in the m
 Since vacationing in Budapest and Serbia, I decided to change my lifestyle. Serbians eat _a lot_ of meat. After three days in Novi Sad, I was tempted to go vegan. Fortunately, that extreme feeling left after I ate green things. While in Budapest, I watched a https://www.youtube.com/watch?v=dBnniua6-oM[YouTube video called Sugar: The Bitter Truth], which was hauntingly powerful. The topic was familiar to me, but the discussion and diagrams about fructose digestion via the liver were new. As a result, I have eliminated sugar unless it is accompanied by natural fiber, such as a whole (small) orange rather than fresh-squeezed orange juice, and alcohol during the week from Sunday through Thursday. Initially, I tried a Monday through Friday schedule, but that proved to be too difficult given the natural tendency for people to socialize on Fridays and Saturdays. One caveat is that if I exercise intensely for more than one hour, I will take in sugar. However, that is corresponds directly with the activity level underway.
 
 This week, I need to up my game and do more exercise. Now that I have changed my diet, my level of movement needs a boost. I have a subscription to http://dailyburn.com[Daily Burn] and will workout tonight. There, I said it. Now for the _doing_. I can choose to let myself down, or I can choose to follow through. One of my favorite trainers used the prompt, "Let's do something useful." That was such a non-threatening, motivating statement to hear. It is quite easy to be immediately more active. I biked to work today and will bike home too. That is a wonderful baseline, but I need more.
+
+== [[20140626]]20140626 - Ein Kurs über Time Management
+
+Ich habe an einem Online-Kurs über Time Management teilgenimmt. Das war aber gut. Es heißt GTD (Getting Things Done) oder etwas ähnlich [0]. Es gibt ein GTD-Buch, aber diese Kurs mit Videos online war, und Videos sind schneller und interessanter als das Buch. Jede Video ist ungefähr 6 - 8 Minuten. Wenn man in Eile ist [1], man kann ein komplett Video in bloß [2] Minuten sehen.
+
+[0] ähnlich = _similar_ +
+[1] in Eile ist = _in a hurry_ +
+[2] bloß = _mere_
+
+== [[20140520]]20140520 - Langsam gesprochene Nachrichten
+
+The following embed is a test. I will likely add more content later.
+
+[subs="quotes"]
++++++++++++++++
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/150386532&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
++++++++++++++++
+
+== [[20140320]]20140320 - Seit 10 [ins]#Monaten#[1] [del]#Monate#
+
+Seit 10 [ins]#Monaten#[1] [del]#Monate# wohne ich in Berlin. Ich komme aus Kalifornien, aber bin ich in Minnesota geboren. Seit 20 [ins]#Jahren# [del]#Jarhe# habe ich [ins]#in anderen# [del]#im andere# Land leben wollen. [del]#Wenn habe# [ins]#Als# ich [ins]#nach# [del]#in# Berlin gezogen [ins]#bin#, [ins]#habe ich# [del]#ich habe# &bdquo;zu Hause&rdquo; gefühlt [ins]#innerhalb von# [del]#in# sechs Woche. Ich habe gefunden, dass ich bin &bdquo;zu Hause&rdquo; in Berlin sechs Woche nach ich gekommen habe als vier Jahre in San Francisco.
+
+In Berlins Restaurants gibt es kein Druck^der^ schnell zu essen. Als möchten wir zahlen, kann ich der(die) Kellner(in), &bdquo;Könner wir zahlen?&rdquo; fragen.
+
+Von eine negative Perspectiv finde ich dass die Deutschen korrigieren mich zu oft. Ich bekomme zu viele Meinungen über die Details des täglichen Lebens.
+
+Denn habe ich blonde Haare und blauen Augen, es ist für mich einfacher als anderere Leute in Berlin oder Deutschland in das deutche Leben zu integrieren. Zum Beispiel, wenn gehe ich einkaufen, die Mehrheit der Menchen mit mir sofort Deutsch sprechen.
+
+////
+Als ich nach Berlin gezogen bin, habe ich mich innerhalb von sechs Wochen „zu Hause” gefühlt. Ich fand, dass ich in Berlin eher „zu Hause” bin, sechs Wochen, nachdem ich angekommen war, als nach vier Jahren in San Francisco.
+In Berlins Restaurants gibt es keinen Druck, schnell zu essen. Wenn wir zahlen möchten, kann ich den(die) Kellner(in) fragen, „Können wir zahlen?”
+Von einer negativen Perspektive finde ich, dass die Deutschen mich zu oft korrigieren. Ich bekomme zu viele Meinungen über die Details des täglichen Lebens.
+Weil ich blonde Haare und blauen Augen habe, es ist für mich einfacher als für andere Leute, mich in Berlin oder Deutschland in das deutsche Leben zu integrieren. Zum Beispiel: Wenn ich einkaufen gehe, spricht die Mehrheit der Menschen mit mir sofort Deutsch.
+////
+
+[1] Seit nimmt Akkusativ.
 
 == [[20140301-digital-house-cleaning]]20140301 - Digital house cleaning
 

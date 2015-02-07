@@ -3,12 +3,14 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== [[20150207]]20150207 - Binder-clip, flashcard necklace
+== 20150207 - Binder-clip, flashcard necklace
 
 My mind is racing with organizational enhancements that relate to my personal learning habits.
 The latest experiment is a binder-clip, flashcard necklace:
 
 image:/images/binder-clip-flashcard-necklace.jpg[Binder-clip, flashcard necklace]
+
+The small notebook behind the flashcards is there for writing sentences that contain the target vocabulary. By doing so, it is possible to rip off small sheets and leave them on co-workers' desks for correction if they are not there. If you are on a tram or a train, new words can hardly be easier to access. Yes, link:http://en.wikipedia.org/wiki/Spaced_repetition[spaced-repetition] software (SRS). I prefer to write with a fountain pen on high-quality paper before entering vocabulary into an online SRS system such as link:http://memrise.com[memrise].
 
 '''
 Last updated: {docdatetime}

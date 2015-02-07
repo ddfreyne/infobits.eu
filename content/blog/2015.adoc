@@ -3,7 +3,28 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== [[20150207,20150207]]20150207 - Binder-clip, flashcard necklace
+== [[20150207,20150207]]20150207 - Az halop divatos
+
+. Az ing _divatos_.
+. Ez a _ruha_ divatos.
+. A szoba _kellemes_. A kellemes szoba.
+. Az a szoba nem kellemes.
+. Ez a szoba túl kellemetlen!
+. Főzzünk [főzni] levest. ("Let's cook some soup." rather than "We cook soup.")
+. Főzök levest.
+. Főzöl nagyon jól levest.
+. Vár egy lányt / fiút / férfit / kisasszonyt.
+. Kellemes idő van. Kellemetlen idő van.
+. **A** kellemetlen idő **itt** van.
+. **Itt** van **a** kellemetlen idő.
+. A szavakok _nehéz_.
+. 500 szavas esszé.
+. A _szavatartó_ ember a bankban van.
+. A bankban van szavatartó ember.
+. A szavatartó ember az ágyon es a _takarón_ van.
+. A takaró színes. A takaró fehér. A takaró fekete.
+
+== [[20150206,20150206]]20150206 - Binder-clip, flashcard necklace
 
 My mind is racing with organizational enhancements that relate to my personal learning habits.
 The latest experiment is a binder-clip, flashcard necklace:

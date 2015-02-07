@@ -3,7 +3,7 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== 20150207 - Binder-clip, flashcard necklace
+== [[20150207,20150207]]20150207 - Binder-clip, flashcard necklace
 
 My mind is racing with organizational enhancements that relate to my personal learning habits.
 The latest experiment is a binder-clip, flashcard necklace:

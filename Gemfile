@@ -7,3 +7,4 @@ gem 'systemu'
 
 gem 'yonce'
 gem 'nokogiri'
+gem 'w3c_validators'

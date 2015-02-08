@@ -2,8 +2,7 @@
   border:0px solid orange;
   margin:0;
   padding:0;
-  font-family: 'Oxygen', sans-serif;
-  font-family: 'Source Code Pro', ;
+  font-family:'Oxygen', sans-serif;
   }
 
 /*
@@ -284,7 +283,7 @@ div#rukou p {
 }
 
 div#rukou-pinyin p {
-  font-family: 'Helvetica', sans-serif;
+  font-family:'Helvetica', sans-serif;
   line-height:30px;
   font-size:30px;
   color:#f26522;

@@ -41,15 +41,6 @@ Ich habe an einem Online-Kurs über Time Management teilgenimmt. Das war aber gu
 [1] in Eile ist = _in a hurry_ +
 [2] bloß = _mere_
 
-== [[20140520]]20140520 - Langsam gesprochene Nachrichten
-
-The following embed is a test. I will likely add more content later.
-
-[subs="quotes"]
-+++++++++++++++
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/150386532&amp;color=ff9900&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
-+++++++++++++++
-
 == [[20140320]]20140320 - Seit 10 [ins]#Monaten#[1] [del]#Monate#
 
 Seit 10 [ins]#Monaten#[1] [del]#Monate# wohne ich in Berlin. Ich komme aus Kalifornien, aber bin ich in Minnesota geboren. Seit 20 [ins]#Jahren# [del]#Jarhe# habe ich [ins]#in anderen# [del]#im andere# Land leben wollen. [del]#Wenn habe# [ins]#Als# ich [ins]#nach# [del]#in# Berlin gezogen [ins]#bin#, [ins]#habe ich# [del]#ich habe# &bdquo;zu Hause&rdquo; gefühlt [ins]#innerhalb von# [del]#in# sechs Woche. Ich habe gefunden, dass ich bin &bdquo;zu Hause&rdquo; in Berlin sechs Woche nach ich gekommen habe als vier Jahre in San Francisco.

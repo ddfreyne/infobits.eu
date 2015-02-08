@@ -1,7 +1,82 @@
 = tanoni
-Ursula Kallio <ursula.kallio@gmail.com>
+Ursula <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
+
+== [[20150208,20150208]]20150208 - 汉语上课
+
+Rachel: 你好 +
+Ursula: nihao3 +
+Rachel: 午饭 +
+Rachel: lunch？ +
+Rachel: 早饭 +
+Rachel: zao3 fan4 +
+Rachel: wang3 zhan4 +
+Rachel: website +
+Rachel: 搜狗 +
+Rachel: sou1 gou3 +
+Rachel: bo2 ke4 +
+Rachel: 博客 +
+Ursula: Hungary +
+Rachel: 匈牙利 +
+Rachel: xiong1 ya2 li4 +
+Rachel: wen2 +
+Rachel: zhao4 pian4 +
+Rachel: 照片 +
+Rachel: 笔记本 +
+Rachel: bi3 ji4 ben3 +
+Rachel: zhao3 dao4 le +
+Rachel: 找到了 +
+Ursula sent file 20150205-汉语练习.jpg. +
+Rachel: 小时 +
+Rachel: xiao3 shi2 +
+Rachel: yuan3 +
+Rachel: far +
+Rachel: 放松 +
+Rachel: fang4 song1 +
+Rachel: xiao3 de shi2 hou4 +
+Rachel: 小的时候 +
+Rachel: when was young +
+Rachel: I +
+Rachel: 日记 +
+Rachel: ri4 ji4 +
+Rachel: zhi3 +
+Rachel: 纸 +
+Rachel: 丢 +
+Rachel: diu1 +
+Rachel: lose +
+Rachel: 扔 +
+Rachel: reng1 +
+Rachel: huai4 xin1 qing2 +
+Rachel: 坏心情 +
+Rachel: 语法 +
+Ursula: http://www.learnnc.org/lp/editions/mandarin2/4908 +
+Rachel: chen4 shan1 +
+Rachel: 衬衫 +
+Rachel: wang3 shang4 +
+Rachel: gong1 yuan2 +
+Rachel: 公园 +
+Rachel: 都 dou1 +
+Rachel: all, both +
+Rachel: wang3 ye4 +
+Rachel: wang3 zhan4 +
+Rachel: 网站 +
+Rachel: website +
+Rachel: 有优惠 +
+Rachel: 作业 +
+Rachel: zuo4 ye4 +
+Rachel: wo3 cuo4 guo4 le qu4 gong1 si1 de huo3 che1 +
+Rachel: yin1 yue4 +
+Rachel: 音乐 +
+Rachel: 商店 +
+Rachel: shang1 dian4 +
+Rachel: huan1 ying2  guang1 lin2 +
+Rachel: xie4 xie4 guang1 lin2 +
+Rachel: 欢迎光临 +
+Rachel: 谢谢光临 +
+Rachel: 紫色 +
+Rachel: zi3 se4 +
+Rachel, duration 01:00:32.
 
 == [[20150207,20150207]]20150207 - A kalap divatos
 

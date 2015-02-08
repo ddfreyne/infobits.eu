@@ -3,7 +3,12 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== [[20150207,20150207]]20150207 - Az halop divatos
+== [[20150207,20150207]]20150207 - A kalap divatos
+
+[subs="quotes"]
++++++++++++++++
+<iframe width="99%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/189951830&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
++++++++++++++++
 
 . Az ing _divatos_.
 . Ez a _ruha_ divatos.
@@ -17,7 +22,7 @@ Author: _{author}_
 . Kellemes idő van. Kellemetlen idő van.
 . **A** kellemetlen idő **itt** van.
 . **Itt** van **a** kellemetlen idő.
-. A szavakok _nehéz_.
+. A [ins]#szavak# [del]#szavakok# _nehéz_.
 . 500 szavas esszé.
 . A _szavatartó_ ember a bankban van.
 . A bankban van szavatartó ember.

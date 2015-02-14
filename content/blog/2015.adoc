@@ -3,6 +3,11 @@ Ursula <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
+== [[20150209,20150209]]20150209 - HU with Mari
+
+
+
+
 == [[20150208,20150208]]20150208 - 汉语上课
 
 Rachel: 你好 +
@@ -97,7 +102,7 @@ Rachel, duration 01:00:32.
 . Kellemes idő van. Kellemetlen idő van.
 . **A** kellemetlen idő **itt** van.
 . **Itt** van **a** kellemetlen idő.
-. A [ins]#szavak# [del]#szavakok# _nehéz_.
+. A [ins]#szavak# [del]#szavakok# [ins]#_nehezek_# [del]#_nehéz_#.
 . 500 szavas esszé.
 . A _szavatartó_ ember a bankban van.
 . A bankban van szavatartó ember.

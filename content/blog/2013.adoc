@@ -262,6 +262,22 @@ across the US in 2005 from Minnesota to California, which gave us a lot of
 context for this move. I foresaw this then; I knew moving to California was a
 stepping stone for where we are today.
 
+== 20130510 - Riding in Switzerland
+
+(Guest post from Ben.)
+I’m visiting Zürich, Switzerland for a couple weeks. Of course I couldn’t leave
+the bike at home, so I packed up The Orange One and put it on the plane.
+
+My first ride was a nice solo roll around Zürichsee, then up around Üetliberg.
+I got lost a couple times, but thankfully I had my phone and a pre-downloaded
+map using a route I found on Strava and
+http://maps.coderminus.com[http://maps.coderminus.com] on my phone.
+
+[subs="quotes"]
++++++++++++++++
+<iframe frameborder="0" height="405" scrolling="no" src="http://app.strava.com/activities/52467142/embed/6e83faca65af6ac35fccd3e0622ceeccf11080d4" width="590"></iframe>
++++++++++++++++
+
 == 20130428 - Typing area instead of aware
 
 For some reason(s), I have spelling problems in English when I speak multiple

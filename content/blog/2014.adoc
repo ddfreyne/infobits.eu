@@ -60,9 +60,135 @@ Weil ich blonde Haare und blauen Augen habe, es ist für mich einfacher als für
 
 [1] Seit nimmt Akkusativ.
 
+= [[20140309]]20140309 - Friedrichshain to Müggelsee
+
+Today started out with enough sleep and two small pots of coffee. There was no need to rush out the door. Tom had already warned us about the potential for a mid-day ride due to an _n_-degree hangover. With the early morning pressure off, I started rewriting my http://thinkinfinnish.com[TiF] website for people interested in learning Finnish. "Just one more fix, just one more fix," I repeated mostly to myself. "Ok, lemme push my changes." Push after push later, I learned that Tom had already taken off from somewhere to somewhere. I put on my bike shorts. After closer examination, I took them off and threw them away; respect the riders behind you. With the temperature at 16&deg; (61&deg; F), I almost overdressed. Ben convinced me to leave the leg warmers at home, which was a good call. 
+
+Dressed, we ride out and start out faster than I would have ridden on my own. We keep it that way. There were stretches where we rode with the cars, and an early morning roll out would eliminate so much road sharing. I had bits of golden-gate-bridge rage, which is an intolerance for dilly-dallying grannies and grampas. On the way back, one grampa seems to be haulin' ass. Then, Ben takes note, "Grampa's on an electric [bike]."
+
+[subs="quotes"]
++++++++++++++++
+<iframe frameborder="0" height="405" scrolling="no" src="http://app.strava.com/activities/119058412/embed/2b4c74bffd45d51504fd10dd8da3bc5adb9d4e80" width="590"></iframe>
++++++++++++++++
+
+We get back during the middle of the afternoon, which leaves us plenty of time to use the rest of our day to nerd out.
+
 == [[20140301-digital-house-cleaning]]20140301 - Digital house cleaning
 
 It has been a long time (seven years) since I have owned `infobits.org`, and I now I own `infobits.eu`. Bit by bit, I am porting over content so I can more easily start from scratch with a new site. I am feeling kind of done with blog software Drupal or Wordpress.
+
+= [[20140223]]20140223 - Friedrichshain to Müggelsee
+
+I planned http://www.strava.com/routes/182746[a route on Strava] for the first
+time. In actuality, my ride was a bit longer at approximately 52 km from
+http://www.strava.com/activities/115433419[Friedrichshain to Müggelsee
+and back]. Today's adventure gave me a chance to get lost and find my way again
+several times without being pressured by time. Having lived in Berlin since May
+2013, I still have much to explore.
+
+Near the start of the ride, I noticed a cloud of water vapor from a
+https://plus.google.com/116823604913091324301/about?hl=de[Vattenfall plant]:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12723745775/" title="friedrichshain-müggelsee by Open Source Grrrl, on Flickr"><img src="https://farm4.staticflickr.com/3807/12723745775_73e39847bf_z.jpg" width="480" height="640" alt="friedrichshain-müggelsee"></a>
++++++++++++++++
+
+Also near the start of the ride, my Garmin tried repeatedly to re-route me. Its
+maps are nearly impossible (and indeed very ugly) to read, especially while
+riding. I was happy that the thing popped up an error message and shut off its
+own beeping. As directionally challenged&mdash;due to a prior
+concusion&mdash;as I am, I was relieved to know that I was on the correct road.
+Because it is a bit tiring to continually stop and look at a cellphone for
+route information, I decided to pay attention to the well-marked signs along
+the way and make some adjustments so that my ride was a bit more brainless. I
+ended up in Müggelheim, which I nicknamed "the Fairfax of Friedrichshain"
+because it is a small, quiet, cute place that is likely a very easy place for
+riders to meet.
+
+The woods to the south of Müggelsee are gorgeous as they come into spring. It
+is worth retracing the route and turning around rather than going around the
+lake. Next time I ride alone, I will wander around the forest trails more
+thoroughly and realize the idea to meditate for 5 - 10 minutes before turning
+back.
+
+The streets to the north of Müggelsee were on the boring side, except for the
+frog sign:
+
+[subs="quotes"]
++++++++++++++++
+<a href="http://www.flickr.com/photos/osg/12724533144/" title="frogs-200m by Open Source Grrrl, on Flickr"><img src="https://farm3.staticflickr.com/2856/12724533144_dc47ebaff7_z.jpg" width="480" height="640" alt="frogs-200m"></a>
++++++++++++++++
+
+It is clear that wealthy people live along the lake shore. Many of the houses
+were large to the extent that it was not clear to me if people live in them
+or if they were office buildings that looked like homes. The return trip was
+full of traffic. There is a fence that separates the traffic and lake-side
+walkers and joggers. Next time, I will see about being on that side of the
+fence farther away from car and tram traffic.
+
+= [[20140215]]20140215 - Berlin to Brandenburg
+
+I woke up tired and thinking, shit, I wish I could sleep a little while longer.
+I checked my phone and read Brian&rsquo;s bail-out email from 06.37. It gave
+me the motivation that I needed to get out of bed. I was already faster than
+the slowest one! (Somehow showing up this week made me feel redeemed for having
+bailed out the weekend prior.)
+
+Ben, Tom, and Matt met up in Prenzlauer Berg to bike to Grunewald station
+rather than take the S-Bahn. Aubrey and I opted for the S-Bahn and happened to
+be in the same car on the way down. We chatted, she was riding to clear her
+head, and I sipped her coffee as I listened. We continued chatting. At
+Grunewald, the three others were at an easy-to-find station shop. As we rolled
+out, I was excited to be riding again. I sensed I was not the only one. The
+*temperature* was a comfortable *10&deg; C*, the wind was only somewhat
+noticeable, and the cloud coverage made it easy on the eyes. We rode.
+
+[subs="quotes"]
++++++++++++++++
+<iframe height="405" width="590" frameborder="0" scrolling="no" src="http://www.strava.com/activities/113432429/embed/09fe4dd192c41bc8690eab8a65c97c8e08611f26"></iframe>
++++++++++++++++
+
+I started to get hangry at, well, lunchtime. It is clearly the beginning of the
+training season (at least for me) because I was not carrying any food on me. As
+a person who has ridden from San Francisco to Los Angeles twice, this was
+uncharacteristic. I fed off others&rsquo; stashes throughout the day, including
+part of Aubrey&rsquo;s delicious Brie sandwich. That saved me on the ride, but
+it might have made Aubrey hungrier than she needed to be later on. This
+having-no-food business had me thinking that I could just *cook up hot dogs and
+stick them in my pockets*. It&rsquo;s the same shit you buy on the ride, so why
+not just prepare it ahead of them. *Matt* mentioned a *website for cooking your
+own biking food*.
+
+Because I did not have enough real food to eat, I started considering a
+bail-out point. Ben noticed that I had grown tired. &ldquo;Just 5 more
+_miles_." (I speak to myself in American English.) We kept on and I used some
+of my http://www.aidslifecycle.org[ALC] training to move my mind where I needed
+it to go. Having enjoy several more kilometers of peaceful German countryside
+of farms and migrating birds overhead,
+https://lh3.googleusercontent.com/-uVAx5ORIHoQ/UwB-rZwpwpI/AAAAAAAAOEk/ImlNzpvhdM4/w886-h665/14%2B-%2B1[
+Aubrey&rsquo;s rear derailleur *suddenly causes her to stop*]. Her shock was
+understandable. Tom shouts, &ldquo;Mechanical!&rdquo; as he and I ride on to
+catch Matt who is concerned about baby duties and pushing the time away from
+home even further. We cycle back the short bit to share tools and offer moral
+support. Aubrey is quick to decide on the https://lh4.googleusercontent.com/-ozJ8G38DMyA/UwB_R6_D8QI/AAAAAAAAOFI/phPNZtV9bLA/w524-h698-no/14+[ideal chain
+length] for the
+https://plus.google.com/u/0/photos/yourphotos?pid=5980921080569579410&amp;oid=100268597725268324090[single-speed conversion]. This kind of shit just
+doesn&rsquo;t happen everyday so I am rather giddy at the opportunity to
+capture the scene of https://lh3.googleusercontent.com/-adEkp0pFvlY/UwCASZAkmeI/AAAAAAAAOGY/izRU1JfAqJk/w524-h698-no/14+[moral support] and https://lh3.googleusercontent.com/--XSzhJ8IkIc/UwCAmFzl_gI/AAAAAAAAOHA/OADQo5PUEaI/w931-h698-no/14+[teamwork].
+The
+https://lh5.googleusercontent.com/-b05fvL3ahqk/UwCA5l1FqII/AAAAAAAAOHs/XR4nMKyRxOc/w524-h698-no/14+[final
+inspection] is complete and we take it slow for the rest of the ride. Aubrey
+has come down from her high of having a great bike and she grows &ldquo;ti[red]
+ti[red]&rdquo; for the rest of the ride. I leave my food troubles behind and
+focus on her. She starts to close her eyes to capture a bit of shut-eye. Been
+there, done that, get this grrrl some sugar. We keep her energized and hydrated
+for the remainder of the ride. My right knee is noticeably sore and I baby it
+because there is some sort of adjustment problem that I need to address.
+Surprisingly, no permanent damage all around to be had. We roll into the
+Brandenburg station for hot dogs, currywurst, pommes, und Bier.
+
+Bis nächste Wochenende!
 
 '''
 Last updated: {docdatetime}

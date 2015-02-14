@@ -3,7 +3,7 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-Get it down on paper. With that aim, the topics are stand-alone bits of information. It is by chance that some topics relate to each other.
+Get it down on paper. With that aim, the topics are stand-alone bits of information. It is by chance that some topics relate to each other. Posts are in English, Finnish, German, Mandarin, Hungarian, and whatever language I am learning at the time.
 
 == link:2015[2015]
 

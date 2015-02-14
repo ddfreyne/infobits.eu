@@ -1,5 +1,5 @@
 = tanoni
-Ursula <ursula.kallio@gmail.com>
+Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 

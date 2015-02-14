@@ -3,9 +3,37 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-////
-== [[20150209,20150209]]20150209 - HU with Mari
-////
+== [[20150214,20150214]]20150214 - Go-to resources
+
+For each area of each language, my current top resources are as follows:
+
+Magyarul
+
+* http://magyar-ok.hu/hu/A1_audio.html?ver=2.0[HU-listening]
+* HU-speaking
+* HU-reading
+* HU-writing
+
+Deutsch
+
+* DE-hören
+* DE-sprechen
+* DE-lesen
+* DE-schreiben
+
+汉语
+
+* ZH-CN-听力理解
+* ZH-CN-口语练习
+* ZH-CN-阅读练习
+* ZH-CN-写作练习
+
+Suomi
+
+* FI-lukeminen
+* FI-puhuminen
+* FI-kuunteleminen
+* FI-kirjoittaminen
 
 == [[20150208,20150208]]20150208 - 汉语上课
 

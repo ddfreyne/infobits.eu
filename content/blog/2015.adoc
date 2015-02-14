@@ -5,14 +5,14 @@ Author: _{author}_
 
 == [[20150214,20150214]]20150214 - Go-to resources
 
-For each area of each language, my current top resources are as follows:
+For the four cores areas of each language, my current top resources are as follows:
 
 Magyarul
 
-* http://magyar-ok.hu/hu/A1_audio.html?ver=2.0[HU-listening]
-* HU-speaking
-* HU-reading
-* HU-writing
+* http://magyar-ok.hu/hu/A1_audio.html?ver=2.0[HU-hallgatás]
+* HU-beszéd
+* HU-olvasás
+* HU-írás
 
 Deutsch
 

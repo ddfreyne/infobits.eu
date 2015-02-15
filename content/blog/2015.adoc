@@ -3,7 +3,9 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
-== [[20150214,20150214]]20150214 - Go-to resources
+
+
+== [[20150214,20150214]]20150214 - Fingertip resources
 
 For the four cores areas of each language, my current top resources are as follows:
 
@@ -16,24 +18,26 @@ Magyarul
 
 Deutsch
 
-* DE-hören
-* DE-sprechen
-* DE-lesen
-* DE-schreiben
+* DE-sprechen: Uli, Alistair, Max, Sebastian
+* DE-hören: Podcast durch BeyondPod (z.B. Sendung mit der Maus oder SWR2 Buch der Woche); https://soundcloud.com/dw-learngerman[Langsame geschrochene Nachrichten]
+* DE-lesen: https://www.goodreads.com/book/show/6168381-der-schatz-des-m-rchen-prinzen-lernziel-deutsch-grundwortschatz[Der Schatz des Märchenprinzen]
+* DE-schreiben: Ursulas Tagebuch, ein Thema von Mastering German Vocabulary, und Kollegen oder italki für Korrigierungen
 
 汉语
 
-* ZH-CN-听力理解
 * ZH-CN-口语练习
+* ZH-CN-听力理解
 * ZH-CN-阅读练习
 * ZH-CN-写作练习
 
 Suomi
 
-* FI-lukeminen
-* FI-puhuminen
-* FI-kuunteleminen
-* FI-kirjoittaminen
+http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi[Yleisten kielitutkintojen esittely]: http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=perustaso[perustaso], http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=keskitaso[keskitaso], http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=ylintaso[ylintaso]
+
+* FI-puhuminen: Noora, Virpi, Reetta
+* FI-kirjoittaminen: Oma näkökulma IMAGE blogpostista
+* FI-lukeminen: http://www.image.fi/image-lehti/helpon-elaman-aakkoset[IMAGE: Helpon elämän aakkoset]; https://www.hs.fi/tilaus/kirjasto/[HS kirjasto]
+* FI-kuunteleminen: http://yle.fi/radio/ylenaikainen/suora/[Radio Suomi]; Katso BeyondPodille; http://areena.yle.fi/radio[YLE radio]
 
 == [[20150208,20150208]]20150208 - 汉语上课
 

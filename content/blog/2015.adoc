@@ -3,7 +3,28 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
+== [[telc-deutsch-b1,telc-deutsch-b1]]20150216 - Zertifikat telc Deutsch B1
 
+*Schriftiche Prüfung 184,5 / 225 Punkte*
+
+* Leseverstehen 67,5 / 75 Punkte
+* Sprachbausteine 18,0 / 30 Punkte
+* Hörverstehen 60,0 / 75 Punkte
+* Schriftlicher Ausdruck 39,0 / 45 Punkte
+
+*Mündliche Prüfung 75,0 / 75 Punkte*
+
+* Kontaktaufnahme 15,0 / 15 Punkte
+* Gespräch über ein Thema 30,0 / 30 Punkte
+* Gemeinsam eine Aufgabe lösen 30,0 / 30 Punkte
+
+*Summe 259,5 / 300*
+
+*Prädikat Gut*
+
+Datum der Prüfung 30.01.2015 +
+Teilnehmernummer 0152900 +
+Datum der Ausstellung 11.02.2015
 
 == [[20150214,20150214]]20150214 - Fingertip resources
 
@@ -11,10 +32,10 @@ For the four core areas of each language, my current top resources are as follow
 
 Magyarul
 
-* http://magyar-ok.hu/hu/A1_audio.html?ver=2.0[HU-hallgatás]
-* HU-beszéd
-* HU-olvasás
-* HU-írás
+* HU-hallgatás: http://magyar-ok.hu/hu/A1_audio.html?ver=2.0[magyarOK]
+* HU-beszéd: Mari, Marci, Bálint, Márta
+* HU-olvasás: 
+* HU-írás: 
 
 Deutsch
 
@@ -25,7 +46,7 @@ Deutsch
 
 汉语
 
-* ZH-CN-口语练习
+* ZH-CN-口语练习: Justine, Xuedi, Judith
 * ZH-CN-听力理解
 * ZH-CN-阅读练习
 * ZH-CN-写作练习
@@ -34,10 +55,11 @@ Suomi
 
 http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi[Yleisten kielitutkintojen esittely]: http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=perustaso[perustaso], http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=keskitaso[keskitaso], http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi&taso=ylintaso[ylintaso]
 
-* FI-puhuminen: Noora, Virpi, Reetta
+* FI-puhuminen: Maarit, Noora, Virpi, Reetta
 * FI-kirjoittaminen: Oma näkökulma IMAGE blogpostista
-* FI-lukeminen: http://www.image.fi/image-lehti/helpon-elaman-aakkoset[IMAGE: Helpon elämän aakkoset]; https://www.hs.fi/tilaus/kirjasto/[HS kirjasto]
-* FI-kuunteleminen: http://yle.fi/radio/ylenaikainen/suora/[Radio Suomi]; Katso BeyondPodille; http://areena.yle.fi/radio[YLE radio]
+* FI-lukeminen: http://www.image.fi/image-lehti/helpon-elaman-aakkoset[IMAGE: Helpon elämän aakkoset] (11 sivua); https://www.hs.fi/tilaus/kirjasto/[HS kirjasto]
+* FI-kuunteleminen: http://areena.yle.fi/radio/2277904[Huojuva talo
+]; http://yle.fi/radio/ylenaikainen/suora/[Radio Suomi]; Katso BeyondPodille; http://areena.yle.fi/radio[YLE radio]
 
 == [[20150208,20150208]]20150208 - 汉语上课
 

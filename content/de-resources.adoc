@@ -29,6 +29,7 @@ Author: _{author}_
 
 == Websites for self study
 
+* http://www.deutschegrammatik20.de[Deutsche Grammatik 2.0]
 * https://plus.google.com/u/0/communities/105663710366632424901[Smarter German G+ community]
 * http://german.languagedaily.com/vocabulary/common-german-words[1,000 most
 	common German words]

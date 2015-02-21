@@ -3,28 +3,30 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
+== [[20150218,20150218]]20150218 - Ein leckeres Bier
+
+Ich möchte ein leckeres belgisches Bier. Aufgrund der Tatsache, dass ich keinen Alkohol im Februar trinke, muss ich bis nach dem 1. März warten, bevor ich Bier trinken.
+
 == [[telc-deutsch-b1,telc-deutsch-b1]]20150216 - Zertifikat telc Deutsch B1
 
-*Schriftiche Prüfung 184,5 / 225 Punkte*
-
-* Leseverstehen 67,5 / 75 Punkte
-* Sprachbausteine 18,0 / 30 Punkte
-* Hörverstehen 60,0 / 75 Punkte
-* Schriftlicher Ausdruck 39,0 / 45 Punkte
-
-*Mündliche Prüfung 75,0 / 75 Punkte*
-
-* Kontaktaufnahme 15,0 / 15 Punkte
-* Gespräch über ein Thema 30,0 / 30 Punkte
-* Gemeinsam eine Aufgabe lösen 30,0 / 30 Punkte
-
-*Summe 259,5 / 300*
-
-*Prädikat Gut*
-
-Datum der Prüfung 30.01.2015 +
-Teilnehmernummer 0152900 +
-Datum der Ausstellung 11.02.2015
+[width="100%",cols="1%,^2,^2,^2,^2",frame="topbot",options="footer"]
+|==========================
+2+|Schriftliche Prüfung        |*184,5*|*225*|*82%*
+||Leseverstehen                |67,5   |75   |89%
+||Sprachbausteine              |18,0   |30   |60%
+||Hörverstehen                 |60,0   |75   |80%
+||Schriftlicher Ausdruck       |39,0   |45   |87%
+2+|Mündliche Prüfung           |*75,0* |*75* |*100%*
+||Kontaktaufnahme              |15,0   |15   |100%
+||Gespräch über ein Thema      |30,0   |30   |100%
+||Gemeinsam eine Aufgabe lösen |30,0   |30   |100%
+2+|*Summe*                     |*259,5*|*300*|*87%*
+5+|
+4+|*Prädikat*                                |*Gut*
+4+|Datum der Prüfung                         |30.01.2015
+4+|Teilnehmernummer                          |0152900
+4+|Datum der Ausstellung                     |11.02.2015
+|==========================
 
 == [[20150214,20150214]]20150214 - Fingertip resources
 
@@ -63,78 +65,49 @@ http://ykidata.solki.jyu.fi/yki_demo/index.php?page=yki&kieli=suomi[Yleisten kie
 
 == [[20150208,20150208]]20150208 - 汉语上课
 
-Rachel: 你好 +
-Ursula: nihao3 +
-Rachel: 午饭 +
-Rachel: lunch？ +
-Rachel: 早饭 +
-Rachel: zao3 fan4 +
-Rachel: wang3 zhan4 +
-Rachel: website +
-Rachel: 搜狗 +
-Rachel: sou1 gou3 +
-Rachel: bo2 ke4 +
-Rachel: 博客 +
-Ursula: Hungary +
-Rachel: 匈牙利 +
-Rachel: xiong1 ya2 li4 +
-Rachel: wen2 +
-Rachel: zhao4 pian4 +
-Rachel: 照片 +
-Rachel: 笔记本 +
-Rachel: bi3 ji4 ben3 +
-Rachel: zhao3 dao4 le +
-Rachel: 找到了 +
-Ursula sent file 20150205-汉语练习.jpg. +
-Rachel: 小时 +
-Rachel: xiao3 shi2 +
-Rachel: yuan3 +
-Rachel: far +
-Rachel: 放松 +
-Rachel: fang4 song1 +
-Rachel: xiao3 de shi2 hou4 +
-Rachel: 小的时候 +
-Rachel: when was young +
-Rachel: I +
-Rachel: 日记 +
-Rachel: ri4 ji4 +
-Rachel: zhi3 +
-Rachel: 纸 +
-Rachel: 丢 +
-Rachel: diu1 +
-Rachel: lose +
-Rachel: 扔 +
-Rachel: reng1 +
-Rachel: huai4 xin1 qing2 +
-Rachel: 坏心情 +
-Rachel: 语法 +
-Ursula: http://www.learnnc.org/lp/editions/mandarin2/4908 +
-Rachel: chen4 shan1 +
-Rachel: 衬衫 +
-Rachel: wang3 shang4 +
-Rachel: gong1 yuan2 +
-Rachel: 公园 +
-Rachel: 都 dou1 +
-Rachel: all, both +
-Rachel: wang3 ye4 +
-Rachel: wang3 zhan4 +
-Rachel: 网站 +
-Rachel: website +
-Rachel: 有优惠 +
-Rachel: 作业 +
-Rachel: zuo4 ye4 +
-Rachel: wo3 cuo4 guo4 le qu4 gong1 si1 de huo3 che1 +
-Rachel: yin1 yue4 +
-Rachel: 音乐 +
-Rachel: 商店 +
-Rachel: shang1 dian4 +
-Rachel: huan1 ying2  guang1 lin2 +
-Rachel: xie4 xie4 guang1 lin2 +
-Rachel: 欢迎光临 +
-Rachel: 谢谢光临 +
-Rachel: 紫色 +
-Rachel: zi3 se4 +
-Rachel, duration 01:00:32.
+Rachel and Ursula speak Mandarin via Skype, and cover parts of the lesson at http://www.learnnc.org/lp/editions/mandarin2/4908.
+
+[subs="quotes"]
++++++++++++++++
+<iframe width="99%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192290042&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
++++++++++++++++
+
+|==========================
+|你好|ni3hao3|hello
+|午饭|wu3fan4|lunch
+|早饭|zao3fan4|breakfast
+|网站|wang3zhan4|website
+|搜狗|sou1gou3|search engine
+|博客|bo2ke4|blog
+|匈牙利|xiong1ya2li4|Hungary
+|照片|zhao4pian4|picture; photograph
+|笔记本|bi3ji4ben3|notebook
+|找到了|zhao3dao4le|to find (found)
+|练习|lian4xi2|practice
+|小时|xiao3shi2|hour; time
+|远|yuan3|far
+|放松|fang4song1|to relax
+|小的时候|xiao3deshi2hou4|when (I) was young
+|日记|ri4ji4|diary; journal
+|纸|zhi3|paper
+|丢|diu1|to lose
+|扔|reng1|to throw away
+|坏心情|huai4xin1qing2|to be in a bad mood
+|语法|yu3fa3|grammar
+|衬衫|chen4shan1|blouse
+|公园|gong1yuan2|park
+|都|dou1|all; both
+|网页|wang3ye4|web page
+|网站|wang3zhan4|web site
+|有优惠|you3 you1hui4|to have a preference
+|作业|zuo4ye4|homework
+|我错过了公司的货车。|wo3 cuo4guo4le qu4gong1si1de huo4che1|I missed the company van.
+|音乐|yin1yue4|music
+|商店|shang1dian4|store
+|欢迎光临|huan1ying2|guang1lin2
+|谢谢光临|xie4xie4|guang1lin2
+|紫色|zi3se4|purple
+|==========================
 
 == [[20150207,20150207]]20150207 - A kalap divatos
 

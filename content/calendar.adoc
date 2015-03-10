@@ -1,0 +1,12 @@
+= Language-learning calendar
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+[subs="quotes"]
++++++++++++++++
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=2&amp;hl=zh_CN&amp;bgcolor=%23333333&amp;src=1in20ovseeku0ljgtpq3hrunrc%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FBerlin" style=" border:solid 0px #f26522 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
++++++++++++++++
+
+'''
+Last updated: {docdatetime}

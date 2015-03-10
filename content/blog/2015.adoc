@@ -7,7 +7,7 @@ Author: _{author}_
 
 When the brain rolls around in thought, why not just wake up and let it do its thing. Sometimes writing in one's native language is just what one needs.
 
-I have so many project ideas that all involve time. The biggest one as of late is writing for people who have never programmed before. Typically, technical content pushes out entire populations because the writer assumes&mdash;rightfully so in many cases&mdash;that the reader is already familiar with programming. An experienced programmer can do the necessary research required to gain further insight. However, it is far harder for a learner who is inexperienced with the subject to weather uneven levels of technical depth. Technical writers ask questions that make programmers think. That way, uneven technical depth that results from blind spots can be evened out. 
+I have so many project ideas that all involve time. The biggest one as of late is writing for people who have never programmed before. Typically, technical content pushes out entire populations because the writer assumes&mdash;rightfully so in many cases&mdash;that the reader is already familiar with programming. An experienced programmer can do the necessary research required to gain further insight. However, it is far harder for a learner who is inexperienced with the subject to weather uneven levels of technical depth. Technical writers ask provocative questions of programmers for the purpose of leveling the technical depth of documentation.
 
 [subs="quotes"]
 +++++++++++++++

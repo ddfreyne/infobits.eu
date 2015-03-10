@@ -3,6 +3,21 @@ Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
 
+== [[20150310,20150310]]20150310 - Waking up too early
+
+When the brain rolls around in thought, why not just wake up and let it do its thing. Sometimes writing in one's native language is just what one needs.
+
+I have so many project ideas that all involve time. The biggest one as of late is writing for people who have never programmed before. Typically, technical content pushes out entire populations because the writer assumes&mdash;rightfully so in many cases&mdash;that the reader is already familiar with programming. Any experienced programmer(, developer, or engineer) can do the necessary research required to gain further insight. It is far harder for a learner who is inexperienced with the subject to weather uneven levels of technical depth. The reason that technical writers dig and make you think is because this is one of your blind spots.
+
+[subs="quotes"]
++++++++++++++++
+<!-- Place this tag in your head or just before your close body tag. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/100268597725268324090/posts/ecPmkMQNuC8"></div>
++++++++++++++++
+
 == [[20150218,20150218]]20150218 - Ein leckeres Bier
 
 Ich möchte ein leckeres belgisches Bier. Aufgrund der Tatsache, dass ich keinen Alkohol im Februar trinke, muss ich bis nach dem 1. März warten, bevor ich Bier trinken.

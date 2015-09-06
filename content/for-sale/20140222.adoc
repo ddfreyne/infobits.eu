@@ -17,6 +17,3 @@ park in Berlin?
 - http://www.strongfirst.com/product/strongfirst-kettlebell-20kg[20kg kettlebell] - 40 €
 
 Come and pick it/them up; shipping is not available.
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

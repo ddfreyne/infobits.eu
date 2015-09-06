@@ -20,6 +20,3 @@ link:../en-resources/[English resources] page.
 
 "Our goal [is] to minimize the amount of personal style we impose upon our ... writing to better communicate the intent of the material." +
 &mdash; Langevin Learning Services
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

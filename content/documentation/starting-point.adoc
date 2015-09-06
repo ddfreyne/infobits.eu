@@ -36,6 +36,3 @@ are useful for getting information out of your head:
 * What is the schedule of **revisions**? For example, the hiring
   criteria will be re-evaluated and the documentation revised on a six-month
   cycle.
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

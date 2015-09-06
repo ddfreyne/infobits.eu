@@ -22,4 +22,4 @@ link:../en-resources/[English resources] page.
 &mdash; Langevin Learning Services
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

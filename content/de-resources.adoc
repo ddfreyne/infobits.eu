@@ -73,4 +73,4 @@ Author: _{author}_
 * http://gzsz.rtl.de/cms/home.html[Gute Zeiten | Schlechte Zeite]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

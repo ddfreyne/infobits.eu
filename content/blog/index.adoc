@@ -1,4 +1,4 @@
-= tanoni: tan(ulni) + o(ppia) + (-; )ni
+= Blog
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
@@ -14,4 +14,4 @@ Get it down on paper. With that aim, the topics are stand-alone bits of informat
 == link:2012[2012]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

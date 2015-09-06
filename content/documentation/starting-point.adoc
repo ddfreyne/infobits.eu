@@ -38,4 +38,4 @@ are useful for getting information out of your head:
   cycle.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

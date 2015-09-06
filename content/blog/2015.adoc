@@ -1,7 +1,16 @@
-= tanoni
+= Blog 
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
+
+== [[20150906,20150906]]20150906 - Write the Docs
+
+It's rainy this morning in Berlin, and I cannot remember if I have had one or two cups of coffee. That is likely an indication that I need more coffee. It's been quite a while since I have written a blog entry and have had some time to think while traveling. I attended the http://www.writethedocs.org/conf/eu/2015/schedule/[Write the Docs] 2015 conference in Prague (https://twitter.com/writethedocs[and via Twitter]) last week. If you are a technical writer, software or hardware engineer, in community support, design UIs, test software, or are curious, I recommend it highly enough to say I'd attend again.
+
++++++++++++++++
+<blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://instagram.com/p/7BbPIJRhVb/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_top">A photo posted by Ursula Kallio (@ursulakallio)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-08-30T21:16:31+00:00">Aug 30, 2015 at 2:16pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
++++++++++++++++
 
 == [[20150310,20150310]]20150310 - Waking up too early
 
@@ -160,4 +169,4 @@ image:/images/binder-clip-flashcard-necklace.jpg[Binder-clip, flashcard necklace
 The small notebook behind the flashcards is there for writing sentences that contain the target vocabulary. By doing so, it is possible to rip off small sheets and leave them on co-workers' desks for correction if they are not there. If you are on a tram or a train, new words can hardly be easier to access. Yes, link:http://en.wikipedia.org/wiki/Spaced_repetition[spaced-repetition] software (SRS). I prefer to write with a fountain pen on high-quality paper before entering vocabulary into an online SRS system such as link:http://memrise.com[memrise].
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

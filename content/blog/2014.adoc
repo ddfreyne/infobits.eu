@@ -1,4 +1,4 @@
-= tanoni
+= Blog 
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
@@ -191,4 +191,4 @@ Brandenburg station for hot dogs, currywurst, pommes, und Bier.
 Bis nächste Wochenende!
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

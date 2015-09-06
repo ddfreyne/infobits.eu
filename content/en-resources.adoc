@@ -94,4 +94,4 @@ tickets, magazines, and novels.
 * http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary of linguistic terms]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

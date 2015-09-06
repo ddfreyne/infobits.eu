@@ -13,4 +13,4 @@ generator that was developed by Denis Defreyne and which is actively
 maintained.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

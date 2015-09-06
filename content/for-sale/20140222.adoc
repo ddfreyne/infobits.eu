@@ -19,4 +19,4 @@ park in Berlin?
 Come and pick it/them up; shipping is not available.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

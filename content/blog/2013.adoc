@@ -1,4 +1,4 @@
-= tanoni
+= Blog 
 Ursula Kallio <ursula.kallio@gmail.com>
 v1.0
 Author: _{author}_
@@ -292,4 +292,4 @@ you type _aw_ + _are_ because _are_ is a common term. OK, I figured something
 out today.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

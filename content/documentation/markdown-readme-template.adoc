@@ -103,4 +103,4 @@ THE SOFTWARE.
 ...............................................................................
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

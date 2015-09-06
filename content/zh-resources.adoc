@@ -48,4 +48,4 @@ Mike] (on http://www.youtube.com/user/ShermerIL/playlists[YouTube]).
 	test information]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

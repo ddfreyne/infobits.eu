@@ -103,4 +103,4 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv/examples[Templates of CVs and cover letters]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

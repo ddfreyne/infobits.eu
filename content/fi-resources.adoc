@@ -7,4 +7,4 @@ See the http://thinkinfinnish.com[Thinkin' Finnish? Think, in Finnish! (TiF)]
 project.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

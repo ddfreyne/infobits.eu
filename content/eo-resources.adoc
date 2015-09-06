@@ -9,4 +9,4 @@ See the following resources:
 * link:http://blogs.transparent.com/esperanto/how-to-get-started-with-esperanto[How to get started with Esperanto] by Chuck Smith
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

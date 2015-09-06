@@ -9,4 +9,4 @@ Author: _{author}_
 * https://www.goodreads.com/review/list/35950890-ursula-kallio?shelf=hungarian[Personal recommendations] via https://www.goodreads.com/review/list/35950890-ursula-kallio?shelf=hungarian[http://goodreads.com]
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

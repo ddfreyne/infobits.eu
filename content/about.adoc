@@ -11,4 +11,4 @@ needs with shopkeepers and restaurant staff.
 Tip: link:../exercise[Exercise] keeps the mind sharp.
 
 '''
-Last updated: {docdatetime}
+Last updated: {docdatetime} by using `nanoc deploy --target public`

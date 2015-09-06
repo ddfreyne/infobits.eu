@@ -17,6 +17,3 @@ Author: _{author}_
 == See also
 
 * http://diplomas.cervantes.es[Diplomas de Español como Lengua Extranjera (DELE) del Instituto Cervantes]
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

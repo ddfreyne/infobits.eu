@@ -92,6 +92,3 @@ tickets, magazines, and novels.
 * link:../documentation/style-guide[Infobits documentation style guide]
 * http://ipa.typeit.org[Type IPA]
 * http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/contents.htm[Glossary of linguistic terms]
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

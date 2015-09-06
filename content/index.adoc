@@ -9,8 +9,4 @@ Author: _{author}_
 rùkǒu
 
 The site is built using http://nanoc.ws[nanoc], which is a static-site
-generator that was developed by Denis Defreyne and which is actively
-maintained.
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`
+generator that was developed by Denis Defreyne who actively maintains it.

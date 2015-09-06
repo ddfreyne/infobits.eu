@@ -46,6 +46,3 @@ Mike] (on http://www.youtube.com/user/ShermerIL/playlists[YouTube]).
 	Shanghai-based linguist John Pasden]
 * http://en.wikipedia.org/wiki/HSK_test[HSK (Hànyǔ Shuǐpíng Kǎoshì | 汉语 水平 考试)
 	test information]
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

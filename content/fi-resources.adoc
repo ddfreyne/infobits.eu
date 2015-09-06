@@ -5,6 +5,3 @@ Author: _{author}_
 
 See the http://thinkinfinnish.com[Thinkin' Finnish? Think, in Finnish! (TiF)]
 project.
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

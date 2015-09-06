@@ -290,6 +290,3 @@ For some reason, the word _aware_ is difficult to type because all of the
 letters are clustered together on an English keyboard. Typing becomes easier if
 you type _aw_ + _are_ because _are_ is a common term. OK, I figured something
 out today.
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

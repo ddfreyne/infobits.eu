@@ -189,6 +189,3 @@ Surprisingly, no permanent damage all around to be had. We roll into the
 Brandenburg station for hot dogs, currywurst, pommes, und Bier.
 
 Bis nächste Wochenende!
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

@@ -101,6 +101,3 @@ The following resources are not meant to be exhaustive; they are useful sources 
 * http://creativecommons.org/licenses/by-sa/3.0[Creative commons]
 * http://svnbook.red-bean.com/en/1.4/index.html[Version control with Subversion]
 * http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv/examples[Templates of CVs and cover letters]
-
-'''
-Last updated: {docdatetime} by using `nanoc deploy --target public`

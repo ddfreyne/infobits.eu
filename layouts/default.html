@@ -9,10 +9,11 @@
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>">
-  </head>
+    </head>
   <body>
-      <div id="sidebar">
-      <h2><a href="/">infobits.eu</a></h2> <!-- / is the root directory, which is useful is you are reading this site offline -->
+    <div id="sidebar">
+      <h2><a href="/">infobits.eu</a></h2>
+      <!-- / is the root directory, which is useful is you are reading this site offline -->
       <ul>
         <li>Language resources:</li>
         <li><a href="/en-resources">English (English)</a></li>
@@ -21,16 +22,20 @@
         <li><a href="/fi-resources">suomi (Finnish)</a></li>
         <li><a href="/zh-resources">汉语 (Mandarin)</a></li>
         <li><a href="/es-resources">español (Spanish)</a></li>
-        <!-- <li><a href="/eo-resources">Esperanto (Esperanto)</a></li> -->
       </ul>
     </div>
     <div id="main">
       <%= yield %>
     </div>
     <div id="footer">
-    <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" /></a><br />Except where otherwise noted, content on this site by Ursula Kallio is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</a> license.</p>
-    <!-- Refer to http://ruby-doc.org/core-2.2.0/Time.html#method-i-strftime: -->
-    <p>This page was last updated on <%= @item[:mtime].strftime('%B %d, %Y at %H:%M %z') %>.</p>
+      <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img
+            alt="Creative Commons License" style="border-width:0"
+            src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" /></a><br />Except where
+        otherwise noted, content on this site by Ursula Kallio is licensed under the <a
+          rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative
+          Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</a> license.</p>
+      <!-- Refer to http://ruby-doc.org/core-2.2.0/Time.html#method-i-strftime: -->
+      <p>This page was last updated on <%= @item[:mtime].strftime('%B %d, %Y at %H:%M %z') %>.</p>
     </div>
   </body>
 </html>

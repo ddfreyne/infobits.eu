@@ -5,6 +5,6 @@ Author: _{author}_
 
 Get it down on paper. With that aim, the topics are stand-alone bits of information. It is by chance that some topics relate to each other. Posts are in English, Finnish, German, Mandarin, Hungarian, and whatever language I am learning at the time.
 
-== link:2015[2015] link:2014[2014] link:2013[2013] link:2012[2012]
+== link:2016[2016] link:2015[2015] link:2014[2014] link:2013[2013] link:2012[2012]
 
 To deploy the site, use the command `nanoc deploy --target public`.

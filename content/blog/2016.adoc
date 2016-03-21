@@ -1,0 +1,32 @@
+= Blog 
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== [[20160321b,20160321b]]20160321b - Use Signal
+
+Thankfully, I am also using Signal for SMS messages over WiFi. I have removed
+the SIM card from my phone because I made too many attempts to unlock the SIM
+and blocked it.
+
+When I unlock the SIM back in Berlin, I will remove the protection because it
+only serves to annoy me thus far.
+
+Another thing that I observed is that if I were in a situation where I needed
+to send a "lost" email to my employer, I would not be able to due to the Great
+Firewall. Will need to follow up with the security team about that observation
+when I return home. To be clear, there is no need for me to contact them, and
+this thought merely came to mind.
+
+== [[20160321a,20160321a]]20160321a - In 北京 with limited Internet access
+
+Access to the Internet is what it is in China. I have no direct access to
+Google, GitHub, Instagram, Twitter, etc. This means that I cannot message
+anyone directly via such means nor access redundant means of contact.
+Therefore, here you go via Infobits. Also, I am using one hand to type so that
+slows things down further. I have been taking images of food and can share more later.
+
+Hello to all the friends whom I message on a regular basis.
+
+Special thanks (again) to Denis for writing software that I can use to `ssh`
+content under such restricted circumstances.

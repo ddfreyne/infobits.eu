@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="15.2">
+<project version="17.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized version="17.1" xml:space="preserve">
+                <map>
+                    <entry>
+                        <String>encoding_errors_handling</String>
+                        <Integer>2</Integer>
+                    </entry>
+                    <entry>
+                        <String>key.encoding.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </map>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="style-guide.xpr">
         <file name="../conref.ent"/>

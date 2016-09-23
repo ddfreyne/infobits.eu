@@ -289,6 +289,15 @@ div#rukou-pinyin p {
   color:#f26522;
 }
 
+blockquote {
+  padding-left: 5%;
+}
+
+div.attribution {
+  padding-left: 5%;
+  padding-bottom: 15px;
+}
+
 #footer {
   clear:left;
   border-top:1px solid #ccc;

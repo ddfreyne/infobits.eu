@@ -1,0 +1,57 @@
+= Ursula Kallio user guide
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+* My values
+* My style
+* When to approach me
+* How to communicate with me
+* How to help me
+
+This is a guide to help you understand who I am. My Myers-Briggs profile is https://www.16personalities.com/intp-personality[INTP (-t)]. Hopefully this gives you some insight about what motivates me, how I communicate, what you can expect of me, and what I might expect of others.
+
+== My values
+
+I value straightforwardness, learning, creativity, small business owners, and giving (and hearing others give) credit to those who have helped a project or product get to where it is today.
+
+[quote, Ursula Kallio]
+_____________________________________________________________________________
+Thank you, Dean (my-soon-to-be-former manager), for sharing the idea of writing such a guide, and for providing a starting point.
+_____________________________________________________________________________
+
+== My style
+
+I am a lifelong learner who has a thirst for expanding my mind over the long haul. I get energy from quiet spaces and moments where I have room and time to think.
+
+I have a high preference for written communication, especially when information needs to be shared, transferred, and possibly re-used or referred to in the future. I have low patience for redundant information, and if it can be written down so I can read it at my convenience, great.
+
+Interrupt-driven environments drain me quickly, and therefore you will find me wearing noise-cancelling headphones much of the time in such environments. For the same reason, I almost always carry earplugs. I am a http://hsperson.com[highly-sensitive person] who manages anxiety. The main ways that I do that are by reducing levels of http://www.nytimes.com/2012/07/20/nyregion/in-new-york-city-indoor-noise-goes-unabated.html[over stimulation] and by writing using physical materials.
+
+== When to approach me
+
+When I am not deep in thought.
+
+For the sake of human connection, I’m happy to be your https://en.wikipedia.org/wiki/Rubber_duck_debugging[rubber ducky] from time to time as long as you have some form of one that you can use. I enjoy talking through problems and am good at spotting seemingly unrelated connections just about anywhere.
+
+== How to communicate with me
+I find Slack to be highly interrupt-driven, and as a result distracting and frustrating. I make myself available to Slack at moments throughout the day rather than lurking there actively.
+
+* Listen. Often times body language will do rather than words.
+* As an American, I too tire of the question, "How are you?" Ask it in earnest if you must.
+* Unless I hear otherwise, I assume no action or change of course is required of me.
+* When scheduling a meeting, communicate via Google calendar.
+* When commenting on or approving a code change, communicate via a PR.
+* Use plain language that is unambiguous; made-up managerial speak tunes me out.
+* If you want feedback, be as specific as possible so I know where to focus my energy.
+* In technical situations where you regard your investment as high, push back when you think that a decision should go another way. Use data to make your point.
+* Often, I need time to think. Allow me to follow up about a topic if time is not of the essence.
+* If I am providing too many details, tell me; if you need more details, ask me.
+
+== How to help me
+
+* Eliminate excitement for excitement’s sake; emotionally charged conversations drain me.
+* If feedback gets stale because too much time has passed, I tend to disregard it; give me timely, constructive feedback that focuses on my (in)actions rather than my character.
+* Set and communicate your own goals and milestones when none are provided.
+* Communicate issues promptly to provide as much response time as possible.
+* Follow up with me if you suspect that something has fallen off my radar.

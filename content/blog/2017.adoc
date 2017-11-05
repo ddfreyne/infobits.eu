@@ -1,0 +1,8 @@
+= Blog 
+Ursula Kallio <ursula.kallio@gmail.com>
+v1.0
+Author: _{author}_
+
+== [[Long time no see,2017-11-05]]2017-11-05 - Long time no see
+
+It’s been a long time since I have written a blog post, and it’s mainly because I have used a pen and paper. That, and the innundation of news and other digital input has been attention consumming.

@@ -6,13 +6,15 @@ deploy:
 prune:
   auto_prune: true
 
+string_pattern_type: glob 
 data_sources:
   -
     type: filesystem_unified
   -
-    type: static
+    type: filesystem
+    indentifier_type: full
     prefix: content_verbatim
     items_root: /verbatim
 
 text_extensions: ['css', 'html', 'adoc', 'txt']
-
+enable_output_diff: true

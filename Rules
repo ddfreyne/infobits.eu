@@ -21,7 +21,7 @@ compile '/verbatim/' do
   # don’t filter or layout
 end
 
-compile '*' do
+compile '**/*' do
   if item.binary?
     # don’t filter binary items
   else
@@ -39,19 +39,19 @@ route '/stylesheet/' do
   '/style.css'
 end
 
-route '/verbatim/dita/webhelp/*' do
+route '/verbatim/dita/webhelp/**/*' do
   # /about.md/ -> /about.md
   #
   item.identifier.chop.sub(/\/verbatim\/dita\/webhelp/, '/doc')
 end
 
-route '/verbatim/*' do
+route '/verbatim/**/*' do
   # /about.md/ -> /about.md
   #
   item.identifier.chop
 end
 
-route '*' do
+route '**/*' do
   if item.binary?
     # Write item with identifier /foo/ to /foo.ext
     item.identifier.chop + '.' + item[:extension]
@@ -61,4 +61,4 @@ route '*' do
   end
 end
 
-layout '*', :erb
+layout '**/*', :erb
